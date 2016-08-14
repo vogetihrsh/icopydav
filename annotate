@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SOURCEDIR=$(dirname $(readlink -f $0));
-bedTools="/home1/ngs/harsha/bedtools2-2.26.0/bin/bedtools"
+bedTools="bedtools"
 annDir=$SOURCEDIR"/annotations";
 inputFlag=0;
 
