@@ -1,0 +1,72 @@
+#!/bin/bash
+
+SOURCEDIR=$(dirname $(readlink -f $0));
+bedTools="/home1/ngs/harsha/bedtools2-2.26.0/bin/bedtools"
+annDir=$SOURCEDIR"/annotations";
+inputFlag=0;
+
+SHORTOPTS="i:o:"
+LONGOPTS="hg18,hg19,genome:,annDir:,help"
+PROGNAME="annotate"
+ARGS=$(getopt -s bash --options $SHORTOPTS  --longoptions $LONGOPTS --name $PROGNAME -- "$@" )
+eval set -- "$ARGS"
+
+function annotate {
+	awk -v DELTA=$2 -v OFS='\t' '{print $1,$2-DELTA,$3+DELTA}' $annFile > $annFile"_temp.bed";
+	numLines=$(wc -l $annFile"_temp.bed"| awk '{print $1}');
+	for i in `seq 1 $numLines`
+	do
+		sed -n $i","$i"p" $annFile"_temp.bed" > $oneLineFile;
+		$bedTools intersect -a $oneLineFile -b $1 -loj -sorted -g $chrInfoFile >$tempFile
+		$bedTools merge -i $tempFile -c $3 -o distinct >> $newFile
+	done
+	paste $newFile $annFile | awk -v OFS='\t' -v ORS='\t' '{for(i=5;i<=NF;i++)print $i;print $4;printf "\n";}' > $annFile"_temp.bed";
+	mv $annFile"_temp.bed" $annFile
+	rm -rf $oneLineFile $newFile $tempFile 
+
+}
+
+
+while true; do
+	case "$1" in
+	   -i) inputFile="$2"; inputFlag=1; shift 2;;
+	   -o) outputPrefix="$2"; outputFlag=1; shift 2;;
+	   --annDir) geneFile="$2"; shift 2;;
+	   --hg18) genome="hg18"; genomeFlag=1; shift ;;
+	   --hg19) genome="hg19"; genomeFlag=1; shift ;;
+	   --genome) genome="$2"; genomeFlag=1; shift 2 ;;
+	   --help) echo "Usage: annotate -i <input bed> -o <output prefix> <genome flag>"
+	   	   echo "Please go through ReadMe for futher help"; exit 1 ;;
+	   --) shift; break;;
+           *) echo "Internal Error!"; exit 1;;
+	esac
+ done
+
+if [[ $inputFlag -eq 0 || $genomeFlag -eq 0 || $outputFlag -eq 0 ]]; then
+	echo "One or more required paramters is/are missing">&2;
+	exit 1;
+elif [[ ! -f $inputFile ]]; then
+	echo "Error: $inputFile not found!" >&2;
+	exit 1;
+fi
+
+chrInfoFile=$annDir"/"$genome"ChrInfo.txt";
+geneList=$annDir"/"$genome".bed";
+locFile=$annDir"/"$genome"LocInfo.bed";
+dgvFile=$annDir"/"$genome"DGV.bed";
+
+tempFile=$inputFile"_temp"
+oneLineFile=$inputFile"_1.bed"
+newFile=$inputFile"_new"
+annFile=$outputPrefix"_annotated.bed"
+
+rm -rf $newFile $tempFile $annFile
+cp $inputFile $annFile
+
+annotate $geneList 5000 8
+if [[ -f $locFile ]]; then
+	annotate $locFile 0 7
+fi
+if [[ -f $dgvFile ]]; then
+	annotate $dgvFile 0 7
+fi

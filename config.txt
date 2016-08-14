@@ -1,0 +1,11 @@
+#These are comments
+# Minimum window size allowed
+#  You can comment any parameter by adding '#' before it. For default values
+#  of parameters please through the README.md
+minSize=100
+genomeSize=10000000
+percCNLoss=0.05
+percCNGain=0.05
+fdr=0.01
+overDispersion=3
+ploidy=2

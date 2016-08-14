@@ -1,0 +1,64 @@
+#!/bin/bash
+configFile=""
+inputFile=""
+cflag=0;
+iflag=0;
+
+# default values
+# values can be changed in the config file
+# genomesize required 
+numReads=0;
+fdr=0.05;
+percCNLoss=0.05;
+percCNGain=0.05;
+minsize=100;
+overDispersion=3;
+genomeSize=0;
+SOURCEDIR=$(dirname $(readlink -f $0));
+
+SHORTOPTS="c:i:"
+LONGOPTS="help"
+PROGNAME="calOptBinSize"
+ARGS=$(getopt -s bash --options $SHORTOPTS  --longoptions $LONGOPTS --name $PROGNAME -- "$@" )
+eval set -- "$ARGS"
+while true; do
+	case "$1" in 
+	-c) configFile="$2";cflag=1; shift 2;;
+	-i) inputFile="$2"; iflag=1; shift 2 ;;
+	--help) echo "Usage: calOptBinsize -c <config file> -i <input BAM>"; exit 1; shift; ;;
+	--) shift; break ;;
+	\?) echo "Invalid option: -$1" >& 2 exit ;;
+	esac 
+done
+if [[ $cflag -eq 0 || $iflag -eq 0 ]]; then
+	echo "Error: -c or -i paramter missing. Use --help to know more." >&2
+	exit
+elif [[ ! -f "$configFile" ]]; then 
+	echo "Error: Config File:"$configFile" not found";
+	exit 1;
+elif [[ $iflag -eq 0 ]]; then
+	echo "Error: Input BAM file missing" ;
+	exit;
+else
+	tr -d '\r' < $configFile > $inputFile".temp"
+		while IFS='= ' read lhs rhs
+		do
+			if [[ ! $lhs =~ ^\ *'#' && -n $lhs ]]; then
+				rhs="${rhs%%\#*}"    # Del in line right comments
+				rhs="${rhs%%*( )}"   # Del trailing spaces
+				rhs="${rhs%\"*}"     # Del opening string quotes 
+				rhs="${rhs#\"*}"     # Del closing string quotes 
+				declare $lhs="$rhs"
+			fi
+		done < $inputFile".temp"
+		rm -rf $inputFile".temp"
+fi
+numReads=$(samtools flagstat $inputFile | head -1 |awk '{print $1+$3}');
+if [[ $genomeSize -le 0 ]]; then 
+	echo "genomeSize: Parameter Missing or may not have a permitted value" >&2
+	exit 1
+elif [[ $numReads -eq 0 ]]; then
+	echo "Failed to calculate num of reads from input BAM File" >&2
+	exit 1
+fi	
+Rscript $SOURCEDIR"/source/R/calWindowSize.R" $numReads $genomeSize $fdr $minsize $percCNLoss $percCNGain $overDispersion $ploidy 
