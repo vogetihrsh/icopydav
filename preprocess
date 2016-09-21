@@ -21,10 +21,18 @@ window_file=""; 	# BED FILE CONTAINING WINDOWS && required
 output="";      	# OUTPUT PREFIX && MANDATORY PARAMETER
 mapThres=0.5;		# mappability threshold
 
-yoonFlag=0;		# flag for yoon et al method (GC-correction)
+# Flags used
+YOONGCFLAG=0;		# flag for yoon et al method (GC-correction)
+YOONMAPFLAG=0;		# flag for yoon et al method (Mappability correction)
 gcFlag=0;
-SOURCEDIR=$(dirname $(readlink -f $0)); # SOURCE DIRECTORY 
 
+# constants to be used 
+SOURCEDIR=$(dirname $(readlink -f $0)); # SOURCE DIRECTORY 
+randomString=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 32 | head -n 1)
+
+
+# function to correct gc-bias corrected read depths using Yoon et al method 
+# uses external R script 
 function runYoonGCcorrection() {
 	awk '{print $1}' $1 > $1"_GC"
 	paste $1"_GC" $2 > $output"_GC"
@@ -34,13 +42,28 @@ function runYoonGCcorrection() {
 	rm $1"_GC";
 
 }
+
+
+# Function to correct mappability using Yoon et al method
+# Similar to above function
+# Instead of GC score , mappability score is passed. 
+function runYoonMapCorrection(){
+	
+	awk '{print $1,$3}' $1 > $randomString"_map_rawRead.input"
+	Rscript --slave $SOURCEDIR"/source/R/gcCorrectionYoon.R" $randomString"_map_rawRead.input" > $randomString"_map_rawRead.output";
+	awk '{print $2,$3,$4,$5}' $1 | paste $randomString"_map_rawRead.output" - >$randomString"_temp.txt"
+	mv $randomString"_temp.txt" $1
+	rm -rf $randomString"_map_rawRead.input" $randomString"_map_rawRead.output"
+
+}
+
 #***************************************#
 #	READ OPTIONS FROM CMD 		#
 #	AND SET PARAMETERS		#
 #***************************************#
 
 SHORTOPTS="ybp:i:o:m:z:"
-LONGOPTS="gcfile:,mapThres:,help"
+LONGOPTS="gcfile:,mapThres:,help,yoonGC,yoonMap"
 PROGNAME="preprocess.sh"
 ARGS=$(getopt -s bash --options $SHORTOPTS  --longoptions $LONGOPTS --name $PROGNAME -- "$@" ) 
 
@@ -52,11 +75,13 @@ while true; do
 	-o) output="$2"; shift 2;;
 	-m) mappability_file="$2"; shift 2;;
 	-z) window_file="$2"; shift 2;;
-	-y) yoonFlag=1; shift ;;
+	-y) YOONGCFLAG=1; YOONMAPFLAG=1; shift ;;
 	--gcfile) gcFile="$2"; gcFlag=1; shift 2; ;;
 	--help) echo "Usage: preprocess -i <input BAM> -o <output Prefix> -m <mappability file> -z <bin file>";
 		exit 1; ;;
-	--mapThres) mapThres="$2" ; shift 2; ;; 
+	--mapThres) mapThres="$2" ; shift 2; ;;
+	--yoonGC) YOONGCFLAG=1; shift ;; 
+	--yoonMap) YOONMAPFLAG=1; shift ;; 
 	--) shift; break;;
 	*) echo "Error: Something wrong with the parameters"; 
 	echo "Requred parameters: -i -o -m -z "; exit 1;;
@@ -76,7 +101,7 @@ if [[ ! -f $window_file || ! -f $input_file || ! -f $mappability_file ]]; then
 	echo "One of the input files not found" >&2
 	exit 1
 fi
-if [[ $yoonFlag -eq 1 ]]; then 
+if [[ $YOONGCFLAG -eq 1 ]]; then 
 	if [[ $gcFlag -eq 1 ]];then
 		gcFlag=1;
 	else
@@ -91,23 +116,32 @@ fi
 #***********************************************#
 
 # DATA PREPARATION AND FILTERING 
-samtools view -@ 4 -q 1 -bh $input_file > $output"_temp1.bam";
-bedtools coverage -abam $output"_temp1.bam" -b $window_file > $output"_temp1.bed";
-rm -rf $output"_reads.bed";
+samtools view -@ 4 -q 1 -bh $input_file | bedtools bamtobed -i - > $output"_temp.bed";
+#bedtools bamtobed -i $output"_temp1.bam" > $output"_temp.bed"
+
+bedtools coverage -b $output"_temp.bed" -a $window_file > $output"_temp1.bed";
+rm -rf $output"_temp.bed";
 
 sort -n -k2 $output"_temp1.bed" -o $output"_temp1.bed";
 paste $output"_temp1.bed" $mappability_file > $output"_temp2";
 mv $output"_temp2" $output"_temp1.bed";
 awk '{print $4,$5,$8,$2,$3}' $output"_temp1.bed"> $output"_temp1";
 
+
 # check for gc correction, if yes correct it 
-if [[ $yoonFlag -eq 1 ]]; then
+if [[ $YOONGCFLAG -eq 1 ]]; then
 	runYoonGCcorrection $output"_temp1" $gcFile;
 fi
 
+# check for mappability correction, if yes correct it 
+if [[ $YOONMAPFLAG -eq 1 ]]; then
+	runYoonMapCorrection $output"_temp1" $gcFile;
+fi
+
+
 awk -v mapThres="$mapThres" '{if($1!=0&&$2!=0&&$3>=mapThres) print $1;}' $output"_temp1" > $output"_pCNVD.input";
 awk -v mapThres="$mapThres" '{if($1!=0&&$2!=0&&$3>=mapThres)print $4,$5;}' $output"_temp1" > $output"_pCNVD.bincor"; 
-rm -rf $output"_temp1.bed" $output"_temp1.bam" $output"_temp1";
+rm -rf $output"_temp1.bed" $output"_temp1";
 
 
 # check for gc correction flag and run external R script 
