@@ -77,6 +77,9 @@ Preprocess, runSegmentation, callCNV should have same value for the parameter -o
 |-m | Yes/STRING | File contaning mappability values ([0,1]) of bins present in the file passed as value to -z. | Required |
 |-p | Yes/INTEGER | Default Value: 32. Number of processes to be created for parallelization. | Optional |
 | - -help | No/-  | Prints usage statement. Should be exclusively used. | Optional |
+|-y| No/- | When used Yoon et al. method for GC correction and mappability correction is applied to the data| Optional|
+|--yoonGC| No/-|Use Yoon et al method for GC correction | Optional|
+|--yoonMap| No/-|Use Yoon et al method for Mappability correction | Optional|
 
 ### runSegmentation
 | FLAG  |REQUIRES VALUE/TYPE  |DESCRIPTION  | OPTIONAL/REQUIRED |
