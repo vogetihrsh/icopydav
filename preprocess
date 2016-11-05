@@ -24,7 +24,9 @@ mapThres=0.5;		# mappability threshold
 # Flags used
 YOONGCFLAG=0;		# flag for yoon et al method (GC-correction)
 YOONMAPFLAG=0;		# flag for yoon et al method (Mappability correction)
+LOESSGCFLAG=0;		# flag for loess GC correction method
 gcFlag=0;
+
 
 # constants to be used 
 SOURCEDIR=$(dirname $(readlink -f $0)); # SOURCE DIRECTORY 
@@ -40,7 +42,16 @@ function runYoonGCcorrection() {
 	awk '{print $2,$3,$4,$5}' $1 | paste $1"_GC" - >$output"_GC"
 	mv $output"_GC" $1
 	rm $1"_GC";
+}
 
+# function calls an external script loessGCCorrection.R
+# does gc correction using loess method
+function runLoessGCcorrection() {
+	awk '{print $1}' $1 > $1"_GC"
+	Rscript --slave $SOURCEDIR"/source/R/loessGCCorrection.R" $1"_GC" $2
+	awk '{print $2,$3,$4,$5}' $1 | paste $1"_GC" - >$output"_GC"
+	mv $output"_GC" $1
+	rm $1"_GC";
 }
 
 
@@ -63,7 +74,7 @@ function runYoonMapCorrection(){
 #***************************************#
 
 SHORTOPTS="ybp:i:o:m:z:"
-LONGOPTS="gcfile:,mapThres:,help,yoonGC,yoonMap"
+LONGOPTS="gcfile:,mapThres:,help,yoonGC,yoonMap,loessGC"
 PROGNAME="preprocess.sh"
 ARGS=$(getopt -s bash --options $SHORTOPTS  --longoptions $LONGOPTS --name $PROGNAME -- "$@" ) 
 
@@ -81,7 +92,8 @@ while true; do
 		exit 1; ;;
 	--mapThres) mapThres="$2" ; shift 2; ;;
 	--yoonGC) YOONGCFLAG=1; shift ;; 
-	--yoonMap) YOONMAPFLAG=1; shift ;; 
+	--yoonMap) YOONMAPFLAG=1; shift ;;
+	--loessGC) LOESSGCFLAG=1; shift ;;
 	--) shift; break;;
 	*) echo "Error: Something wrong with the parameters"; 
 	echo "Requred parameters: -i -o -m -z "; exit 1;;
@@ -128,14 +140,17 @@ mv $output"_temp2" $output"_temp1.bed";
 awk '{print $4,$5,$8,$2,$3}' $output"_temp1.bed"> $output"_temp1";
 
 
-# check for gc correction, if yes correct it 
+# check for gc correction, if yes correct 
+# check whether to correct with Yoon method or Loess Method
 if [[ $YOONGCFLAG -eq 1 ]]; then
 	runYoonGCcorrection $output"_temp1" $gcFile;
+elif [[ $LOESSGCFLAG -eq 1 ]]; then
+	runLoessGCcorrection $output"_temp1" $gcFile
 fi
 
 # check for mappability correction, if yes correct it 
 if [[ $YOONMAPFLAG -eq 1 ]]; then
-	runYoonMapCorrection $output"_temp1" $gcFile;
+	runYoonMapCorrection $output"_temp1"
 fi
 
 
