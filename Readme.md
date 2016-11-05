@@ -80,6 +80,7 @@ Preprocess, runSegmentation, callCNV should have same value for the parameter -o
 |-y| No/- | When used Yoon et al. method for GC correction and mappability correction is applied to the data| Optional|
 |--yoonGC| No/-|Use Yoon et al method for GC correction | Optional|
 |--yoonMap| No/-|Use Yoon et al method for Mappability correction | Optional|
+|--loessGC| No/-| Use Loess method to correct GC-Bias | Optional
 
 ### runSegmentation
 | FLAG  |REQUIRES VALUE/TYPE  |DESCRIPTION  | OPTIONAL/REQUIRED |
@@ -95,4 +96,4 @@ Preprocess, runSegmentation, callCNV should have same value for the parameter -o
 
 
 ## Contact
-  For any queries drop a mail @ vogetisri.harsha@research.iiit.ac.indd
+  For any queries drop a mail @ vogetisri.harsha@research.iiit.ac.in
