@@ -198,6 +198,7 @@ BEGIN{
 
 	END{
 		if(entryPointer==1 && count > 1){
+			epoint=prevEndPoint;
 			curAvg=curAvg/count;
 			cn=(curAvg*2)/avg;
 			PTR=PTR+1;
