@@ -38,7 +38,7 @@ randomString=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 32 | head -n 1)
 function runYoonGCcorrection() {
 	awk '{print $1}' $1 > $1"_GC"
 	paste $1"_GC" $2 > $output"_GC"
-	Rscript --slave $SOURCEDIR"/source/R/gcCorrectionYoon.R" $output"_GC" > $1"_GC";
+	Rscript --slave $SOURCEDIR"/source/R/gcCorrectionYoon.R" $output"_GC" "gc"> $1"_GC";
 	awk '{print $2,$3,$4,$5}' $1 | paste $1"_GC" - >$output"_GC"
 	mv $output"_GC" $1
 	rm $1"_GC";
@@ -61,7 +61,7 @@ function runLoessGCcorrection() {
 function runYoonMapCorrection(){
 	
 	awk '{print $1,$3}' $1 > $randomString"_map_rawRead.input"
-	Rscript --slave $SOURCEDIR"/source/R/gcCorrectionYoon.R" $randomString"_map_rawRead.input" > $randomString"_map_rawRead.output";
+	Rscript --slave $SOURCEDIR"/source/R/gcCorrectionYoon.R" $randomString"_map_rawRead.input" "map"> $randomString"_map_rawRead.output";
 	awk '{print $2,$3,$4,$5}' $1 | paste $randomString"_map_rawRead.output" - >$randomString"_temp.txt"
 	mv $randomString"_temp.txt" $1
 	rm -rf $randomString"_map_rawRead.input" $randomString"_map_rawRead.output"
@@ -143,7 +143,7 @@ awk '{print $4,$5,$8,$2,$3}' $output"_temp1.bed"> $output"_temp1";
 # check for gc correction, if yes correct 
 # check whether to correct with Yoon method or Loess Method
 if [[ $YOONGCFLAG -eq 1 ]]; then
-	runYoonGCcorrection $output"_temp1" $gcFile;
+	runYoonGCcorrection $output"_temp1" $gcFile ;
 elif [[ $LOESSGCFLAG -eq 1 ]]; then
 	runLoessGCcorrection $output"_temp1" $gcFile
 fi
