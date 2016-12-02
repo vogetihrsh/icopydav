@@ -78,7 +78,7 @@ while true; do
 	   -f) mergeFraction="$2" ; shift 2;; 
 	   --gene) geneFile="$2"; shift 2;;
 	   --hg18) genome="hg18"; genomeFlag=1; shift ;;
-	   --hg18) genome="hg19"; genomeFlag=1; shift ;;
+	   --hg19) genome="hg19"; genomeFlag=1; shift ;;
 	   --genome) genome="$2"; genomeFlag=1; shift 2 ;;
 	   --help) echo "Usage: callCNV -o <output Prefix> -z <window file> <genome-flag>";
 	   	  echo "For additional parameters please go through read me"; exit 1 ;;
