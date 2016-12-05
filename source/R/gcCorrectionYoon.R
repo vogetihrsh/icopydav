@@ -32,15 +32,17 @@ n=length(x)
 n1=n/2;					# number of reads
 y=matrix(x,ncol=2,byrow=T) # y[n1,2] accessing elements 2d matrix containing read depth and gc content (
 rm(x)
-uncorrectedRD = y[:,1]
-gcContent = y[:,2]
+uncorrectedRD = y[,1];
+gcContent = y[,2];
 for (i in 1:n1)
 {
 	z=y[i,2];
+	if(is.na(z))
+		z=0;
 	z=1000*z;
 	z=round(z);
 	if(z==0)
-	   z=1;
+	   	z=1;
 	y[i,2]=z;
 	
 }
@@ -84,4 +86,4 @@ for(i in 1:n1)
 }
 
 if(type=="gc")
-	plotGC(uncorrectedRD,y[:,1],gcContent,"GC-plot")
+	plotGC(uncorrectedRD,y[,1],gcContent,"GC-plot")
