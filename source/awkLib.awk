@@ -49,17 +49,16 @@ function isCopyNumberSame(c1,c2){
 
 # checks the merging ratio criteria
 function checkCriteria(currentState, currentCNV){
-	
 	currentGap = currentCNV["start"]-currentState["end"];
-
-	# special case for copy number zero
-        if(currentState["copynumber"]< 0.6 && currentCNV["copynumber"] < 0.6 && currentGap<5000)
-		return 1;
 	totalGap=currentState["gap"]+ currentGap;
 	totalCNVRegion = (currentState["end"] - currentState["start"]- currentState["gap"]) + (currentCNV["end"] - currentCNV["start"]);
 	
 	ratio = totalGap/(totalCNVRegion + totalGap);
-	if(ratio < mergeFraction)
+	
+	# special case for copy number zero
+	if(roundOff(currentState["copynumber"])==0)
+		mergeFraction=0.5
+	if(ratio < mergeFraction)	
 		return 1;
 	return 0;
 }
@@ -111,7 +110,9 @@ function merge(finalList,cnv,size){
 		
 		while(currentIndex<=size && isCopyNumberSame(currentState["copynumber"], currentCNV["copynumber"])==1){
 			if(checkCriteria(currentState,currentCNV)==1)
+			{	
 				maxIndex=currentIndex;
+			}
 			updateCurrentState(currentState, currentCNV);
 			currentIndex++;
 			getCurrentCNV(currentCNV,cnv,currentIndex);
@@ -204,9 +205,8 @@ BEGIN{
 			PTR=PTR+1;
 			CNVARR[PTR,1]=spoint;CNVARR[PTR,2]=epoint;CNVARR[PTR,3]=cnvType;CNVARR[PTR,4]=cn;
 		}
-#	for(i=1;i<=PTR;i++)
-#			print CNVARR[i,1],CNVARR[i,2],CNVARR[i,3],CNVARR[i,4];
-		merge(CNVlist,CNVARR,PTR);
+			
+	merge(CNVlist,CNVARR,PTR);
 		size=length(CNVlist)/4;
 		for(i=1;i<=size;i++)
 			print  chrName,CNVlist[i,1],CNVlist[i,2], CNVlist[i,3], CNVlist[i,4] >> outfile
