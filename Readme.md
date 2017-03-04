@@ -1,4 +1,4 @@
-# pCNVD-1.0-dev
+#  SVINGS: Structural Variants Identification in Next Generation Sequencing Data
 
 Version -1 for CNV detection Pipeline
 # RD based CNV detection tool
