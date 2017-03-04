@@ -93,7 +93,7 @@ while true; do
 
 
 tvmOutputFile=$outputPrefix"_tvm_pCNVD.output"
-dnaCopyOutputFile=$outputPrefix"_dnacopy_pCNVD.output"
+cbsOutputFile=$outputPrefix"_cbs_pCNVD.output"
 bincorFile=$outputPrefix"_pCNVD.bincor"
 
 # check for genomeFlag
@@ -114,8 +114,8 @@ if [[ ! -f "$windowFile" ]]; then
 	exit
 fi	
 #check if any of the one outputfiles exits
-if [[ ! -f "$tvmOutputFile" && ! -f "$dnaCopyOutputFile" ]]; then
-	echo "Error: Neither $tvmOutputFile nor $dnaCopyOutputFile were found. Please check if such file(s) exist and correct prefix is passed to -o" >&2
+if [[ ! -f "$tvmOutputFile" && ! -f "$cbsOutputFile" ]]; then
+	echo "Error: Neither $tvmOutputFile nor $cbsOutputFile were found. Please check if such file(s) exist and correct prefix is passed to -o" >&2
 	exit
 fi
 
@@ -135,8 +135,8 @@ if [[ -f "$tvmOutputFile" ]]; then
 fi
 
 
-# if dnaCopy output exists try to postprocess that file
-if [[ -f "$dnaCopyOutputFile" ]]; then
-	mainFunc $outputPrefix"_dnacopy"
+# if cbs output exists try to postprocess that file
+if [[ -f "$cbsOutputFile" ]]; then
+	mainFunc $outputPrefix"_cbs"
 fi
 

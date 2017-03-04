@@ -22,8 +22,8 @@ output="";      	# OUTPUT PREFIX && MANDATORY PARAMETER
 mapThres=0.5;		# mappability threshold
 
 # Flags used
-YOONGCFLAG=0;		# flag for yoon et al method (GC-correction)
-YOONMAPFLAG=0;		# flag for yoon et al method (Mappability correction)
+MEDIANGCFLAG=0;		# flag for yoon et al method (GC-correction)
+MEDIANMAPFLAG=0;		# flag for yoon et al method (Mappability correction)
 LOESSGCFLAG=0;		# flag for loess GC correction method
 gcFlag=0;
 
@@ -35,7 +35,7 @@ randomString=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 32 | head -n 1)
 
 # function to correct gc-bias corrected read depths using Yoon et al method 
 # uses external R script 
-function runYoonGCcorrection() {
+function runMedianGCcorrection() {
 	awk '{print $1}' $1 > $1"_GC"
 	paste $1"_GC" $2 > $output"_GC"
 	Rscript --slave $SOURCEDIR"/source/R/gcCorrectionYoon.R" $output"_GC" "gc"> $1"_GC";
@@ -58,7 +58,7 @@ function runLoessGCcorrection() {
 # Function to correct mappability using Yoon et al method
 # Similar to above function
 # Instead of GC score , mappability score is passed. 
-function runYoonMapCorrection(){
+function runMedianMapCorrection(){
 	
 	awk '{print $1,$3}' $1 > $randomString"_map_rawRead.input"
 	Rscript --slave $SOURCEDIR"/source/R/gcCorrectionYoon.R" $randomString"_map_rawRead.input" "map"> $randomString"_map_rawRead.output";
@@ -74,7 +74,7 @@ function runYoonMapCorrection(){
 #***************************************#
 
 SHORTOPTS="ybp:i:o:m:z:"
-LONGOPTS="gcfile:,mapThres:,help,yoonGC,yoonMap,loessGC"
+LONGOPTS="gcfile:,mapThres:,help,medianGC,medianMap,loessGC"
 PROGNAME="preprocess.sh"
 ARGS=$(getopt -s bash --options $SHORTOPTS  --longoptions $LONGOPTS --name $PROGNAME -- "$@" ) 
 
@@ -86,13 +86,13 @@ while true; do
 	-o) output="$2"; shift 2;;
 	-m) mappability_file="$2"; shift 2;;
 	-z) window_file="$2"; shift 2;;
-	-y) YOONGCFLAG=1; YOONMAPFLAG=1; shift ;;
+	-y) MEDIANGCFLAG=1; MEDIANMAPFLAG=1; shift ;;
 	--gcfile) gcFile="$2"; gcFlag=1; shift 2; ;;
 	--help) echo "Usage: preprocess -i <input BAM> -o <output Prefix> -m <mappability file> -z <bin file>";
 		exit 1; ;;
 	--mapThres) mapThres="$2" ; shift 2; ;;
-	--yoonGC) YOONGCFLAG=1; shift ;; 
-	--yoonMap) YOONMAPFLAG=1; shift ;;
+	--medianGC) MEDIANGCFLAG=1; shift ;; 
+	--medianMap) MEDIANMAPFLAG=1; shift ;;
 	--loessGC) LOESSGCFLAG=1; shift ;;
 	--) shift; break;;
 	*) echo "Error: Something wrong with the parameters"; 
@@ -113,7 +113,7 @@ if [[ ! -f $window_file || ! -f $input_file || ! -f $mappability_file ]]; then
 	echo "One of the input files not found" >&2
 	exit 1
 fi
-if [[ $YOONGCFLAG -eq 1 ]]; then 
+if [[ $MEDIANGCFLAG -eq 1 ]]; then 
 	if [[ $gcFlag -eq 1 ]];then
 		gcFlag=1;
 	else
@@ -142,15 +142,15 @@ awk '{print $4,$5,$8,$2,$3}' $output"_temp1.bed"> $output"_temp1";
 
 # check for gc correction, if yes correct 
 # check whether to correct with Yoon method or Loess Method
-if [[ $YOONGCFLAG -eq 1 ]]; then
-	runYoonGCcorrection $output"_temp1" $gcFile ;
+if [[ $MEDIANGCFLAG -eq 1 ]]; then
+	runMedianGCcorrection $output"_temp1" $gcFile ;
 elif [[ $LOESSGCFLAG -eq 1 ]]; then
 	runLoessGCcorrection $output"_temp1" $gcFile
 fi
 
 # check for mappability correction, if yes correct it 
-if [[ $YOONMAPFLAG -eq 1 ]]; then
-	runYoonMapCorrection $output"_temp1"
+if [[ $MEDIANMAPFLAG -eq 1 ]]; then
+	runMedianMapCorrection $output"_temp1"
 fi
 
 
