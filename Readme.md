@@ -23,7 +23,7 @@ make
 ## Usage
 ```
 # PREPROCESSEING STEP
-./preprocess -i <input BAM> -z <bed file containing bins> -m < file contaning mappability values> -o <output prefix> 
+./pretreatment -i <input BAM> -z <bed file containing bins> -m < file contaning mappability values> -o <output prefix> 
 
 # SEGMENTATION
 ./runSegmentation -o <output prefix> <-t or -d or both>
