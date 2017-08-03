@@ -1,0 +1,2112 @@
+chr1	899100	24578856	23679756	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr1	899100	16608719	15709619	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr1	1263426	1263511	85	not provided	deletion	not provided	not provided
+chr1	1375073	1429534	54461	not provided	deletion	"Large for gestational age,Small for gestational age"	unknown
+chr1	1381149	1450202	69053	Pathogenic	deletion	not provided	germline
+chr1	1406300	1445159	38859	Pathogenic	deletion	not provided	germline
+chr1	1609403	1653984	44581	not provided	deletion	Large for gestational age	unknown
+chr1	1617846	1653984	36138	not provided	deletion	Normal pregnancy	unknown
+chr1	2342005	2356176	14171	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr1	2348803	2359358	10555	not provided	duplication	Small for gestational age	unknown
+chr1	3401272	3421095	19823	not provided	duplication	Preeclampsia	unknown
+chr1	11981413	11981739	326	Pathogenic	deletion	"Charcot-Marie-Tooth disease,type 2"	germline
+chr1	12802739	12836483	33744	not provided	deletion	Large for gestational age	unknown
+chr1	15656357	15669395	13038	not provided	deletion	Normal pregnancy	unknown
+chr1	15666597	15686773	20176	not provided	deletion	Normal pregnancy	unknown
+chr1	16775480	17137526	362046	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr1	17217803	17253252	35449	Pathogenic	deletion	"Gastrointestinal stromal tumor,Paragangliomas 4,Pheochromocytoma"	germline
+chr1	17217803	17253252	35449	Uncertain significance	duplication	"Gastrointestinal stromal tumor,Paragangliomas 4,Pheochromocytoma"	germline
+chr1	17217803	17218040	237	Uncertain significance	deletion	"Gastrointestinal stromal tumor,Paragangliomas 4,Pheochromocytoma"	germline
+chr1	17243842	17243970	128	Pathogenic	deletion	"Gastrointestinal stromal tumor,Paragangliomas 4,Pheochromocytoma"	germline
+chr1	17428094	24578856	7150762	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr1	25470862	25528125	57263	not provided	deletion	"Gestational diabetes mellitus uncontrolled,Normal pregnancy"	unknown
+chr1	25999297	25999389	92	Pathogenic	deletion	not provided	germline
+chr1	33048778	33049245	467	Uncertain significance	deletion	"Charcot-Marie-Tooth disease,dominant intermediate C"	germline
+chr1	36140366	36160241	19875	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr1	41116194	41150663	34469	not provided	duplication	"Large for gestational age,Preeclampsia"	unknown
+chr1	43163632	43197434	33802	Pathogenic	deletion	GLUT1 deficiency syndrome 1	germline
+chr1	45409478	45417656	8178	not provided	deletion	Normal pregnancy	unknown
+chr1	45567500	45572770	5270	Uncertain significance	duplication	MYH-associated polyposis	germline
+chr1	45567563	45571583	4020	Pathogenic	deletion	MYH-associated polyposis	germline
+chr1	49700649	49762922	62273	not provided	deletion	Large for gestational age	unknown
+chr1	50635788	50647417	11629	not provided	deletion	Small for gestational age	unknown
+chr1	58797022	58858809	61787	not provided	deletion	Small for gestational age	unknown
+chr1	72784030	72858789	74759	not provided	deletion	Large for gestational age	unknown
+chr1	73732466	73766392	33926	not provided	duplication	Small for gestational age	unknown
+chr1	94236063	94240834	4771	Likely pathogenic	deletion	Stargardt disease 1	germline
+chr1	94639643	94907491	267848	not provided	duplication	Normal pregnancy	unknown
+chr1	97208477	97227135	18658	not provided	deletion	Preeclampsia	unknown
+chr1	97992816	98115275	122459	Likely pathogenic	deletion	Schizophrenia	germline
+chr1	102439975	102618735	178760	not provided	deletion	Small for gestational age	unknown
+chr1	103931402	104012569	81167	not provided	deletion	"Large for gestational age,Normal pregnancy,Small for gestational age"	unknown
+chr1	103955387	104012569	57182	not provided	deletion	"Large for gestational age,Normal pregnancy"	unknown
+chr1	103955387	103957467	2080	not provided	deletion	Small for gestational age	unknown
+chr1	111727675	111745596	17921	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr1	111727675	111735827	8152	not provided	deletion	Preeclampsia	unknown
+chr1	144124428	144308260	183832	Pathogenic	deletion	Radial aplasia-thrombocytopenia syndrome	not provided
+chr1	144126049	144128902	2853	Pathogenic	deletion	Hemochromatosis type 2A	germline
+chr1	144337335	144474316	136981	not provided	deletion	"Preeclampsia,Small for gestational age"	unknown
+chr1	144800610	146471407	1670797	Pathogenic	duplication	Autism spectrum disorders	maternal
+chr1	144966102	146296999	1330897	Pathogenic	duplication	Autism spectrum disorders	de novo
+chr1	145027187	145882746	855559	Pathogenic	deletion	1q21.1 recurrent microdeletion	germline
+chr1	147306553	147468611	162058	not provided	deletion	"Gestational diabetes mellitus uncontrolled,Large for gestational age,Normal pregnancy"	unknown
+chr1	147327305	147468611	141306	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr1	153552579	153555883	3304	Pathogenic	deletion	"Porokeratosis 9,multiple types"	germline
+chr1	154351333	154351689	356	Pathogenic	deletion	Laminopathy	germline
+chr1	154374902	154375172	270	Pathogenic	deletion	Hutchinson-Gilford syndrome	germline
+chr1	157020029	157143545	123516	not provided	deletion	Large for gestational age	unknown
+chr1	159542221	159546397	4176	Likely pathogenic	duplication	"Charcot-Marie-Tooth disease,demyelinating,type 1b"	germline
+chr1	159546057	159565997	19940	Likely pathogenic	deletion	"Charcot-Marie-Tooth disease,demyelinating,type 1b"	germline
+chr1	159560027	159560084	57	Uncertain significance	deletion	"Gastrointestinal stromal tumor,Paragangliomas 3"	germline
+chr1	159577007	159577069	62	Likely pathogenic	duplication	Paragangliomas 3	germline
+chr1	159593090	159593254	164	Pathogenic	deletion	Paragangliomas 3	germline
+chr1	159759210	159768149	8939	not provided	deletion	Small for gestational age	unknown
+chr1	172139564	172153139	13575	Pathogenic	deletion	Antithrombin III deficiency	germline
+chr1	190100441	190154358	53917	not provided	deletion	Normal pregnancy	unknown
+chr1	191365926	191365996	70	Pathogenic	deletion	Parathyroid carcinoma	germline
+chr1	191439547	191490568	51021	Uncertain significance	duplication	Parathyroid carcinoma	germline
+chr1	191439547	191472109	32562	Likely pathogenic	duplication	Parathyroid carcinoma	germline
+chr1	191915265	191950794	35529	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr1	194988828	195075128	86300	"protective,risk factor"	deletion	"Age-related macular degeneration,Hemolytic uremic syndrome,atypical,susceptibility to"	germline
+chr1	195089922	195158945	69023	not provided	deletion	Small for gestational age	unknown
+chr1	195089922	195154080	64158	not provided	deletion	Large for gestational age	unknown
+chr1	195089922	195129192	39270	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr1	211066323	211078435	12112	not provided	deletion	"Normal pregnancy,Small for gestational age"	unknown
+chr1	213655334	220211695	6556361	Pathogenic	deletion	Loeys-Dietz syndrome 4	de novo
+chr1	213910936	213915581	4645	Likely pathogenic	deletion	"Usher syndrome,type 2A"	germline
+chr1	214106971	214107135	164	Pathogenic	deletion	"Usher syndrome,type 2A"	germline
+chr1	214128390	214140870	12480	Pathogenic	deletion	"Usher syndrome,type 2A"	germline
+chr1	214318053	214318327	274	Pathogenic	deletion	"Usher syndrome,type 2A"	germline
+chr1	214326683	214337178	10495	Pathogenic	deletion	"Usher syndrome,type 2A"	germline
+chr1	214532139	214567619	35480	Pathogenic	deletion	"Usher syndrome,type 2A"	germline
+chr1	214532139	214532335	196	Pathogenic	deletion	"Usher syndrome,type 2A"	germline
+chr1	214738803	218269198	3530395	Pathogenic	deletion	Loeys-Dietz syndrome 4	de novo
+chr1	218167852	218167910	58	Pathogenic	deletion	"Hypermanganesemia with dystonia,polycythemia and cirrhosis"	germline
+chr1	225217599	225262279	44680	Pathogenic	deletion	"Coenzyme Q10 deficiency,primary,4"	germline
+chr1	226420273	226614524	194251	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr1	229776026	229929827	153801	not provided	duplication	Normal pregnancy	unknown
+chr1	229776026	229879757	103731	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr1	229778111	229879757	101646	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr1	233641694	233650047	8353	Pathogenic	deletion	Hypoparathyroidism retardation dysmorphism syndrome	germline
+chr1	235051184	235195003	143819	not provided	deletion	Large for gestational age	unknown
+chr1	235272324	235585908	313584	Uncertain significance	duplication	Catecholaminergic polymorphic ventricular tachycardia	germline
+chr1	235500419	235585908	85489	Uncertain significance	duplication	Catecholaminergic polymorphic ventricular tachycardia	germline
+chr1	235560800	235560905	105	Pathogenic/Likely pathogenic	deletion	Catecholaminergic polymorphic ventricular tachycardia	germline
+chr1	237768057	237791044	22987	Likely pathogenic	deletion	Schizophrenia	germline
+chr1	237781396	237851788	70392	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr1	239727479	239749708	22229	Pathogenic	deletion	Fumarase deficiency	germline
+chr1	239727479	239734168	6689	Pathogenic	deletion	Fumarase deficiency	germline
+chr1	240330234	242626296	2296062	Pathogenic	deletion	Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 2	paternal
+chr1	243703537	243714349	10812	not provided	deletion	"Normal pregnancy,Small for gestational age"	unknown
+chr1	243703537	243708842	5305	not provided	deletion	Preeclampsia	unknown
+chr1	246591768	246592280	512	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr10	106475	440983	334508	Pathogenic	deletion	not provided	germline
+chr10	13096592	13100416	3824	not provided	deletion	Small for gestational age	unknown
+chr10	13096592	13098464	1872	not provided	deletion	Normal pregnancy	unknown
+chr10	20882036	20897371	15335	not provided	deletion	"Gestational diabetes mellitus uncontrolled,Large for gestational age"	unknown
+chr10	21169392	21170024	632	Uncertain significance	deletion	not specified	germline
+chr10	28189559	28191557	1998	Likely pathogenic	deletion	Primary ciliary dyskinesia 23	germline
+chr10	36949069	36989138	40069	not provided	duplication	Large for gestational age	unknown
+chr10	42002138	42147957	145819	not provided	deletion	Preeclampsia	unknown
+chr10	42915912	42918083	2171	Uncertain significance	deletion	"Multiple endocrine neoplasia,type 2"	germline
+chr10	42937399	42943724	6325	Uncertain significance	deletion	"Multiple endocrine neoplasia,type 2"	germline
+chr10	44529446	44679489	150043	not provided	duplication	Small for gestational age	unknown
+chr10	45603691	47173875	1570184	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr10	46469552	47460423	990871	not provided	duplication	"Normal pregnancy,Preeclampsia"	unknown
+chr10	47013327	47460423	447096	not provided	duplication	"Large for gestational age,Preeclampsia"	unknown
+chr10	47013327	47173875	160548	not provided	duplication	Normal pregnancy	unknown
+chr10	52877639	52881455	3816	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr10	55252149	55252212	63	Conflicting interpretations of pathogenicity	deletion	not specified	germline
+chr10	55333008	55333136	128	Pathogenic	deletion	"Usher syndrome,type 1F"	germline
+chr10	55405468	55449921	44453	not provided	deletion	Small for gestational age	unknown
+chr10	55747036	56094043	347007	Pathogenic	deletion	"Usher syndrome,type 1F"	germline
+chr10	57071754	57130422	58668	not provided	deletion	Preeclampsia	unknown
+chr10	58438324	58586765	148441	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr10	67748486	67784487	36001	not provided	deletion	"Large for gestational age,Normal pregnancy,Small for gestational age"	unknown
+chr10	67748486	67783601	35115	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr10	73161749	73164044	2295	Pathogenic	deletion	"Usher syndrome,type 1D"	germline
+chr10	78127593	78129217	1624	not provided	deletion	Normal pregnancy	unknown
+chr10	82869698	82882268	12570	not provided	deletion	Normal pregnancy	unknown
+chr10	82869698	82880160	10462	not provided	deletion	"Gestational diabetes mellitus uncontrolled,Large for gestational age,Normal pregnancy"	unknown
+chr10	83458637	83475005	16368	not provided	deletion	Normal pregnancy	unknown
+chr10	83934684	83949159	14475	not provided	deletion	"Preeclampsia,Small for gestational age"	unknown
+chr10	87944581	87949029	4448	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr10	88418300	88449790	31490	Uncertain significance	deletion	"Myofibrillar myopathy,ZASP-related"	germline
+chr10	88588601	88649863	61262	Pathogenic	deletion	Juvenile polyposis syndrome	germline
+chr10	88625603	88674925	49322	Pathogenic	deletion	Juvenile polyposis syndrome	germline
+chr10	89643761	89643846	85	Pathogenic	deletion	PTEN hamartoma tumor syndrome	germline
+chr10	95454122	95535366	81244	Pathogenic	deletion	"Epilepsy,lateral temporal lobe,autosomal dominant"	germline
+chr10	96489699	96553747	64048	not provided	deletion	Normal pregnancy	unknown
+chr10	107608037	107671437	63400	not provided	deletion	Small for gestational age	unknown
+chr10	107974309	108005486	31177	not provided	deletion	"Large for gestational age,Normal pregnancy"	unknown
+chr10	114836638	114837713	1075	not provided	deletion	Normal pregnancy	unknown
+chr10	121400871	121419679	18808	Uncertain significance	duplication	"Dilated cardiomyopathy 1HH,Myofibrillar myopathy,BAG3-related"	germline
+chr10	122069583	122084261	14678	not provided	deletion	Normal pregnancy	unknown
+chr10	134439620	134519453	79833	not provided	duplication	Normal pregnancy	unknown
+chr10	135025955	135032416	6461	Pathogenic	deletion	Mitochondrial short-chain enoyl-coa hydratase 1 deficiency	germline
+chr10	135067164	135219522	152358	not provided	duplication	Normal pregnancy	unknown
+chr10	135102336	135228792	126456	not provided	duplication	"Normal pregnancy,Preeclampsia"	unknown
+chr11	254390	386308	131918	not provided	duplication	Small for gestational age	unknown
+chr11	384004	409906	25902	not provided	duplication	Small for gestational age	unknown
+chr11	522630	524375	1745	Uncertain significance	duplication	"Costello syndrome,not specified"	germline
+chr11	522630	522755	125	Uncertain significance	duplication	Costello syndrome	germline
+chr11	860445	1814327	953882	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr11	1082953	1814327	731374	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr11	2548433	2550792	2359	Likely pathogenic	deletion	Long QT syndrome	germline
+chr11	2561240	2561351	111	Pathogenic	deletion	Long QT syndrome	germline
+chr11	2563017	2565498	2481	Pathogenic	deletion	Long QT syndrome	germline
+chr11	2753765	2754838	1073	Pathogenic	deletion	Long QT syndrome	germline
+chr11	5204375	5211790	7415	Pathogenic	deletion	"Abnormal hemoglobin,Anemia,Hemoglobin Lepore trait,Persistence of hemoglobin F,Reduced beta/alpha synthesis ratio"	"germline,unknown"
+chr11	5204443	5211858	7415	Pathogenic	deletion	Hemoglobin Lepore trait	germline
+chr11	5204719	5212132	7413	Pathogenic	deletion	Hemoglobin Lepore trait	germline
+chr11	6371691	6371790	99	Likely pathogenic	duplication	"Niemann-Pick disease,type A"	germline
+chr11	8915595	8921514	5919	not provided	deletion	Preeclampsia	unknown
+chr11	10172024	10172110	86	Pathogenic	deletion	"Charcot-Marie-Tooth disease,type IV"	germline
+chr11	18092217	18094729	2512	not provided	deletion	Normal pregnancy	unknown
+chr11	18905795	18913266	7471	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr11	22600654	22603963	3309	Uncertain significance	duplication	Fanconi anemia	germline
+chr11	25668875	25677282	8407	not provided	deletion	"Large for gestational age,Normal pregnancy"	unknown
+chr11	30874641	31654833	780192	Pathogenic	deletion	Aniridia	unknown
+chr11	30966999	31704000	737001	Pathogenic	deletion	Aniridia	unknown
+chr11	31108578	31649842	541264	Pathogenic	deletion	Aniridia	unknown
+chr11	31198999	31914000	715001	Pathogenic	deletion	Aniridia	unknown
+chr11	31198999	31849000	650001	Pathogenic	deletion	Aniridia	unknown
+chr11	31234394	31751815	517421	Pathogenic	deletion	Aniridia	unknown
+chr11	31378999	31708000	329001	Pathogenic	deletion	Aniridia	unknown
+chr11	31698270	31794414	96144	Pathogenic	deletion	Aniridia	unknown
+chr11	31778999	31933000	154001	Pathogenic	deletion	Aniridia	unknown
+chr11	34414805	34417287	2482	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr11	34414805	34417280	2475	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr11	34956246	34956305	59	Pathogenic	deletion	Pyruvate dehydrogenase E3-binding protein deficiency	germline
+chr11	34967349	34971262	3913	Pathogenic	deletion	Pyruvate dehydrogenase E3-binding protein deficiency	germline
+chr11	37725052	37848248	123196	not provided	duplication	Normal pregnancy	unknown
+chr11	42107804	42142425	34621	not provided	duplication	Preeclampsia	unknown
+chr11	47307562	47332827	25265	Likely pathogenic	deletion	Primary familial hypertrophic cardiomyopathy	germline
+chr11	47309971	47314138	4167	Pathogenic	deletion	Hypertrophic cardiomyopathy	germline
+chr11	47310692	47312137	1445	Pathogenic	deletion	Primary familial hypertrophic cardiomyopathy	germline
+chr11	47320216	47320310	94	Likely pathogenic	deletion	Primary familial hypertrophic cardiomyopathy	germline
+chr11	47324369	47324440	71	Pathogenic	deletion	Primary familial hypertrophic cardiomyopathy	germline
+chr11	47327900	47329632	1732	Pathogenic	deletion	Hypertrophic cardiomyopathy	germline
+chr11	48337478	48924603	587125	Uncertain significance	deletion	Autism spectrum disorders	paternal
+chr11	49933911	50624976	691065	not provided	duplication	Preeclampsia	unknown
+chr11	58961495	59001184	39689	not provided	deletion	Preeclampsia	unknown
+chr11	64327561	64334180	6619	Pathogenic	deletion	"Multiple endocrine neoplasia,type 1"	germline
+chr11	64327561	64328864	1303	Pathogenic	deletion	"Multiple endocrine neoplasia,type 1"	germline
+chr11	65781132	65781349	217	Pathogenic	deletion	"Spastic paraplegia,optic atrophy,and neuropathy"	germline
+chr11	66050734	66057713	6979	Pathogenic	deletion	Bardet-Biedl syndrome	germline
+chr11	67130244	67344588	214344	not provided	duplication	Normal pregnancy	unknown
+chr11	73316505	73386169	69664	not provided	duplication	Preeclampsia	unknown
+chr11	76601644	76603389	1745	Pathogenic	deletion	"Usher syndrome,type 1"	germline
+chr11	81175799	81194909	19110	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr11	81181639	81204221	22582	not provided	deletion	Small for gestational age	unknown
+chr11	81181639	81194909	13270	not provided	deletion	"Gestational diabetes mellitus uncontrolled,Large for gestational age,Preeclampsia,Small for gestational age"	unknown
+chr11	81183110	81194909	11799	not provided	deletion	"Gestational diabetes mellitus uncontrolled,Normal pregnancy"	unknown
+chr11	82536314	82553918	17604	not provided	duplication	Normal pregnancy	unknown
+chr11	82543165	82553918	10753	not provided	duplication	Preeclampsia	unknown
+chr11	83504379	84034653	530274	Likely pathogenic	deletion	Schizophrenia	germline
+chr11	84203591	84370927	167336	Likely pathogenic	deletion	Schizophrenia	germline
+chr11	84267755	84350092	82337	Likely pathogenic	deletion	Schizophrenia	germline
+chr11	88012355	88020199	7844	not provided	deletion	Normal pregnancy	unknown
+chr11	95831651	95883542	51891	not provided	duplication	Normal pregnancy	unknown
+chr11	97357707	98028284	670577	not provided	deletion	Preeclampsia	unknown
+chr11	98882616	99079899	197283	not provided	duplication	Small for gestational age	unknown
+chr11	99030335	99071992	41657	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr11	103871298	103877528	6230	not provided	deletion	Small for gestational age	unknown
+chr11	104259709	104266481	6772	not provided	deletion	Large for gestational age	unknown
+chr11	107158290	107188806	30516	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr11	107164233	107175438	11205	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr11	107598768	107745036	146268	Pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	107603560	107663652	60092	Uncertain significance	duplication	Ataxia-telangiectasia syndrome	germline
+chr11	107619889	107745036	125147	Pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	107627948	107628059	111	Likely pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	107643107	107730811	87704	Likely pathogenic	duplication	Ataxia-telangiectasia syndrome	germline
+chr11	107647137	107647206	69	Likely pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	107656931	107741446	84515	Pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	107656931	107665738	8807	Pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	107665538	107665738	200	Pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	107668555	107675822	7267	Likely pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	107673223	107711898	38675	Pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	107701246	107745036	43790	Pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	107703581	107707494	3913	Likely pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	107719158	107745036	25878	Pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	107741018	107741446	428	Pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	107741018	107741445	427	Pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	107741018	107741445	427	Likely pathogenic	duplication	Ataxia-telangiectasia syndrome	germline
+chr11	108616991	108661992	45001	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr11	111462757	111471735	8978	Pathogenic	deletion	"Paragangliomas 1,Pheochromocytoma"	germline
+chr11	111471189	111471291	102	Likely pathogenic	deletion	Hereditary Paraganglioma-Pheochromocytoma Syndromes	germline
+chr11	118654484	118654586	102	Uncertain significance	deletion	not specified	germline
+chr11	120062552	120135662	73110	not provided	deletion	"Gestational diabetes mellitus uncontrolled,Small for gestational age"	unknown
+chr11	122191337	122254424	63087	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr11	133853183	134225383	372200	not provided	duplication	Large for gestational age	unknown
+chr12	2115896	2123185	7289	not provided	deletion	"Gestational diabetes mellitus uncontrolled,Large for gestational age,Normal pregnancy,Preeclampsia"	unknown
+chr12	2669110	2711779	42669	Likely pathogenic	deletion	Schizophrenia	germline
+chr12	4791027	5474196	683169	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr12	7821437	8037429	215992	not provided	duplication	Large for gestational age	unknown
+chr12	7821437	7993653	172216	not provided	duplication	Preeclampsia	unknown
+chr12	7884582	8017012	132430	not provided	duplication	Normal pregnancy	unknown
+chr12	7892178	8005696	113518	not provided	duplication	Large for gestational age	unknown
+chr12	7895024	8014573	119549	not provided	deletion	Normal pregnancy	unknown
+chr12	9137442	9138835	1393	Benign	deletion		germline
+chr12	9966042	18692220	8726178	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr12	15893888	15910153	16265	not provided	deletion	Small for gestational age	unknown
+chr12	16186327	16372216	185889	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr12	21184600	21189969	5369	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr12	21607206	21607281	75	Pathogenic	deletion	not provided	germline
+chr12	23528945	23608782	79837	Pathogenic	deletion	Lamb-shaffer syndrome	germline
+chr12	23532992	23670480	137488	Pathogenic	deletion	Lamb-shaffer syndrome	germline
+chr12	23816066	23932965	116899	Pathogenic	deletion	Lamb-shaffer syndrome	germline
+chr12	23871057	23924492	53435	Pathogenic	deletion	Lamb-shaffer syndrome	germline
+chr12	25539942	25545712	5770	not provided	deletion	Preeclampsia	unknown
+chr12	31150638	31306471	155833	not provided	duplication	Normal pregnancy	unknown
+chr12	31150638	31301045	150407	not provided	duplication	"Gestational diabetes mellitus uncontrolled,Large for gestational age"	unknown
+chr12	31150638	31300846	150208	not provided	duplication	Preeclampsia	unknown
+chr12	31150638	31298174	147536	not provided	duplication	Small for gestational age	unknown
+chr12	31157553	31299963	142410	not provided	duplication	Preeclampsia	unknown
+chr12	31157553	31298174	140621	not provided	duplication	Small for gestational age	unknown
+chr12	32840309	32846757	6448	Pathogenic	deletion	"Arrhythmogenic right ventricular cardiomyopathy,type 9"	germline
+chr12	32868245	32868363	118	Likely pathogenic	deletion	Arrhythmogenic right ventricular cardiomyopathy	germline
+chr12	32922046	32923233	1187	Pathogenic	deletion	"Arrhythmogenic right ventricular cardiomyopathy,type 9"	germline
+chr12	41156468	41185723	29255	Likely pathogenic	deletion	Progressive myoclonus epilepsy with ataxia	de novo
+chr12	46656010	46656401	391	Pathogenic	deletion	Spondyloepiphyseal dysplasia congenita	germline
+chr12	47731224	47731305	81	Uncertain significance	deletion	not specified	germline
+chr12	50600809	50603412	2603	Pathogenic	deletion	Hereditary hemorrhagic telangiectasia type 2	germline
+chr12	51132218	51148881	16663	not provided	deletion	Normal pregnancy	unknown
+chr12	51132218	51146252	14034	not provided	deletion	Small for gestational age	unknown
+chr12	60555983	60558836	2853	not provided	deletion	Normal pregnancy	unknown
+chr12	62228915	62404825	175910	not provided	duplication	Preeclampsia	unknown
+chr12	62238959	62348621	109662	Pathogenic	deletion	Spermatogenic failure 9	germline
+chr12	68966130	68968081	1951	not provided	deletion	Normal pregnancy	unknown
+chr12	68966659	68968081	1422	not provided	deletion	Normal pregnancy	unknown
+chr12	78679730	78684361	4631	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr12	81696066	81730473	34407	not provided	deletion	Small for gestational age	unknown
+chr12	98526816	98532904	6088	not provided	deletion	Normal pregnancy	unknown
+chr12	99410384	99442119	31735	Pathogenic	deletion	Progressive intrahepatic cholestasis	paternal
+chr12	100675374	100675582	208	Likely pathogenic	duplication	"I cell disease,Pseudo-Hurler polydystrophy"	unknown
+chr12	100714585	100714671	86	Pathogenic	duplication	I cell disease	not provided
+chr12	101784503	101784571	68	not provided	deletion	not provided	not provided
+chr12	101835445	101839212	3767	not provided	deletion	not provided	not provided
+chr12	108037231	108196858	159627	not provided	duplication	Normal pregnancy	unknown
+chr12	108494195	108504271	10076	Pathogenic	deletion	"Porokeratosis,disseminated superficial actinic 1"	germline
+chr12	108496996	108497088	92	not provided	deletion	Hyperimmunoglobulin D with periodic fever	not provided
+chr12	108498185	108498333	148	not provided	deletion	Hyperimmunoglobulin D with periodic fever	not provided
+chr12	108503582	108503738	156	not provided	deletion	Hyperimmunoglobulin D with periodic fever	not provided
+chr12	109833005	109833362	357	Pathogenic	deletion	Familial hypertrophic cardiomyopathy 10	germline
+chr12	111399837	111400202	365	Likely pathogenic	deletion	Rasopathy	germline
+chr12	114904370	114944983	40613	Pathogenic	deletion	Mental retardation and distinctive facial features with or without cardiac defects	germline
+chr12	114968681	115180157	211476	Pathogenic	duplication	Mental retardation and distinctive facial features with or without cardiac defects	germline
+chr12	123826597	123887414	60817	not provided	duplication	Preeclampsia	unknown
+chr12	127792725	127832449	39724	not provided	duplication	Small for gestational age	unknown
+chr12	127794826	127800057	5231	not provided	deletion	"Normal pregnancy,Preeclampsia"	unknown
+chr12	130296687	130391078	94391	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr12	131743794	131774018	30224	Uncertain significance	duplication	"Colorectal cancer,susceptibility to,12"	germline
+chr12	131758873	131767938	9065	Uncertain significance	duplication	"Colorectal cancer,susceptibility to,12"	germline
+chr13	19368070	19407959	39889	not provided	duplication	Large for gestational age	unknown
+chr13	22255135	22413553	158418	not provided	duplication	Large for gestational age	unknown
+chr13	22442668	23791183	1348515	Likely pathogenic	deletion	Schizophrenia	germline
+chr13	22444237	22451518	7281	not provided	deletion	Normal pregnancy	unknown
+chr13	25913105	25915442	2337	not provided	deletion	Normal pregnancy	unknown
+chr13	31787616	31870908	83292	Pathogenic	deletion	"Breast-ovarian cancer,familial 2"	germline
+chr13	31788558	31827425	38867	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr13	31788558	31791462	2904	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr13	31788558	31788664	106	Pathogenic	deletion	"Breast-ovarian cancer,familial 2,Hereditary breast and ovarian cancer syndrome"	germline
+chr13	31791213	31791462	249	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr13	31797212	31798750	1538	Uncertain significance	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr13	31798714	31813032	14318	Pathogenic	deletion	"Breast-ovarian cancer,familial 2"	germline
+chr13	31828564	31830066	1502	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr13	31828726	31829009	283	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr13	31848806	31848928	122	Pathogenic	deletion	"Breast-ovarian cancer,familial 2,Familial cancer of breast"	"germline,somatic"
+chr13	31851904	31852030	126	Pathogenic	deletion	"Breast-ovarian cancer,familial 2"	germline
+chr13	31851907	31852033	126	Conflicting interpretations of pathogenicity	deletion	"Breast-ovarian cancer,familial 2"	germline
+chr13	31852282	31870908	18626	Pathogenic	deletion	"Breast-ovarian cancer,familial 2"	germline
+chr13	44532137	44808139	276002	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr13	47814735	47817336	2601	Pathogenic	deletion	Retinoblastoma	germline
+chr13	47851730	47853580	1850	Likely pathogenic	deletion	Retinoblastoma	germline
+chr13	57491657	57497032	5375	not provided	deletion	"Normal pregnancy,Preeclampsia"	unknown
+chr13	63241819	63285508	43689	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr13	68138121	68165982	27861	not provided	deletion	"Preeclampsia,Small for gestational age"	unknown
+chr13	68145022	68174740	29718	not provided	deletion	Large for gestational age	unknown
+chr13	68145022	68165982	20960	not provided	deletion	"Gestational diabetes mellitus uncontrolled,Normal pregnancy,Preeclampsia,Small for gestational age"	unknown
+chr13	69463868	69476514	12646	not provided	deletion	Normal pregnancy	unknown
+chr13	69642882	69676218	33336	not provided	deletion	Normal pregnancy	unknown
+chr13	76472551	76473151	600	Pathogenic	deletion	Ceroid lipofuscinosis neuronal 5	germline
+chr13	79589352	79594433	5081	not provided	duplication	Preeclampsia	unknown
+chr13	80817202	80850151	32949	not provided	duplication	Large for gestational age	unknown
+chr13	82686742	82691976	5234	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr13	82686742	82689616	2874	not provided	deletion	Preeclampsia	unknown
+chr13	83001707	83055928	54221	not provided	deletion	"Gestational diabetes mellitus uncontrolled,Normal pregnancy"	unknown
+chr13	84766323	84802427	36104	not provided	duplication	Preeclampsia	unknown
+chr13	88568384	88638240	69856	not provided	deletion	Small for gestational age	unknown
+chr13	89185429	89288884	103455	not provided	duplication	Normal pregnancy	unknown
+chr13	94731660	94833884	102224	not provided	duplication	Large for gestational age	unknown
+chr13	94731660	94781388	49728	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr13	94797739	94833884	36145	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr13	102487469	102497214	9745	not provided	duplication	Large for gestational age	unknown
+chr13	105124623	105664164	539541	not provided	duplication	Normal pregnancy	unknown
+chr14	18397822	19696131	1298309	not provided	duplication	Normal pregnancy	unknown
+chr14	18397822	19496582	1098760	not provided	duplication	Large for gestational age	unknown
+chr14	20441613	20463129	21516	not provided	deletion	Large for gestational age	unknown
+chr14	21445866	21807817	361951	not provided	deletion	Normal pregnancy	unknown
+chr14	21789519	21864966	75447	not provided	deletion	Large for gestational age	unknown
+chr14	23523205	23553900	30695	not provided	deletion	"Large for gestational age,Small for gestational age"	unknown
+chr14	32861151	32916252	55101	Likely pathogenic	deletion	Schizophrenia	germline
+chr14	34180262	34230611	50349	not provided	deletion	Large for gestational age	unknown
+chr14	39924781	39928178	3397	not provided	deletion	Preeclampsia	unknown
+chr14	40923258	40954198	30940	not provided	deletion	Normal pregnancy	unknown
+chr14	44717906	44720460	2554	Uncertain significance	deletion	"Fanconi anemia,complementation group M"	germline
+chr14	45819209	45829318	10109	not provided	deletion	Large for gestational age	unknown
+chr14	57841384	57869114	27730	not provided	duplication	Normal pregnancy	unknown
+chr14	61724450	61804619	80169	not provided	deletion	Small for gestational age	unknown
+chr14	64638016	64639015	999	Pathogenic	deletion	Hereditary Paraganglioma-Pheochromocytoma Syndromes	germline
+chr14	66045062	66360944	315882	Pathogenic	deletion	"Molybdenum cofactor deficiency,complementation group C"	germline
+chr14	72221867	76768335	4546468	Likely pathogenic	deletion	"Aplasia/Hypoplasia of the thumb,Intellectual disability,mild,Multiple skeletal anomalies,Ventricular septal defect"	de novo
+chr14	72740846	72746704	5858	not provided	deletion	not provided	not provided
+chr14	72741222	72745777	4555	not provided	deletion	not provided	not provided
+chr14	73207997	73208053	56	Uncertain significance	deletion	"Ciliary dyskinesia,primary,16"	germline
+chr14	75975449	76036817	61368	Likely pathogenic	deletion	Nonsyndromic hearing loss and deafness	germline
+chr14	78117574	78589854	472280	Uncertain significance	deletion	Autism spectrum disorders	unknown
+chr14	78424103	78730293	306190	Likely pathogenic	deletion	Schizophrenia	germline
+chr14	85354506	85379917	25411	not provided	deletion	Large for gestational age	unknown
+chr14	85357099	85402670	45571	not provided	deletion	Small for gestational age	unknown
+chr14	85357099	85379917	22818	not provided	deletion	"Gestational diabetes mellitus uncontrolled,Preeclampsia,Small for gestational age"	unknown
+chr14	85528166	85551141	22975	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr14	85530667	85551141	20474	not provided	deletion	Small for gestational age	unknown
+chr14	87469240	87489111	19871	not provided	deletion	Normal pregnancy	unknown
+chr14	89828643	89871803	43160	not provided	duplication	Small for gestational age	unknown
+chr14	89858686	89871803	13117	not provided	duplication	"Gestational diabetes mellitus uncontrolled,Normal pregnancy,Preeclampsia,Small for gestational age"	unknown
+chr14	90770312	90770762	450	Pathogenic	deletion	"AMELOGENESIS IMPERFECTA,HYPOMATURATION TYPE,IIA6"	germline
+chr14	91417504	91440230	22726	Pathogenic	duplication	"Cutis laxa,autosomal dominant 1"	not provided
+chr14	94622317	94669593	47276	Uncertain significance	duplication	DICER1-related pleuropulmonary blastoma cancer predisposition syndrome	germline
+chr14	94629621	94630744	1123	Pathogenic	deletion	DICER1-related pleuropulmonary blastoma cancer predisposition syndrome	germline
+chr14	95232855	95926882	694027	Likely pathogenic	duplication	"Acute myeloid leukemia,Essential thrombocythemia,Myelofibrosis"	germline
+chr14	100340448	100349006	8558	Pathogenic	deletion	"Uniparental disomy,paternal,chromosome 14"	maternal
+chr14	101967885	102038571	70686	Uncertain significance	duplication	"Spastic paraplegia 49,autosomal recessive"	germline
+chr14	103713473	105003820	1290347	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr14	105022655	106358708	1336053	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr14	105069588	106358708	1289120	not provided	duplication	Normal pregnancy	unknown
+chr14	105397667	105937208	539541	not provided	duplication	Normal pregnancy	unknown
+chr15	18304355	26723446	8419091	Pathogenic	duplication	Autism spectrum disorders	de novo
+chr15	18566562	23759954	5193392	Pathogenic	duplication	Autism spectrum disorders	maternal
+chr15	18872853	20203694	1330841	not provided	duplication	Large for gestational age	unknown
+chr15	19138466	24766081	5627615				
+chr15	19911605	20773725	862120				
+chr15	20030086	20851613	821527				
+chr15	20030086	20777695	747609				
+chr15	20197712	20691555	493843				
+chr15	20301668	20780153	478485				
+chr15	20301668	20780153	478485				
+chr15	20301668	20726721	425053				
+chr15	20301668	20665881	364213				
+chr15	20594719	20637877	43158				
+chr15	20594719	20637877	43158				
+chr15	20629297	20665815	36518				
+chr15	20635883	20665815	29932				
+chr15	21175588	26589775	5414187				
+chr15	21281796	26203777	4921981				
+chr15	21606580	21612590	6010				
+chr15	21908304	22023095	114791				
+chr15	22145908	22293745	147837				
+chr15	22145908	22219100	73192				
+chr15	22157824	22219100	61276				
+chr15	22885614	26043307	3157693				
+chr15	22972070	22981336	9266				
+chr15	23133488	23201746	68258				
+chr15	23133488	23201746	68258				
+chr15	23135381	23135449	68				
+chr15	23135414	23135473	59				
+chr15	23167011	23167100	89				
+chr15	24339785	24569316	229531				
+chr15	27007909	28466332	1458423				
+chr15	27007909	28452255	1444346				
+chr15	28157205	28876818	719613				
+chr15	28670192	30226345	1556153				
+chr15	28727795	30407380	1679585				
+chr15	28728863	30297218	1568355				
+chr15	29743327	30298873	555546				
+chr15	29811483	30297218	485735				
+chr15	29811491	30335754	524263				
+chr15	29811491	30226345	414854				
+chr15	29816892	30442573	625681				
+chr15	30297183	30301633	4450				
+chr15	32547939	32587887	39948				
+chr15	33296439	33349874	53435				
+chr15	33821624	33823779	2155				
+chr15	35224539	35289142	64603				
+chr15	36378865	36436742	57877				
+chr15	38551458	38551555	97				
+chr15	39946401	39979332	32931				
+chr15	41679161	41698212	19051				
+chr15	41679161	41684889	5728				
+chr15	41680023	41688824	8801				
+chr15	41680023	41684889	4866				
+chr15	41680023	41680504	481				
+chr15	41680023	41680504	481				
+chr15	41680239	41683091	2852				
+chr15	41680239	41682834	2595				
+chr15	41680361	41690474	10113				
+chr15	41681109	41726934	45825				
+chr15	41687352	41688824	1472				
+chr15	41688734	41688884	150				
+chr15	41688737	41688804	67				
+chr15	41716565	41718552	1987				
+chr15	42649445	42657768	8323				
+chr15	42650014	42654531	4517				
+chr15	42650014	42650148	134				
+chr15	42652172	42654531	2359				
+chr15	42665125	42668904	3779				
+chr15	42668741	42713127	44386				
+chr15	42685514	42743138	57624				
+chr15	46490814	46548010	57196				
+chr15	46532053	46532121	68				
+chr15	46550122	46550245	123				
+chr15	51305757	51380310	74553				
+chr15	53518961	53519071	110				
+chr15	53529711	53529857	146				
+chr15	59474931	59479810	4879				
+chr15	67483302	67522373	39071				
+chr15	70424840	70426105	1265				
+chr15	79764519	79875169	110650				
+chr15	84312693	84322487	9794				
+chr15	85632149	85671028	38879				
+chr15	87183106	87183163	57				
+chr15	87591863	87661366	69503				
+chr15	89148592	89159690	11098				
+chr15	98702901	100217471	1514570				
+chr15	100155949	100184372	28423				
+chr16	144299	167000	22701	Pathogenic	deletion	alpha Thalassemia	germline
+chr16	163299	167103	3804	Pathogenic	deletion	alpha Thalassemia	germline
+chr16	1179945	1240071	60126	Likely pathogenic	deletion	Schizophrenia	germline
+chr16	2038588	2078714	40126	Uncertain significance	duplication	Tuberous sclerosis 2	germline
+chr16	2038588	2055637	17049	Pathogenic	deletion	Tuberous sclerosis 2	germline
+chr16	2038645	2071596	32951	Pathogenic	deletion	Tuberous sclerosis 2	germline
+chr16	2043343	2050815	7472	Pathogenic	deletion	Tuberous sclerosis 2	germline
+chr16	2052498	2054429	1931	not provided	deletion	Tuberous sclerosis syndrome	germline
+chr16	2054273	2078714	24441	Uncertain significance	duplication	Tuberous sclerosis 2	germline
+chr16	2054273	2078316	24043	not provided	deletion	Tuberous sclerosis syndrome	germline
+chr16	2055520	2055637	117	Pathogenic	deletion	Tuberous sclerosis 2	germline
+chr16	2055520	2055637	117	not provided	deletion	not provided	not provided
+chr16	2060457	2060580	123	not provided	deletion	Tuberous sclerosis syndrome	germline
+chr16	2060477	2060555	78	not provided	deletion	Tuberous sclerosis syndrome	germline
+chr16	2073199	2077920	4721	Pathogenic	deletion	Tuberous sclerosis 2	germline
+chr16	2076257	2076314	57	not provided	deletion	Tuberous sclerosis syndrome	germline
+chr16	2076772	2077008	236	not provided	deletion	not provided	not provided
+chr16	3598431	3599568	1137	Pathogenic	deletion	Fanconi anemia	germline
+chr16	3715054	3870123	155069	Pathogenic	deletion	Rubinstein-Taybi syndrome	germline
+chr16	3869833	3869941	108	Pathogenic	deletion	Rubinstein-Taybi syndrome	germline
+chr16	6235074	6335369	100295	Uncertain significance	deletion	Autism spectrum disorders	maternal
+chr16	6622443	7009816	387373	Likely pathogenic	deletion	Schizophrenia	germline
+chr16	6654641	6732837	78196	Likely pathogenic	deletion	Schizophrenia	germline
+chr16	6690250	7062375	372125	Uncertain significance	duplication	Autism spectrum disorders	paternal
+chr16	7028521	7087701	59180	Likely pathogenic	deletion	Schizophrenia	germline
+chr16	10057404	10072100	14696	not provided	deletion	Preeclampsia	unknown
+chr16	12594417	12638151	43734	not provided	deletion	Normal pregnancy	unknown
+chr16	14565772	14587381	21609	Pathogenic	deletion	"Dyskeratosis congenita,autosomal recessive 6"	germline
+chr16	15033258	16514211	1480953	Pathogenic	duplication	Schizophrenia	germline
+chr16	15062398	15406558	344160	not provided	deletion	Preeclampsia	unknown
+chr16	15088101	18686367	3598266	Pathogenic	duplication	Schizophrenia	germline
+chr16	15320010	16294070	974060	Pathogenic	duplication	Schizophrenia	germline
+chr16	15331870	16444792	1112922	Likely pathogenic	deletion	Schizophrenia	germline
+chr16	15704491	16224830	520339	Pathogenic	deletion	Pseudoxanthoma elasticum	germline
+chr16	15704492	15839627	135135	Uncertain significance	duplication	"Aortic aneurysm,familial thoracic 4"	germline
+chr16	15710160	15839627	129467	Uncertain significance	deletion	"Aortic aneurysm,familial thoracic 4"	germline
+chr16	15710160	15839627	129467	Uncertain significance	duplication	"Aortic aneurysm,familial thoracic 4"	germline
+chr16	15710162	15839616	129454	Uncertain significance	duplication	"Aortic aneurysm,familial thoracic 4"	germline
+chr16	20429296	20440015	10719	not provided	deletion	Normal pregnancy	unknown
+chr16	20823786	20894007	70221	not provided	deletion	Large for gestational age	unknown
+chr16	21597336	21679362	82026	Pathogenic	deletion	Nonsyndromic hearing loss and deafness	germline
+chr16	21655082	21655212	130	Pathogenic	deletion	Nonsyndromic hearing loss and deafness	germline
+chr16	21857844	22352966	495122	Likely pathogenic	duplication	Schizophrenia	germline
+chr16	21857844	22343083	485239	Likely pathogenic	deletion	Schizophrenia	germline
+chr16	22343311	22610270	266959	not provided	deletion	Small for gestational age	unknown
+chr16	23521983	23560179	38196	Pathogenic	deletion	Familial cancer of breast	germline
+chr16	23521983	23560179	38196	Uncertain significance	duplication	Familial cancer of breast	germline
+chr16	23521983	23526834	4851	Pathogenic	deletion	"Familial cancer of breast,Pancreatic cancer 3"	germline
+chr16	23521983	23522491	508	Pathogenic	deletion	Familial cancer of breast	germline
+chr16	23522279	23545219	22940	Pathogenic	deletion	Familial cancer of breast	germline
+chr16	23522279	23532913	10634	Pathogenic	deletion	Familial cancer of breast	germline
+chr16	23522279	23526834	4555	Pathogenic	deletion	"Familial cancer of breast,Hereditary cancer-predisposing syndrome"	germline
+chr16	23522279	23522491	212	Pathogenic	deletion	Familial cancer of breast	germline
+chr16	23526685	23532913	6228	Likely pathogenic	deletion	Familial cancer of breast	germline
+chr16	23532825	23532913	88	Pathogenic	deletion	Familial cancer of breast	germline
+chr16	23532825	23532913	88	Likely pathogenic	duplication	Familial cancer of breast	germline
+chr16	23540183	23545219	5036	Pathogenic	deletion	Familial cancer of breast	germline
+chr16	23540183	23541952	1769	Likely pathogenic	deletion	Familial cancer of breast	germline
+chr16	23542830	23542916	86	Pathogenic	deletion	Familial cancer of breast	germline
+chr16	23545057	23549291	4234	Pathogenic	deletion	Familial cancer of breast	germline
+chr16	23545057	23545219	162	Pathogenic/Likely pathogenic	deletion	"Familial cancer of breast,Hereditary cancer-predisposing syndrome"	germline
+chr16	23553683	23560179	6496	Uncertain significance	duplication	Familial cancer of breast	germline
+chr16	28289693	29243098	953405	Likely pathogenic	deletion	Schizophrenia	germline
+chr16	28511389	28528253	16864	not provided	duplication	Preeclampsia	unknown
+chr16	28522743	28528253	5510	not provided	duplication	Large for gestational age	unknown
+chr16	29309801	30134432	824631	Likely pathogenic	duplication	Autism spectrum disorders	maternal
+chr16	29425199	30099396	674197	Likely pathogenic	deletion	Autism spectrum disorders	unknown
+chr16	29425199	30099396	674197	Likely pathogenic	duplication	Autism spectrum disorders	unknown
+chr16	29520995	30097531	576536	Likely pathogenic	duplication	Autism spectrum disorders	de novo
+chr16	29539539	30100063	560524	Pathogenic	duplication	Schizophrenia	germline
+chr16	29553776	30100063	546287	Likely pathogenic	deletion	Schizophrenia	germline
+chr16	29553776	30100063	546287	Pathogenic	duplication	Schizophrenia	germline
+chr16	29559099	30107210	548111	Pathogenic	deletion	Spondylocostal dysostosis 5	germline
+chr16	29564889	30100063	535174	Pathogenic	duplication	Schizophrenia	germline
+chr16	29604473	30099408	494935	Likely pathogenic	duplication	Autism spectrum disorders	paternal
+chr16	29731811	29734703	2892	Uncertain significance	duplication	Dystonia 10	germline
+chr16	31128369	31134192	5823	not provided	deletion	Small for gestational age	unknown
+chr16	32073282	33703188	1629906	not provided	deletion	Preeclampsia	unknown
+chr16	32073282	33464522	1391240	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr16	32515938	33464522	948584	not provided	deletion	Large for gestational age	unknown
+chr16	32515938	32556470	40532	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr16	34161423	34674677	513254	not provided	duplication	Normal pregnancy	unknown
+chr16	54926189	88668856	33742667	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr16	55077151	55097362	20211	Pathogenic	deletion	Bardet-Biedl syndrome	germline
+chr16	62078276	62140252	61976	not provided	deletion	Normal pregnancy	unknown
+chr16	67328695	67426945	98250	Pathogenic	deletion	Hereditary diffuse gastric cancer	germline
+chr16	67328695	67426945	98250	Uncertain significance	duplication	Hereditary diffuse gastric cancer	germline
+chr16	67328695	67329815	1120	Pathogenic	deletion	Hereditary diffuse gastric cancer	germline
+chr16	67393073	67424904	31831	Uncertain significance	duplication	Hereditary diffuse gastric cancer	germline
+chr16	67393073	67393297	224	Pathogenic	deletion	Hereditary diffuse gastric cancer	germline
+chr16	67399827	67426945	27118	Pathogenic	deletion	Hereditary diffuse gastric cancer	germline
+chr16	71281113	71342804	61691	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr16	74128749	74138486	9737	not provided	duplication	Normal pregnancy	unknown
+chr16	76184360	76697503	513143	association	duplication	Autism spectrum disorders	unknown
+chr16	76518759	77020925	502166	association	duplication	Autism spectrum disorders	unknown
+chr16	76524822	77162332	637510	association	duplication	Autism spectrum disorders	paternal
+chr16	76818021	76974845	156824	Pathogenic	deletion	"Epileptic encephalopathy,early infantile,28"	germline
+chr16	77497158	77634311	137153	association	deletion	Autism spectrum disorders	maternal
+chr16	77809824	77831183	21359	not provided	deletion	Normal pregnancy	unknown
+chr16	82736365	82769025	32660	Pathogenic	deletion	Primary ciliary dyskinesia	germline
+chr16	82761192	82761270	78	Uncertain significance	deletion	Primary ciliary dyskinesia	germline
+chr16	85101690	85104250	2560	Pathogenic	deletion	Primary pulmonary hypertension	germline
+chr16	85741161	88048304	2307143	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	85897635	87862929	1965294	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	86723480	87441769	718289	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	86788260	87891243	1102983	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	86788461	87891103	1102642	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	87083691	88085412	1001721	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	87158107	88135243	977136	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	87162500	88156451	993951	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	87193677	88000128	806451	Pathogenic	deletion	16q24.3 microdeletion syndrome	unknown
+chr16	87282812	88111913	829101	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	87689184	88032607	343423	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	88002951	88179649	176698	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	88118158	88118216	58	Benign	deletion	Spastic paraplegia 7	germline
+chr16	88346046	88386456	40410	Pathogenic	deletion	Fanconi anemia	germline
+chr16	88357445	88363794	6349	Likely pathogenic	deletion	"Fanconi anemia,complementation group A"	germline
+chr16	88364628	88376457	11829	Likely pathogenic	deletion	"Fanconi anemia,complementation group A"	germline
+chr16	88404615	88410525	5910	Pathogenic	deletion	Fanconi anemia	germline
+chr16	88408428	88410566	2138	Uncertain significance	duplication	Fanconi anemia	germline
+chr17	1063740	1186696	122956				
+chr17	2530177	2530237	60				
+chr17	3452791	3528988	76197				
+chr17	4848175	4866769	18594				
+chr17	6232060	6250079	18019				
+chr17	6236682	6252991	16309				
+chr17	6242285	6252121	9836				
+chr17	7512444	7531593	19149				
+chr17	7512444	7513733	1289				
+chr17	7520015	7520129	114				
+chr17	7531419	7531593	174				
+chr17	7531419	7531593	174				
+chr17	8221558	8223979	2421				
+chr17	9526889	16266693	6739804				
+chr17	10473822	10473937	115				
+chr17	12836925	12836988	63				
+chr17	14024195	15360833	1336638				
+chr17	14041753	15423542	1381789				
+chr17	15073818	15104803	30985				
+chr17	15073818	15104803	30985				
+chr17	19450672	19460036	9364				
+chr17	22998383	23099651	101268				
+chr17	26135493	27207932	1072439				
+chr17	26446070	26728821	282751				
+chr17	26446070	26533809	87739				
+chr17	26446070	26533809	87739				
+chr17	26446070	26446513	443				
+chr17	26446070	26446513	443				
+chr17	26490811	26514619	23808				
+chr17	26495038	26508203	13165				
+chr17	26500604	26508292	7688				
+chr17	26501937	26508869	6932				
+chr17	26508869	26513386	4517				
+chr17	26513092	26524466	11374				
+chr17	26513158	26535772	22614				
+chr17	26513373	26526140	12767				
+chr17	26513379	26524184	10805				
+chr17	26514329	26521141	6812				
+chr17	26514329	26514520	191				
+chr17	26518045	26524586	6541				
+chr17	26524239	26556339	32100				
+chr17	26530799	26535665	4866				
+chr17	26539323	26555749	16426				
+chr17	26543458	26557106	13648				
+chr17	26550671	26557100	6429				
+chr17	26551112	26551585	473				
+chr17	26562265	26593751	31486				
+chr17	26562942	26569257	6315				
+chr17	26563689	26577913	14224				
+chr17	26566171	26585994	19823				
+chr17	26567237	26571399	4162				
+chr17	26569188	26574627	5439				
+chr17	26570417	26597906	27489				
+chr17	26575247	26613332	38085				
+chr17	26575888	26578074	2186				
+chr17	26578050	26580950	2900				
+chr17	26578291	26578628	337				
+chr17	26580827	26581239	412				
+chr17	26584081	26619122	35041				
+chr17	26584954	26632707	47753				
+chr17	26585813	26589876	4063				
+chr17	26602053	26702321	100268				
+chr17	26612854	26691789	78935				
+chr17	26615975	26662702	46727				
+chr17	26654402	26688005	33603				
+chr17	26675366	26702716	27350				
+chr17	26677131	26697363	20232				
+chr17	26678642	26678983	341				
+chr17	26679318	26686419	7101				
+chr17	26681830	26692824	10994				
+chr17	26682391	26686419	4028				
+chr17	26684895	26686419	1524				
+chr17	26685521	26686419	898				
+chr17	26685607	26687301	1694				
+chr17	26686622	26699850	13228				
+chr17	26693653	26709145	15492				
+chr17	26694152	26694279	127				
+chr17	26700777	26708468	7691				
+chr17	26702800	26704293	1493				
+chr17	26708489	26719629	11140				
+chr17	26708661	26710882	2221				
+chr17	26725156	26728821	3665				
+chr17	27883081	27891002	7921				
+chr17	30450923	30454676	3753				
+chr17	30450923	30452497	1574				
+chr17	30708147	30792312	84165				
+chr17	31384339	33726547	2342208				
+chr17	31480185	31500509	20324				
+chr17	31832893	33356576	1523683				
+chr17	31889663	33323913	1434250				
+chr17	35765839	35766004	165				
+chr17	38429837	38531026	101189				
+chr17	38442947	38454000	11053				
+chr17	38449837	38505423	55586				
+chr17	38449837	38462678	12841				
+chr17	38449837	38451345	1508				
+chr17	38451219	38531026	79807				
+chr17	38451219	38530813	79594				
+chr17	38451219	38521268	70049				
+chr17	38451219	38509664	58445				
+chr17	38451219	38476470	25251				
+chr17	38451219	38473237	22018				
+chr17	38451219	38468875	17656				
+chr17	38451219	38462594	11375				
+chr17	38451219	38456660	5441				
+chr17	38451219	38454663	3444				
+chr17	38451219	38453246	2027				
+chr17	38451219	38453185	1966				
+chr17	38451248	38451310	62				
+chr17	38451292	38451356	64				
+chr17	38451345	38531026	79681				
+chr17	38452841	38460495	7654				
+chr17	38453185	38529658	76473				
+chr17	38453185	38456660	3475				
+chr17	38453246	38531026	77780				
+chr17	38453246	38531026	77780				
+chr17	38454127	38465518	11391				
+chr17	38454263	38454773	510				
+chr17	38454663	38456660	1997				
+chr17	38454663	38456660	1997				
+chr17	38454682	38454935	253				
+chr17	38454737	38531026	76289				
+chr17	38456660	38531026	74366				
+chr17	38456660	38476470	19810				
+chr17	38457781	38481182	23401				
+chr17	38458956	38463130	4174				
+chr17	38459416	38462616	3200				
+chr17	38459806	38462629	2823				
+chr17	38460388	38468536	8148				
+chr17	38460505	38470587	10082				
+chr17	38461924	38466248	4324				
+chr17	38462594	38482157	19563				
+chr17	38462594	38469494	6900				
+chr17	38462678	38531026	68348				
+chr17	38467334	38472160	4826				
+chr17	38468875	38529658	60783				
+chr17	38468875	38473238	4363				
+chr17	38468875	38469494	619				
+chr17	38468875	38469494	619				
+chr17	38469416	38502832	33416				
+chr17	38469494	38531026	61532				
+chr17	38470474	38475579	5105				
+chr17	38470477	38475581	5104				
+chr17	38472399	38475516	3117				
+chr17	38472807	38473815	1008				
+chr17	38473066	38475746	2680				
+chr17	38473150	38529640	56490				
+chr17	38473150	38482157	9007				
+chr17	38473150	38476781	3631				
+chr17	38473150	38473238	88				
+chr17	38473150	38473238	88				
+chr17	38475570	38478201	2631				
+chr17	38475734	38483886	8152				
+chr17	38476470	38521322	44852				
+chr17	38476470	38488118	11648				
+chr17	38476470	38480064	3594				
+chr17	38476470	38476781	311				
+chr17	38476515	38476597	82				
+chr17	38479873	38488118	8245				
+chr17	38480064	38531026	50962				
+chr17	38482030	38531026	48996				
+chr17	38482030	38488118	6088				
+chr17	38482030	38482157	127				
+chr17	38482030	38482157	127				
+chr17	38483824	38489905	6081				
+chr17	38485926	38489761	3835				
+chr17	38485991	38488950	2959				
+chr17	38486743	38497153	10410				
+chr17	38487946	38529658	41712				
+chr17	38487946	38505423	17477				
+chr17	38487946	38488118	172				
+chr17	38488118	38531026	42908				
+chr17	38496417	38496653	236				
+chr17	38496486	38529658	33172				
+chr17	38496486	38502832	6346				
+chr17	38496575	38531026	34451				
+chr17	38496575	38501388	4813				
+chr17	38497865	38497924	59				
+chr17	38498852	38498919	67				
+chr17	38499213	38499426	213				
+chr17	38499292	38500429	1137				
+chr17	38499932	38499988	56				
+chr17	38500058	38500122	64				
+chr17	38500066	38500130	64				
+chr17	38500097	38506658	6561				
+chr17	38500172	38500618	446				
+chr17	38502280	38506245	3965				
+chr17	38502786	38505423	2637				
+chr17	38505094	38506552	1458				
+chr17	38505317	38506375	1058				
+chr17	38505317	38505423	106				
+chr17	38505317	38505423	106				
+chr17	38505340	38505466	126				
+chr17	38505423	38531026	25603				
+chr17	38508055	38513080	5025				
+chr17	38508057	38513282	5225				
+chr17	38509664	38512076	2412				
+chr17	38509664	38509804	140				
+chr17	38512076	38531026	18950				
+chr17	38517018	38527180	10162				
+chr17	38519543	38522910	3367				
+chr17	38521268	38529640	8372				
+chr17	38521268	38521322	54				
+chr17	38521268	38521322	54				
+chr17	38521322	38531026	9704				
+chr17	38521322	38531026	9704				
+chr17	38529559	38529658	99				
+chr17	38529559	38529640	81				
+chr17	38529559	38529640	81				
+chr17	38529658	38531026	1368				
+chr17	41487602	41935452	447850				
+chr17	41517259	41935452	418193				
+chr17	41517259	41723989	206730				
+chr17	41525625	41935452	409827				
+chr17	41525625	41723989	198364				
+chr17	42363568	43349043	985475				
+chr17	48304613	48669353	364740				
+chr17	51515463	51527276	11813				
+chr17	53648639	53648782	143				
+chr17	54125002	54142350	17348				
+chr17	54135555	54166702	31147				
+chr17	54135555	54166583	31028				
+chr17	54135555	54142350	6795				
+chr17	54135555	54135689	134				
+chr17	54135653	54135753	100				
+chr17	54135655	54135754	99				
+chr17	54142218	54166702	24484				
+chr17	54153105	54166702	13597				
+chr17	54164843	54164904	61				
+chr17	57175155	57240900	65745				
+chr17	57233395	57233617	222				
+chr17	57240609	57293683	53074				
+chr17	57279243	57281399	2156				
+chr17	57279243	57281399	2156				
+chr17	57291965	57292057	92				
+chr17	57463822	57491867	28045				
+chr17	61814537	61935106	120569				
+chr17	61841376	61912613	71237				
+chr17	64077657	64093101	15444				
+chr17	66151315	67111510	960195				
+chr17	69789540	69822005	32465				
+chr17	74877128	74903596	26468				
+chr17	74879292	74908077	28785				
+chr17	74879292	74905632	26340				
+chr17	75685638	75689007	3369				
+chr17	75699878	75707072	7194				
+chr17	75706586	75706751	165				
+chr18	1715757	1831469	115712	not provided	deletion	Small for gestational age	unknown
+chr18	1715757	1829339	113582	not provided	deletion	Normal pregnancy	unknown
+chr18	3158814	3158979	165	Uncertain significance	duplication	Hypertrophic cardiomyopathy	germline
+chr18	7766839	8237508	470669	Likely pathogenic	deletion	Schizophrenia	germline
+chr18	10423381	10429153	5772	not provided	duplication	Large for gestational age	unknown
+chr18	10903662	10909989	6327	not provided	deletion	Normal pregnancy	unknown
+chr18	10905569	10914184	8615	not provided	deletion	Large for gestational age	unknown
+chr18	26069317	26069966	649	not provided	deletion	Preeclampsia	unknown
+chr18	29155986	29263749	107763	not provided	duplication	Small for gestational age	unknown
+chr18	42828742	42855335	26593	Likely pathogenic	deletion	Schizophrenia	germline
+chr18	46041529	46041604	75	Likely pathogenic	deletion	Dextrocardia	unknown
+chr18	46810580	46845974	35394	Pathogenic	deletion	Hereditary cancer-predisposing syndrome	germline
+chr18	46827413	46827663	250	Likely benign	duplication	Juvenile polyposis syndrome	germline
+chr18	46847386	46865410	18024	Pathogenic	deletion	Juvenile polyposis syndrome	germline
+chr18	46857005	46865410	8405	Uncertain significance	duplication	Juvenile polyposis syndrome	germline
+chr18	46858623	46865410	6787	Likely benign	duplication	Juvenile polyposis syndrome	germline
+chr18	54086966	54088089	1123	not provided	deletion	Normal pregnancy	unknown
+chr18	56252844	56271253	18409	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr18	57972561	57975919	3358	Pathogenic	deletion	Multiple congenital anomalies-hypotonia-seizures syndrome 1	germline
+chr18	59538291	61640358	2102067	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr18	61347427	61369766	22339	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr18	62000659	62017767	17108	not provided	duplication	Preeclampsia	unknown
+chr18	62060051	62063678	3627	not provided	deletion	Small for gestational age	unknown
+chr18	63399500	63841169	441669	not provided	duplication	Large for gestational age	unknown
+chr18	64898547	64906488	7941	not provided	deletion	"Large for gestational age,Normal pregnancy,Preeclampsia"	unknown
+chr18	65360120	65368251	8131	not provided	deletion	"Large for gestational age,Normal pregnancy,Preeclampsia,Small for gestational age"	unknown
+chr18	75834672	75838585	3913	Pathogenic	deletion	Burn-McKeown syndrome	germline
+chr18	75837947	75839648	1701	Pathogenic	deletion	Burn-McKeown syndrome	germline
+chr18	75849568	75849624	56	Pathogenic	deletion	Burn-McKeown syndrome	germline
+chr19	311625	393015	81390	not provided	deletion	"Normal pregnancy,Preeclampsia,Small for gestational age"	unknown
+chr19	1156797	1177662	20865	Pathogenic	deletion	Peutz-Jeghers syndrome	germline
+chr19	1157906	1177651	19745	Pathogenic	deletion	Peutz-Jeghers syndrome	germline
+chr19	1157911	1173005	15094	Pathogenic	deletion	Hereditary cancer-predisposing syndrome	germline
+chr19	1169415	1174171	4756	Pathogenic	deletion	Peutz-Jeghers syndrome	germline
+chr19	1169415	1170412	997	Pathogenic	deletion	Peutz-Jeghers syndrome	germline
+chr19	1172947	1173005	58	Pathogenic	deletion	Peutz-Jeghers syndrome	germline
+chr19	1732878	1743997	11119	not provided	deletion	Preeclampsia	unknown
+chr19	5514341	5557259	42918	not provided	deletion	Preeclampsia	unknown
+chr19	6909133	6969869	60736	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr19	8862832	9946054	1083222	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr19	10955796	11033958	78162	Pathogenic	deletion	Rhabdoid tumor predisposition syndrome 2	germline
+chr19	11011133	11011229	96	Uncertain significance	deletion	Rhabdoid tumor predisposition syndrome 2	germline
+chr19	11059401	11072587	13186	Pathogenic	deletion	Familial hypercholesterolemia	"germline,inherited"
+chr19	11061037	11105576	44539	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11061037	11099683	38646	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11061037	11094849	33812	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11061037	11091767	30730	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11061037	11084953	23916	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11061037	11083189	22152	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11061037	11082327	21290	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11061037	11074339	13302	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11061037	11072021	10984		deletion	Familial hypercholesterolemia	germline
+chr19	11061037	11071898	10861	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11061037	11071898	10861	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11061037	11061291	254	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11061291	11102956	41665	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11061291	11099683	38392	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11061291	11094849	33558	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11061291	11091767	30476	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11061291	11088534	27243	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11061291	11087769	26478	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11061291	11084953	23662	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11061291	11079067	17776	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11061291	11079067	17776	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11061291	11078240	16949	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11061291	11076895	15604	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11061291	11074339	13048	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11065258	11079486	14228	Pathogenic/Likely pathogenic	duplication	Familial hypercholesterolemia	"germline,inherited"
+chr19	11066051	11078736	12685	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11072021	11094849	22828	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11072021	11091767	19746	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11072021	11091767	19746	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11072021	11087769	15748	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11072021	11084953	12932	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11072021	11083189	11168	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11072021	11082327	10306	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11072021	11082327	10306	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11072021	11079067	7046	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11072021	11079067	7046	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11072021	11078240	6219	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11072021	11078240	6219	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11072021	11076895	4874	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11073004	11090608	17604	Pathogenic	deletion	Familial hypercholesterolemia	"germline,unknown"
+chr19	11073827	11079821	5994	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11074338	11083316	8978	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11074339	11078363	4024		deletion	Familial hypercholesterolemia	germline
+chr19	11074462	11084953	10491	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11074462	11082327	7865	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11074462	11082327	7865	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11074462	11079067	4605	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11074462	11078240	3778	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11076449	11084568	8119	Pathogenic/Likely pathogenic	duplication	Familial hypercholesterolemia	"germline,inherited"
+chr19	11076894	11082447	5553	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11076894	11077277	383	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11077023	11077086	63	Likely pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11077275	11078241	966	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11077276	11087769	10493	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11077276	11082327	5051	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11077276	11079067	1791	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11077884	11080249	2365	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11078173	11085809	7636	Pathogenic	deletion	Familial hypercholesterolemia	"germline,inherited"
+chr19	11078250	11078337	87	Likely pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11078363	11105506	27143	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11078363	11084953	6590	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11078363	11082327	3964	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11079066	11083316	4250	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11079190	11105506	26316	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11079190	11099683	20493	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11079190	11094849	15659	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11079190	11091767	12577	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11079190	11091767	12577	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11079190	11087769	8579	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11079190	11087769	8579	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11079190	11084953	5763	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11079190	11083189	3999	Likely pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11079361	11110060	30699	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11080034	11083846	3812	Likely pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11082326	11083316	990	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11082327	11082447	120	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11082440	11083193	753	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11082447	11091767	9320	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11082447	11087769	5322	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11082447	11084953	2506	Likely pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11083189	11101346	18157		duplication	Familial hypercholesterolemia	germline
+chr19	11083189	11088674	5485	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11083189	11088674	5485		deletion	Familial hypercholesterolemia	germline
+chr19	11083261	11083327	66	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11083315	11105506	22191	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11083315	11094849	11534	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11083315	11094849	11534	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11083315	11091767	8452	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11083315	11091767	8452	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11083315	11087769	4454	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11083315	11087769	4454	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11083315	11085210	1895	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11083315	11085210	1895	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11084014	11094305	10291	Pathogenic	deletion	Familial hypercholesterolemia	"germline,inherited"
+chr19	11084784	11098894	14110	Pathogenic	deletion	Familial hypercholesterolemia	"germline,inherited"
+chr19	11084943	11085039	96	Likely pathogenic	duplication	Familial hypercholesterolemia	inherited
+chr19	11084952	11085439	487	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11084953	11105506	20553	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11084963	11094914	9951	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11085438	11105506	20068	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11085438	11102956	17518	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11085438	11101188	15750	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11085438	11099683	14245	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11085438	11094849	9411	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11085438	11094849	9411	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11085438	11091767	6329	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11085438	11091767	6329	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11085438	11088534	3096	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11087768	11092199	4431	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11087768	11088675	907	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11087888	11105506	17618	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11087888	11101188	13300	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11087888	11091767	3879	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11087888	11091767	3879	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11088674	11105506	16832	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11088674	11099683	11009	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11088674	11099683	11009	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11088674	11099683	11009	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11088674	11094849	6175	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11088674	11094849	6175	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11089588	11094352	4764	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11091766	11092199	433	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11091767	11101346	9579	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11091767	11095020	3253	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11091909	11099683	7774	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11091993	11092064	71	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11092198	11105506	13308	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11092198	11099683	7485	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11094848	11105506	10658	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11094848	11095021	173	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11095020	11105506	10486	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11095020	11105506	10486	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11095020	11103799	8779	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11095020	11103212	8192	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11095020	11102956	7936	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11095020	11102956	7936	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11095020	11101188	6168	Likely pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11096960	11104208	7248	Conflicting interpretations of pathogenicity	duplication	Familial hypercholesterolemia	"germline,inherited"
+chr19	11099761	11105506	5745	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11099761	11102956	3195	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11101187	11101347	160	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11101188	11105506	4318	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	13307723	13343501	35778	Pathogenic	duplication	Episodic ataxia type 2	germline
+chr19	15132861	15132941	80	Pathogenic	deletion	Lehman syndrome	germline
+chr19	19091867	23907209	4815342	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr19	20418018	20499408	81390	not provided	deletion	"Normal pregnancy,Preeclampsia,Small for gestational age"	unknown
+chr19	20449620	20499408	49788	not provided	deletion	Small for gestational age	unknown
+chr19	20455153	20499408	44255	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr19	20473894	20499408	25514	not provided	deletion	Large for gestational age	unknown
+chr19	20482953	20499408	16455	not provided	deletion	"Gestational diabetes mellitus uncontrolled,Normal pregnancy,Preeclampsia,Small for gestational age"	unknown
+chr19	38015969	38020747	4778	Pathogenic	deletion	Cystinuria	germline
+chr19	40279474	40292350	12876	not provided	deletion	Normal pregnancy	unknown
+chr19	40279474	40289055	9581	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr19	41186078	41191423	5345	Likely pathogenic	deletion	Nonsyndromic hearing loss and deafness	germline
+chr19	41366144	43344802	1978658	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr19	45594538	45594616	78	Uncertain significance	deletion	"Charcot-Marie-Tooth disease,type IV"	germline
+chr19	46042734	46070988	28254	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr19	46048590	46070988	22398	not provided	deletion	"Gestational diabetes mellitus uncontrolled,Large for gestational age,Preeclampsia"	unknown
+chr19	46052111	46083994	31883	Likely pathogenic	deletion	APC-mutation negative familial colorectal cancer	germline
+chr19	47962404	48391048	428644	not provided	deletion	Normal pregnancy	unknown
+chr19	48019845	48251170	231325	not provided	deletion	Normal pregnancy	unknown
+chr19	48019845	48248683	228838	not provided	deletion	"Preeclampsia,Small for gestational age"	unknown
+chr19	48019845	48229218	209373	not provided	deletion	Normal pregnancy	unknown
+chr19	48063133	48391048	327915	not provided	deletion	Normal pregnancy	unknown
+chr19	48064225	48494130	429905	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr19	48064225	48160500	96275	not provided	deletion	Preeclampsia	unknown
+chr19	48327523	48391048	63525	not provided	deletion	Preeclampsia	unknown
+chr19	48358536	48527610	169074	not provided	deletion	Normal pregnancy	unknown
+chr19	48707428	48707559	131	Pathogenic	deletion	Ethylmalonic encephalopathy	germline
+chr19	49193357	50014584	821227	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr19	51947574	51951111	3537	Pathogenic	deletion	Walker-Warburg congenital muscular dystrophy	germline
+chr19	55218707	55596854	378147	not provided	duplication	Normal pregnancy	unknown
+chr19	55593919	55594553	634	Uncertain significance	duplication	Colorectal cancer 10	germline
+chr19	55952800	55955322	2522	not provided	duplication	Large for gestational age	unknown
+chr19	56965068	57309110	344042	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr19	59446563	60315925	869362	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr19	59834967	59986781	151814	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr19	60140958	60145317	4359	not provided	duplication	Hydatidiform mole	not provided
+chr19	60825110	62340089	1514979	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr2	8673	179972	171299				
+chr2	2843216	2895962	52746				
+chr2	4655779	5876448	1220669				
+chr2	11243594	16158159	4914565				
+chr2	13404228	13454223	49995				
+chr2	14273171	14303443	30272				
+chr2	32113946	32201192	87246				
+chr2	32117422	32187226	69804				
+chr2	32128414	32144750	16336				
+chr2	32136263	32156758	20495				
+chr2	32136355	32148907	12552				
+chr2	32141720	32145755	4035				
+chr2	32142183	32142819	636				
+chr2	32142211	32158700	16489				
+chr2	32142398	32166157	23759				
+chr2	32145282	32210699	65417				
+chr2	32145305	32218160	72855				
+chr2	32155550	32325666	170116				
+chr2	32155640	32204562	48922				
+chr2	32161660	32195155	33495				
+chr2	32162044	32221427	59383				
+chr2	32166674	32262423	95749				
+chr2	32175060	32275594	100534				
+chr2	32180666	32739959	559293				
+chr2	32183226	32226646	43420				
+chr2	32186177	32194438	8261				
+chr2	32191933	32193797	1864				
+chr2	32192236	32203895	11659				
+chr2	32193210	32236210	43000				
+chr2	32193217	32201298	8081				
+chr2	32193905	32198926	5021				
+chr2	32196200	32256854	60654				
+chr2	32201125	32245879	44754				
+chr2	32202097	33486027	1283930				
+chr2	32204457	32213793	9336				
+chr2	32204562	32213462	8900				
+chr2	32205611	32233151	27540				
+chr2	32206710	32213412	6702				
+chr2	32210446	32226418	15972				
+chr2	32212238	32216284	4046				
+chr2	32213822	32234732	20910				
+chr2	32216327	32671298	454971				
+chr2	32218798	32227950	9152				
+chr2	32219083	32225325	6242				
+chr2	32223926	32255603	31677				
+chr2	32225411	32227371	1960				
+chr2	32226295	32243098	16803				
+chr2	32226306	32250370	24064				
+chr2	32226318	32252061	25743				
+chr2	32226335	32243910	17575				
+chr2	32227182	32237949	10767				
+chr2	32227930	32242335	14405				
+chr2	32229615	32234710	5095				
+chr2	32232062	32234784	2722				
+chr2	32232146	32256768	24622				
+chr2	32232176	32250556	18380				
+chr2	32232401	32237902	5501				
+chr2	32232946	32233070	124				
+chr2	35324230	35450823	126593				
+chr2	35673189	35938563	265374				
+chr2	39372015	39442301	70286				
+chr2	47449790	47467671	17881				
+chr2	47449790	47467671	17881				
+chr2	47449790	47457720	7930				
+chr2	47449790	47450224	434				
+chr2	47450147	47460612	10465				
+chr2	47457656	47457720	64				
+chr2	47459595	47467671	8076				
+chr2	47464346	47469255	4909				
+chr2	47465808	47467671	1863				
+chr2	47479105	47490384	11279				
+chr2	47482081	47491937	9856				
+chr2	47482878	47504778	21900				
+chr2	47483011	47503056	20045				
+chr2	47483709	47563871	80162				
+chr2	47483709	47497072	13363				
+chr2	47483709	47497072	13363				
+chr2	47483709	47491015	7306				
+chr2	47483709	47489198	5489				
+chr2	47483709	47484045	336				
+chr2	47483766	47561514	77748				
+chr2	47483766	47551705	67939				
+chr2	47483766	47547451	63685				
+chr2	47483766	47526300	42534				
+chr2	47483766	47510584	26818				
+chr2	47483766	47497072	13306				
+chr2	47483766	47497072	13306				
+chr2	47483766	47495061	11295				
+chr2	47483766	47493203	9437				
+chr2	47483766	47491015	7249				
+chr2	47483766	47491015	7249				
+chr2	47483766	47489198	5432				
+chr2	47483766	47484045	279				
+chr2	47483833	47497072	13239				
+chr2	47485610	47522237	36627				
+chr2	47489043	47489198	155				
+chr2	47490055	47492101	2046				
+chr2	47490256	47491659	1403				
+chr2	47490284	47492335	2051				
+chr2	47490365	47492544	2179				
+chr2	47490736	47491015	279				
+chr2	47490880	47490953	73				
+chr2	47491553	47506934	15381				
+chr2	47491805	47501966	10161				
+chr2	47491981	47502147	10166				
+chr2	47493056	47563871	70815				
+chr2	47493056	47563864	70808				
+chr2	47493056	47493203	147				
+chr2	47493210	47496489	3279				
+chr2	47494905	47495511	606				
+chr2	47496012	47508936	12924				
+chr2	47510164	47516829	6665				
+chr2	47510249	47510703	454				
+chr2	47510315	47510451	136				
+chr2	47510384	47563864	53480				
+chr2	47510384	47510584	200				
+chr2	47510815	47530098	19283				
+chr2	47525618	47528626	3008				
+chr2	47526190	47563864	37674				
+chr2	47526190	47547451	21261				
+chr2	47526191	47526301	110				
+chr2	47539697	47551244	11547				
+chr2	47543673	47563864	20191				
+chr2	47543673	47543797	124				
+chr2	47551233	47559629	8396				
+chr2	47551607	47563871	12264				
+chr2	47551607	47563864	12257				
+chr2	47551607	47563864	12257				
+chr2	47551607	47563593	11986				
+chr2	47552009	47556976	4967				
+chr2	47555306	47562352	7046				
+chr2	47555667	47563864	8197				
+chr2	47555725	47555785	60				
+chr2	47557009	47557214	205				
+chr2	47557051	47557115	64				
+chr2	47557329	47561442	4113				
+chr2	47561338	47563864	2526				
+chr2	47563421	47563864	443				
+chr2	47563421	47563593	172				
+chr2	47705517	47727191	21674				
+chr2	47860779	47873776	12997				
+chr2	47863724	47887596	23872				
+chr2	47863724	47885670	21946				
+chr2	47863724	47871766	8042				
+chr2	47863724	47864136	412				
+chr2	47863875	47871766	7891				
+chr2	47868332	47886935	18603				
+chr2	47871569	47881798	10229				
+chr2	47871569	47871766	197				
+chr2	47876536	47887294	10758				
+chr2	47876536	47885670	9134				
+chr2	47876536	47881798	5262				
+chr2	47880198	47885124	4926				
+chr2	47883629	47885898	2269				
+chr2	47884062	47885670	1608				
+chr2	47884268	47884333	65				
+chr2	47885670	47887597	1927				
+chr2	47887261	47887346	85				
+chr2	47887261	47887345	84				
+chr2	47887441	47887497	56				
+chr2	49711441	49718644	7203				
+chr2	50121731	50129565	7834				
+chr2	50802971	51020497	217526				
+chr2	51151954	51190352	38398				
+chr2	51198977	51264630	65653				
+chr2	51440968	51481281	40313				
+chr2	51780102	51780408	306				
+chr2	61454894	62574071	1119177				
+chr2	64549396	64556790	7394				
+chr2	76794556	76802609	8053				
+chr2	86294626	86362876	68250				
+chr2	89209100	91184085	1974985				
+chr2	89209100	89877778	668678				
+chr2	89648195	89877778	229583				
+chr2	89731561	89746566	15005				
+chr2	96102133	97105800	1003667				
+chr2	96279672	96294977	15305				
+chr2	99421937	99428595	6658				
+chr2	99422194	99428595	6401				
+chr2	106270312	107795050	1524738				
+chr2	106463272	107808880	1345608				
+chr2	108879794	108889222	9428				
+chr2	108893313	108895586	2273				
+chr2	109811264	110519397	708133				
+chr2	110179628	111172237	992609				
+chr2	110238201	110319928	81727				
+chr2	111123309	112819065	1695756				
+chr2	113601608	113608081	6473				
+chr2	123534765	123595062	60297				
+chr2	127164300	127164357	57				
+chr2	127167909	127167993	84				
+chr2	130655741	130833141	177400				
+chr2	130666022	130669195	3173				
+chr2	131205331	131633413	428082				
+chr2	135688562	135947929	259367				
+chr2	140338410	149041132	8702722				
+chr2	141790229	141794473	4244				
+chr2	142715863	142759755	43892				
+chr2	144862750	144994340	131590				
+chr2	144991314	144991456	142				
+chr2	147780831	148493703	712872				
+chr2	147816204	149157811	1341607				
+chr2	148101134	148277180	176046				
+chr2	148116469	149316470	1200001				
+chr2	148163764	148367926	204162				
+chr2	148200431	148410628	210197				
+chr2	148213019	148453806	240787				
+chr2	148312561	148696044	383483				
+chr2	148417561	148494646	77085				
+chr2	148432390	148737275	304885				
+chr2	148447495	149377297	929802				
+chr2	148468658	148822197	353539				
+chr2	148616714	148715761	99047				
+chr2	148633232	148694098	60866				
+chr2	148690255	148879455	189200				
+chr2	150140370	150140463	93				
+chr2	153872189	153907736	35547				
+chr2	154410053	154839865	429812				
+chr2	155071996	158375463	3303467				
+chr2	160030033	160275783	245750				
+chr2	166619393	166619522	129				
+chr2	166621166	166621256	90				
+chr2	166759940	166769220	9280				
+chr2	169538477	169538551	74				
+chr2	179116498	179116630	132				
+chr2	179138672	179138740	68				
+chr2	179192687	179192768	81				
+chr2	179212811	179213046	235				
+chr2	184506070	184510854	4784				
+chr2	185409855	185451359	41504				
+chr2	188143887	188238823	94936				
+chr2	189561051	189564028	2977				
+chr2	189567934	189571467	3533				
+chr2	189568003	189568060	57				
+chr2	199937016	199972030	35014				
+chr2	200006305	200006482	177				
+chr2	201551744	201679269	127525				
+chr2	202949902	203132915	183013				
+chr2	202949902	203037776	87874				
+chr2	202950441	203132915	182474				
+chr2	202950441	203105552	155111				
+chr2	202950441	203087855	137414				
+chr2	202950441	203086686	136245				
+chr2	202950441	203037776	87335				
+chr2	202950518	203132915	182397				
+chr2	203037776	203040657	2881				
+chr2	203037776	203037947	171				
+chr2	203040157	203046690	6533				
+chr2	203040657	203132915	92258				
+chr2	203114989	203120152	5163				
+chr2	203115415	203132915	17500				
+chr2	208743045	208758692	15647				
+chr2	212881416	212900513	19097				
+chr2	212891940	212900513	8573				
+chr2	212891940	212898738	6798				
+chr2	212895278	212899634	4356				
+chr2	212896977	212898738	1761				
+chr2	213343296	213365671	22375				
+chr2	215301643	215342281	40638				
+chr2	219850902	219854754	3852				
+chr2	220139880	220139933	53				
+chr2	222866582	222871655	5073				
+chr2	223271817	223296915	25098				
+chr2	223506744	223531385	24641				
+chr2	227939002	227943108	4106				
+chr2	227951553	227966532	14979				
+chr2	232703572	232703673	101				
+chr2	232736412	232736586	174				
+chr2	232736412	232736586	174				
+chr2	241207608	241225299	17691				
+chr2	241456834	241464024	7190				
+chr2	241456834	241462067	5233				
+chr2	241457138	241457212	74				
+chr2	241459539	241467209	7670				
+chr2	241464739	241465861	1122				
+chr2	241466240	241467209	969				
+chr2	242460752	242697433	236681				
+chr2	242522472	242697433	174961				
+chr2	242566406	242697433	131027				
+chr2	242568436	242697433	128997				
+chr2	242575053	242697433	122380				
+chr20	3143319	3145225	1906				
+chr20	7905765	7910072	4307				
+chr20	12755015	12837314	82299				
+chr20	14696534	14903730	207196				
+chr20	14742360	14879186	136826				
+chr20	14746975	14955351	208376				
+chr20	25312309	25326180	13871				
+chr20	31270248	31278009	7761				
+chr20	36459755	36478947	19192				
+chr20	38749542	38750514	972				
+chr20	43784834	43811580	26746				
+chr20	48986206	49005129	18923				
+chr20	58389555	58395771	6216				
+chr20	60318636	61399793	1081157				
+chr20	60864317	60882911	18594				
+chr20	61350613	61379042	28429				
+chr20	61507985	61521469	13484				
+chr20	61507985	61510333	2348				
+chr20	61546455	61574437	27982				
+chr20	62030131	62037828	7697				
+chr21	9849403	9935312	85909				
+chr21	13636377	28138533	14502156				
+chr21	20837986	20840286	2300				
+chr21	22942093	22964940	22847				
+chr21	33949011	33978117	29106				
+chr21	34743231	34743912	681				
+chr21	34743412	34743802	390				
+chr21	35081967	35343125	261158				
+chr21	35081967	35093629	11662				
+chr21	35153640	35153745	105				
+chr21	36929839	38669490	1739651				
+chr21	43646294	43678287	31993				
+chr21	44795145	46370254	1575109				
+chr21	46578912	46578990	78				
+chr22	17224631	17388108	163477				
+chr22	17254964	19358946	2103982				
+chr22	19051033	19790598	739565				
+chr22	20644462	20903637	259175				
+chr22	20650929	20896160	245231				
+chr22	21301579	23371986	2070407				
+chr22	21997750	23371986	1374236				
+chr22	21997750	23321609	1323859				
+chr22	22459149	22506705	47556				
+chr22	22505758	22506705	947				
+chr22	23959681	24328204	368523				
+chr22	23999568	24244593	245025				
+chr22	24162418	24173884	11466				
+chr22	25325596	25404524	78928				
+chr22	27413730	27451355	37625				
+chr22	27413730	27445473	31743				
+chr22	27413730	27413974	244				
+chr22	27413883	27451355	37472				
+chr22	27415122	27415203	81				
+chr22	27422888	27425925	3037				
+chr22	27425825	27429554	3729				
+chr22	27429492	27429554	62				
+chr22	27429492	27429554	62				
+chr22	27435993	27445473	9480				
+chr22	27450964	27451355	391				
+chr22	27450964	27451355	391				
+chr22	28365078	28365201	123				
+chr22	28387722	28393344	5622				
+chr22	28393344	28397790	4446				
+chr22	28394321	28397937	3616				
+chr22	36699447	36700151	704				
+chr22	36739632	36777779	38147				
+chr22	36860358	36867039	6681				
+chr22	36895170	36895424	254				
+chr22	37758864	37775502	16638				
+chr22	38379355	38395268	15913				
+chr22	39867172	39892548	25376				
+chr22	40849139	40864068	14929				
+chr22	47419668	49540546	2120878				
+chr22	48668989	49591432	922443				
+chr22	49374446	49581309	206863				
+chr3	36494	101209	64715				
+chr3	832324	1038826	206502				
+chr3	1757523	1758885	1362				
+chr3	5366553	5413374	46821				
+chr3	8762211	8763451	1240				
+chr3	8804871	8832963	28092				
+chr3	9452569	9452650	81				
+chr3	10150482	10158579	8097				
+chr3	10158318	10158871	553				
+chr3	10163172	10163227	55				
+chr3	10163197	10163320	123				
+chr3	10166470	10170354	3884				
+chr3	10166470	10170354	3884				
+chr3	10166470	10166649	179				
+chr3	12607224	12635296	28072				
+chr3	14141440	14160181	18741				
+chr3	20552476	20558678	6202				
+chr3	22258294	22260566	2272				
+chr3	28785591	28791086	5495				
+chr3	35801710	35877889	76179				
+chr3	37009661	37013810	4149				
+chr3	37009843	37045428	35585				
+chr3	37009844	37067341	57497				
+chr3	37009844	37045427	35583				
+chr3	37009844	37034094	24250				
+chr3	37009844	37025400	15556				
+chr3	37009844	37017548	7704				
+chr3	37009844	37013204	3360				
+chr3	37009844	37010158	314				
+chr3	37009844	37010158	314				
+chr3	37010042	37010158	116				
+chr3	37012422	37018559	6137				
+chr3	37013113	37017548	4435				
+chr3	37014448	37034617	20169				
+chr3	37014763	37027444	12681				
+chr3	37017449	37017548	99				
+chr3	37019475	37021593	2118				
+chr3	37020075	37021865	1790				
+chr3	37020098	37029655	9557				
+chr3	37020650	37024944	4294				
+chr3	37020895	37067341	46446				
+chr3	37020895	37020969	74				
+chr3	37023070	37024291	1221				
+chr3	37024643	37025449	806				
+chr3	37024803	37027213	2410				
+chr3	37024842	37027253	2411				
+chr3	37024876	37027285	2409				
+chr3	37025308	37042502	17194				
+chr3	37027953	37035994	8041				
+chr3	37028314	37034094	5780				
+chr3	37036210	37038081	1871				
+chr3	37036311	37041760	5449				
+chr3	37036598	37036917	319				
+chr3	37036804	37067341	30537				
+chr3	37039802	37043329	3527				
+chr3	37041456	37042528	1072				
+chr3	37042131	37067341	25210				
+chr3	37042131	37042502	371				
+chr3	37043628	37049682	6054				
+chr3	37043657	37046812	3155				
+chr3	37045278	37067341	22063				
+chr3	37045278	37045427	149				
+chr3	37055358	37058372	3014				
+chr3	37056680	37067341	10661				
+chr3	37056680	37056789	109				
+chr3	37059095	37064251	5156				
+chr3	37059593	37064790	5197				
+chr3	37061770	37064582	2812				
+chr3	37064013	37067341	3328				
+chr3	37064013	37067341	3328				
+chr3	37065398	37067341	1943				
+chr3	37066980	37067341	361				
+chr3	37066980	37067341	361				
+chr3	37067122	37067306	184				
+chr3	37954885	37961253	6368				
+chr3	38564556	38649854	85298				
+chr3	38564556	38568053	3497				
+chr3	38620200	38649808	29608				
+chr3	38630237	38638984	8747				
+chr3	38649529	38649854	325				
+chr3	41241070	41241121	51				
+chr3	41631077	41817206	186129				
+chr3	41786352	41873725	87373				
+chr3	48483666	48483720	54				
+chr3	53008334	53010084	1750				
+chr3	62933608	62968123	34515				
+chr3	65092986	65093802	816				
+chr3	65166886	65190844	23958				
+chr3	65166886	65189573	22687				
+chr3	65166886	65187636	20750				
+chr3	65166886	65181623	14737				
+chr3	65181622	65187636	6014				
+chr3	66667611	66712455	44844				
+chr3	70068459	70097167	28708				
+chr3	70088193	70097167	8974				
+chr3	75511364	75809615	298251				
+chr3	75511364	75687847	176483				
+chr3	75511364	75552183	40819				
+chr3	75868967	75873512	4545				
+chr3	89467255	89499861	32606				
+chr3	95080696	95080848	152				
+chr3	97786577	97802654	16077				
+chr3	101834385	101920582	86197				
+chr3	121877023	121877672	649				
+chr3	123486172	123486715	543				
+chr3	129680954	129688609	7655				
+chr3	129874478	129894714	20236				
+chr3	137447738	137455790	8052				
+chr3	137631828	137743412	111584				
+chr3	140147778	140147902	124				
+chr3	147961934	149128701	1166767				
+chr3	150327190	150331109	3919				
+chr3	150447381	150450025	2644				
+chr3	152997279	153056976	59697				
+chr3	152997279	153028731	31452				
+chr3	153159011	153163708	4697				
+chr3	163614101	163625169	11068				
+chr3	163614101	163621520	7419				
+chr3	163614848	163625169	10321				
+chr3	164401080	164661472	260392				
+chr3	164661471	164746580	85109				
+chr3	165144225	165146979	2754				
+chr3	166523809	166555700	31891				
+chr3	174722146	174792533	70387				
+chr3	174722146	174783731	61585				
+chr3	177375775	177390036	14261				
+chr3	180399231	180435194	35963				
+chr3	187869469	187893770	24301				
+chr3	187893769	187977116	83347				
+chr3	193787901	193794964	7063				
+chr3	195707774	195727220	19446				
+chr3	197222416	198817395	1594979				
+chr4	61565	124851	63286				
+chr4	2733885	2740570	6685				
+chr4	9531294	9591313	60019				
+chr4	10007524	10009254	1730				
+chr4	15089444	15091549	2105				
+chr4	16022196	16037928	15732				
+chr4	22543786	23172201	628415				
+chr4	24642105	25115030	472925				
+chr4	24737983	24738077	94				
+chr4	34826054	34827632	1578				
+chr4	42392309	42402855	10546				
+chr4	44671459	44697744	26285				
+chr4	45512083	45558025	45942				
+chr4	54835764	54859169	23405				
+chr4	55218851	55301638	82787				
+chr4	63748998	63762611	13613				
+chr4	63820935	63833261	12326				
+chr4	66267516	66312360	44844				
+chr4	71500090	71502438	2348				
+chr4	80379488	80817737	438249				
+chr4	81090955	81162712	71757				
+chr4	86429304	86651405	222101				
+chr4	88756291	88756444	153				
+chr4	88756299	88756429	130				
+chr4	93200335	93475930	275595				
+chr4	94005797	94167126	161329				
+chr4	94073747	94231533	157786				
+chr4	94238864	94275788	36924				
+chr4	94372611	94517060	144449				
+chr4	97527936	97610389	82453				
+chr4	101787978	101835304	47326				
+chr4	108285186	108300985	15799				
+chr4	111298785	111407132	108347				
+chr4	111758653	111763077	4424				
+chr4	111993999	115504000	3510001				
+chr4	113787958	113788706	748				
+chr4	120277114	120328392	51278				
+chr4	120277128	120277204	76				
+chr4	121613270	121677135	63865				
+chr4	122504712	122509313	4601				
+chr4	122543561	122553215	9654				
+chr4	129071287	129105813	34526				
+chr4	129993824	130147254	153430				
+chr4	138322762	138409844	87082				
+chr4	154800657	154805372	4715				
+chr4	158649996	158698957	48961				
+chr4	161281593	161290509	8916				
+chr4	161809540	161866428	56888				
+chr4	162164751	162228975	64224				
+chr4	162171677	162228975	57298				
+chr4	162171677	162223074	51397				
+chr4	165796189	165806450	10261				
+chr4	186637221	186651620	14399				
+chr4	186658807	186693706	34899				
+chr4	186681509	186693706	12197				
+chr4	187171279	187374140	202861				
+chr4	189370200	189395157	24957				
+chr4	190675599	191152644	477045				
+chr5	841645	904046	62401				
+chr5	841645	893717	52072				
+chr5	841645	878338	36693				
+chr5	841645	874726	33081				
+chr5	1306661	1306838	177				
+chr5	7222850	7244074	21224				
+chr5	7231643	7244074	12431				
+chr5	7232550	7244074	11524				
+chr5	8761018	8797557	36539				
+chr5	8768359	8797557	29198				
+chr5	8781873	8797557	15684				
+chr5	9182754	9310708	127954				
+chr5	9955402	9977597	22195				
+chr5	13845102	13997548	152446				
+chr5	13877307	13883884	6577				
+chr5	13970268	13972730	2462				
+chr5	13976388	13976549	161				
+chr5	18855702	18948894	93192				
+chr5	32137156	32195274	58118				
+chr5	32143137	32195274	52137				
+chr5	35897765	35903377	5612				
+chr5	45432350	45731977	299627				
+chr5	68793529	68864052	70523				
+chr5	70341451	70343220	1769				
+chr5	77471801	77479971	8170				
+chr5	77497189	77497252	63				
+chr5	89989477	89989851	374				
+chr5	90180190	90195488	15298				
+chr5	90404004	90495488	91484				
+chr5	91099865	93922134	2822269				
+chr5	92870912	93705504	834592				
+chr5	94290572	94341763	51191				
+chr5	97073408	97125076	51668				
+chr5	97074221	97137279	63058				
+chr5	97074221	97134315	60094				
+chr5	97074221	97125076	50855				
+chr5	97961787	97967516	5729				
+chr5	98807428	98869154	61726				
+chr5	99625427	99642500	17073				
+chr5	104097460	104434851	337391				
+chr5	106251434	106288586	37152				
+chr5	109391073	109412205	21132				
+chr5	109391073	109403379	12306				
+chr5	112071099	112209836	138737				
+chr5	112101454	112209835	108381				
+chr5	112101454	112179189	77735				
+chr5	112118468	112185587	67119				
+chr5	112118486	112207667	89181				
+chr5	112144385	112209835	65450				
+chr5	112179090	112185587	6497				
+chr5	112182257	112183127	870				
+chr5	112182561	112185587	3026				
+chr5	112190703	112209835	19132				
+chr5	112190703	112207723	17020				
+chr5	112192451	112192568	117				
+chr5	112192585	112192674	89				
+chr5	112201148	112209835	8687				
+chr5	113188388	113199827	11439				
+chr5	113902034	114014122	112088				
+chr5	117729366	117735272	5906				
+chr5	127681739	127682592	853				
+chr5	131733595	131756183	22588				
+chr5	131920514	132008212	87698				
+chr5	131920514	131921044	530				
+chr5	131939367	131939519	152				
+chr5	132001705	132001774	69				
+chr5	148422726	148422930	204				
+chr5	155410443	155416815	6372				
+chr5	161460818	161515123	54305				
+chr5	171691389	171703972	12583				
+chr5	172591712	172594921	3209				
+chr5	177323654	177333156	9502				
+chr6	1543590	1675085	131495				
+chr6	1555678	1557341	1663				
+chr6	7528532	7531032	2500				
+chr6	7530981	7531221	240				
+chr6	14947756	14953778	6022				
+chr6	19153538	19156752	3214				
+chr6	27740559	27768487	27928				
+chr6	29202674	29269414	66740				
+chr6	29977088	30004400	27312				
+chr6	30018356	30183822	165466				
+chr6	30018580	30020276	1696				
+chr6	31193178	31432626	239448				
+chr6	31329017	31336951	7934				
+chr6	31345102	31486367	141265				
+chr6	31446506	31449336	2830				
+chr6	31463097	31561619	98522				
+chr6	32296360	32737780	441420				
+chr6	32606811	32626983	20172				
+chr6	32717074	32737787	20713				
+chr6	43053984	43054248	264				
+chr6	43681033	43689375	8342				
+chr6	48437767	48460531	22764				
+chr6	49517572	49517643	71				
+chr6	55884543	56361749	477206				
+chr6	55927320	55954486	27166				
+chr6	55936685	55954486	17801				
+chr6	65885573	65966941	81368				
+chr6	66610802	66679067	68265				
+chr6	66649853	66679067	29214				
+chr6	67074214	67104015	29801				
+chr6	67074214	67101152	26938				
+chr6	67074214	67096461	22247				
+chr6	83070172	84452544	1382372				
+chr6	84610196	84755072	144876				
+chr6	110503232	110517758	14526				
+chr6	112618443	118144289	5525846				
+chr6	113062360	113075116	12756				
+chr6	116787772	119816713	3028941				
+chr6	117917632	119459448	1541816				
+chr6	118068483	118386737	318254				
+chr6	118078241	118325413	247172				
+chr6	118516754	118741816	225062				
+chr6	118986680	118988280	1600				
+chr6	123875099	123875153	54				
+chr6	124446237	124516294	70057				
+chr6	124458545	124516294	57749				
+chr6	129082211	129264383	182172				
+chr6	129134964	129166877	31913				
+chr6	129827127	129827290	163				
+chr6	133825594	133827689	2095				
+chr6	135792712	135796087	3375				
+chr6	138951600	138971127	19527				
+chr6	146048950	146049125	175				
+chr6	146776898	147078607	301709				
+chr6	147711778	147765270	53492				
+chr6	147727172	147765270	38098				
+chr6	151659927	151663304	3377				
+chr6	154365601	154383251	17650				
+chr6	157140755	158286097	1145342				
+chr6	161272687	161486899	214212				
+chr6	161688579	162395196	706617				
+chr6	161889875	161910438	20563				
+chr6	162126793	162603787	476994				
+chr6	162126793	162126930	137				
+chr6	162279107	162398622	119515				
+chr6	162310183	162632839	322656				
+chr6	162395112	162395196	84				
+chr6	162487215	162566217	79002				
+chr6	162507762	162627601	119839				
+chr6	162537231	162660383	123152				
+chr6	162542152	162784495	242343				
+chr6	162542152	162542274	122				
+chr6	162542152	162542274	122				
+chr6	162548950	162759067	210117				
+chr6	162555235	162719366	164131				
+chr6	162602472	162865273	262801				
+chr6	162607390	162768964	161574				
+chr6	162610094	162641767	31673				
+chr6	162632838	162898128	265290				
+chr6	162651206	162967066	315860				
+chr6	162677322	162835583	158261				
+chr6	162784331	162784495	164				
+chr6	162952427	163152518	200091				
+chr7	140017	158577	18560				
+chr7	3576237	3594325	18088				
+chr7	4794310	4800552	6242				
+chr7	5979395	6008793	29398				
+chr7	5979395	5998214	18819				
+chr7	5979395	5996112	16717				
+chr7	5982148	5984027	1879				
+chr7	5982954	5984005	1051				
+chr7	5983744	5983914	170				
+chr7	5992909	6015182	22273				
+chr7	5992915	6015177	22262				
+chr7	5992915	6001790	8875				
+chr7	5995250	5996408	1158				
+chr7	5995956	6015263	19307				
+chr7	5995956	5998214	2258				
+chr7	5995956	5996112	156				
+chr7	5995956	5996112	156				
+chr7	5998129	6015263	17134				
+chr7	5998129	6012188	14059				
+chr7	5998129	6008793	10664				
+chr7	5998129	6005432	7303				
+chr7	6001690	6005432	3742				
+chr7	6003482	6010215	6733				
+chr7	6004808	6005910	1102				
+chr7	6009846	6010215	369				
+chr7	6015153	6015263	110				
+chr7	9094594	9196407	101813				
+chr7	9602916	9814167	211251				
+chr7	9688831	9772017	83186				
+chr7	10785679	10911718	126039				
+chr7	12224671	140140736	127916065				
+chr7	12385126	12389246	4120				
+chr7	16284277	16382392	98115				
+chr7	17392419	17420004	27585				
+chr7	19172960	19178234	5274				
+chr7	21907318	21907472	154				
+chr7	21907484	21977817	70333				
+chr7	24708842	24714458	5616				
+chr7	27205815	27205867	52				
+chr7	33132594	33152423	19829				
+chr7	33152388	33161839	9451				
+chr7	43897299	43901826	4527				
+chr7	52096815	52099008	2193				
+chr7	52700784	52711297	10513				
+chr7	53165762	53173719	7957				
+chr7	55210018	55210154	136				
+chr7	55226939	55227027	88				
+chr7	57264860	57886272	621412				
+chr7	57485045	57625893	140848				
+chr7	61385228	62475967	1090739				
+chr7	61385228	61995854	610626				
+chr7	61631604	62366659	735055				
+chr7	61673004	61684543	11539				
+chr7	69088169	69276329	188160				
+chr7	69593417	69855618	262201				
+chr7	69623778	69865956	242178				
+chr7	69743164	69841561	98397				
+chr7	69874658	72021354	2146696				
+chr7	72356213	73778644	1422431				
+chr7	73080054	73122173	42119				
+chr7	73120922	73122173	1251				
+chr7	75972138	75982496	10358				
+chr7	75981640	76475377	493737				
+chr7	76312849	76475377	162528				
+chr7	79175614	86628328	7452714				
+chr7	80952886	83562074	2609188				
+chr7	81055005	83771720	2716715				
+chr7	88425972	88433990	8018				
+chr7	91893207	91907100	13893				
+chr7	93886133	93890549	4416				
+chr7	94071501	94086521	15020				
+chr7	97771536	97995555	224019				
+chr7	102919639	102930809	11170				
+chr7	104960500	104975022	14522				
+chr7	104960506	104975016	14510				
+chr7	104982704	104994999	12295				
+chr7	107845809	107853562	7753				
+chr7	108836894	110917894	2081000				
+chr7	109242940	109264413	21473				
+chr7	109938706	112209817	2271111				
+chr7	110813183	110860946	47763				
+chr7	110857181	110953401	96220				
+chr7	111038684	111075609	36925				
+chr7	111220654	111417260	196606				
+chr7	116126373	116127574	1201				
+chr7	116168141	116225676	57535				
+chr7	116930381	116933256	2875				
+chr7	116931542	116936432	4890				
+chr7	116931542	116931653	111				
+chr7	117019276	117019360	84				
+chr7	117029441	117039296	9855				
+chr7	117036831	117039346	2515				
+chr7	117037808	117037959	151				
+chr7	117037883	117037937	54				
+chr7	117038221	117038817	596				
+chr7	117054811	117055060	249				
+chr7	117069703	117070484	781				
+chr7	141420758	141439888	19130				
+chr7	141420758	141429200	8442				
+chr7	141848050	141863297	15247				
+chr7	142136892	142140501	3609				
+chr7	142136903	142139998	3095				
+chr7	142139198	142140501	1303				
+chr7	142168483	142172090	3607				
+chr7	142168494	142171591	3097				
+chr7	142170794	142172090	1296				
+chr7	145425011	145427691	2680				
+chr7	145562640	146730410	1167770				
+chr7	146102295	146102406	111				
+chr7	146336203	146379657	43454				
+chr7	146387353	146566863	179510				
+chr7	146748386	146776509	28123				
+chr7	147149541	147438789	289248				
+chr7	148783838	149149081	365243				
+chr7	150184407	150191255	6848				
+chr7	150272976	150306335	33359				
+chr7	150272976	150287757	14781				
+chr7	150287608	150287670	62				
+chr7	151221217	151230436	9219				
+chr7	151504785	151908464	403679				
+chr7	151974515	151977381	2866				
+chr7	151976658	151977381	723				
+chr7	156232365	156312059	79694				
+chr7	156308563	156314664	6101				
+chr7	158451299	158681438	230139				
+chr7	158538144	158812247	274103				
+chr8	2129673	2145944	16271				
+chr8	3023398	4771829	1748431				
+chr8	3254761	3359114	104353				
+chr8	3718759	3801316	82557				
+chr8	3726712	3801316	74604				
+chr8	3773950	3776680	2730				
+chr8	5550689	5575331	24642				
+chr8	5586806	5595490	8684				
+chr8	5586806	5595205	8399				
+chr8	5586806	5595071	8265				
+chr8	5586806	5592495	5689				
+chr8	5588598	5592495	3897				
+chr8	6048061	6304674	256613				
+chr8	8620518	8624999	4481				
+chr8	13425249	13580373	155124				
+chr8	15439514	15454621	15107				
+chr8	15944058	15983553	39495				
+chr8	15992605	16070335	77730				
+chr8	16306879	16312873	5994				
+chr8	17625070	17626417	1347				
+chr8	17625070	17625980	910				
+chr8	17625070	17625734	664				
+chr8	17953342	18008839	55497				
+chr8	20996339	21195289	198950				
+chr8	24660682	25084588	423906				
+chr8	27382768	27384628	1860				
+chr8	31127398	31134588	7190				
+chr8	40304028	40308706	4678				
+chr8	42457877	43036042	578165				
+chr8	49993918	49996377	2459				
+chr8	49993918	49996377	2459				
+chr8	51389780	51393365	3585				
+chr8	61879153	61883643	4490				
+chr8	72272160	72286101	13941				
+chr8	72274052	72431312	157260				
+chr8	75433136	75435024	1888				
+chr8	83433949	83456427	22478				
+chr8	85039249	85052659	13410				
+chr8	86992490	87059567	67077				
+chr8	90284764	90328286	43522				
+chr8	91014739	91040258	25519				
+chr8	91016984	91018479	1495				
+chr8	91024656	91045911	21255				
+chr8	91062137	91066075	3938				
+chr8	92198015	92267387	69372				
+chr8	92198015	92252834	54819				
+chr8	92198015	92250390	52375				
+chr8	92344943	92364290	19347				
+chr8	97028994	97038532	9538				
+chr8	100139034	100307029	167995				
+chr8	101233020	101244993	11973				
+chr8	101243682	101243824	142				
+chr8	134334246	134340501	6255				
+chr8	137748986	137926509	177523				
+chr8	137757411	137926509	169098				
+chr8	145068442	145068508	66				
+chr9	36586	264108	227522				
+chr9	194192	333954	139762				
+chr9	344333	345793	1460				
+chr9	385249	697463	312214				
+chr9	1437010	1440428	3418				
+chr9	2611792	2644485	32693				
+chr9	3618375	3737376	119001				
+chr9	5296823	5325470	28647				
+chr9	8572228	8600513	28285				
+chr9	11404179	11453799	49620				
+chr9	12036841	12153583	116742				
+chr9	21177002	21218040	41038				
+chr9	21177120	21197037	19917				
+chr9	24492736	24505111	12375				
+chr9	24744014	24775247	31233				
+chr9	27030562	27050990	20428				
+chr9	28299787	28332179	32392				
+chr9	29909238	29918182	8944				
+chr9	30171744	30212006	40262				
+chr9	34270041	34286294	16253				
+chr9	34637754	34639648	1894				
+chr9	70894801	71030182	135381				
+chr9	71023095	71051425	28330				
+chr9	71058944	71059110	166				
+chr9	71289937	71305531	15594				
+chr9	73097444	73099691	2247				
+chr9	85393065	85396163	3098				
+chr9	93435879	93438668	2789				
+chr9	93529881	93538732	8851				
+chr9	97049534	97051472	1938				
+chr9	97245084	97310652	65568				
+chr9	97269218	97272034	2816				
+chr9	101379230	108589175	7209945				
+chr9	101854398	102008236	153838				
+chr9	101906600	101906730	130				
+chr9	114978138	115068995	90857				
+chr9	118438377	118543911	105534				
+chr9	118492591	118675446	182855				
+chr9	118492591	118534887	42296				
+chr9	129304873	129305601	728				
+chr9	129461880	129479380	17500				
+chr9	129617111	129656873	39762				
+chr9	129621721	129622137	416				
+chr9	129645193	129645345	152				
+chr9	129645193	129645345	152				
+chr9	134740406	134765923	25517				
+chr9	136673471	136673963	492				
+chr9	136732837	136866871	134034				
+chr9	138559440	138644301	84861				
+chrX	1424084	1424649	565				
+chrX	1425325	1429426	4101				
+chrX	13689124	13689251	127				
+chrX	18353645	18407008	53363				
+chrX	18434975	18581670	146695				
+chrX	18434975	18438895	3920				
+chrX	18503394	18581670	78276				
+chrX	18553168	18581670	28502				
+chrX	18553168	18556628	3460				
+chrX	18556411	18581670	25259				
+chrX	24932927	24933030	103				
+chrX	31047265	33139594	2092329				
+chrX	31101570	33139356	2037786				
+chrX	31188992	31189054	62				
+chrX	31251635	31407141	155506				
+chrX	31372518	31424982	52464				
+chrX	31406143	31860265	454122				
+chrX	31424825	31803411	378586				
+chrX	31555710	31586182	30472				
+chrX	31586027	31764857	178830				
+chrX	31586027	31748121	162094				
+chrX	31591510	31921050	329540				
+chrX	31657668	31748121	90453				
+chrX	31657668	31657786	118				
+chrX	31701997	31764860	62863				
+chrX	31701997	31702230	233				
+chrX	31705030	31780508	75478				
+chrX	31748012	31764857	16845				
+chrX	31748387	31777420	29033				
+chrX	31896376	31896552	176				
+chrX	32215566	32238314	22748				
+chrX	32215566	32238314	22748				
+chrX	32366278	32419556	53278				
+chrX	32391476	32419556	28080				
+chrX	32473196	32777858	304662				
+chrX	32473196	32473372	176				
+chrX	32493739	32542491	48752				
+chrX	32501567	32627331	125764				
+chrX	32523794	32777858	254064				
+chrX	32572169	32777858	205689				
+chrX	32737530	33139594	402064				
+chrX	32737530	32948238	210708				
+chrX	32744505	32772898	28393				
+chrX	32751332	32751425	93				
+chrX	32772820	32777858	5038				
+chrX	32948176	32948238	62				
+chrX	39801351	39822166	20815				
+chrX	43364827	46625947	3261120				
+chrX	43364827	45386793	2021966				
+chrX	48647354	48648326	972				
+chrX	48802380	48854335	51955				
+chrX	49731990	49733244	1254				
+chrX	68752762	68753051	289				
+chrX	69093261	69093701	440				
+chrX	69093297	69093665	368				
+chrX	69093601	69093707	106				
+chrX	69159704	69172184	12480				
+chrX	69171932	69172184	252				
+chrX	70265688	70266789	1101				
+chrX	71598577	72351053	752476				
+chrX	77076661	77118127	41466				
+chrX	99785818	99812952	27134				
+chrX	102918409	102934204	15795				
+chrX	102918573	102932187	13614				
+chrX	107570092	107795392	225300				
+chrX	107570092	107688949	118857				
+chrX	107669691	107795392	125701				
+chrX	107669691	107751688	81997				
+chrX	107689039	107822633	133594				
+chrX	107726947	107727271	324				
+chrX	107727413	107728854	1441				
+chrX	107731790	107731843	53				
+chrX	107785343	107800113	14770				
+chrX	107798256	107798328	72				
+chrX	107798309	107798361	52				
+chrX	107807395	107807458	63				
+chrX	112937090	114848063	1910973				
+chrX	118870757	119487058	616301				
+chrX	119446366	119446509	143				
+chrX	119449205	119459777	10572				
+chrX	119465655	119467071	1416				
+chrX	128520545	128524791	4246				
+chrX	132623368	132623620	252				
+chrX	132623423	132715869	92446				
+chrX	135360995	135951445	590450				
+chrX	135376939	135954011	577072				
+chrX	135424111	136082636	658525				
+chrX	135429095	136019895	590800				
+chrX	135449979	136019365	569386				
+chrX	146837890	146854049	16159				
+chrX	148394468	148394789	321				
+chrX	152420617	152441178	20561				
+chrX	152421631	152449170	27539				
+chrX	152715805	152716705	900				
+chrX	152782531	152784468	1937				
+chrX	152940457	153016382	75925				
+chrX	152945567	152949315	3748				
+chrX	152948559	152949327	768				
+chrX	152948895	152949316	421				
+chrX	152948967	152949646	679				
+chrX	152949016	152949220	204				
+chrX	152949076	152949372	296				
+chrX	152949206	152949312	106				
+chrX	152949264	152949318	54				
+chrX	152949271	152949357	86				
+chrX	152949274	152949344	70				
+chrX	152949278	152949466	188				
+chrX	152949289	152949472	183				
+chrX	152949306	152949575	269				
+chrX	152949314	152949708	394				
+chrX	153010855	153011002	147				
+chrX	153230093	153252923	22830				
+chrX	153260790	153263077	2287				
+chrX	153293374	153295098	1724				
+chrX	154127692	154171266	43574				
+chrX	154415256	154437478	22222				
