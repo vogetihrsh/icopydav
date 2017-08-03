@@ -1,0 +1,2106 @@
+chr1	909237	24706269	23797032	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr1	909237	16736132	15826895	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr1	1273563	1273648	85	not provided	deletion	not provided	not provided
+chr1	1385210	1439671	54461	not provided	deletion	Large for gestational age,Small for gestational age	unknown
+chr1	1391286	1460339	69053	Pathogenic	deletion	not provided	germline
+chr1	1416437	1455296	38859	Pathogenic	deletion	not provided	germline
+chr1	1619540	1664124	44584	not provided	deletion	Large for gestational age	unknown
+chr1	1627986	1664124	36138	not provided	deletion	Normal pregnancy	unknown
+chr1	2352145	2366316	14171	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr1	2358943	2369498	10555	not provided	duplication	Small for gestational age	unknown
+chr1	3411412	3431235	19823	not provided	duplication	Preeclampsia	unknown
+chr1	12058826	12059152	326	Pathogenic	deletion	Charcot-Marie-Tooth disease,type 2	germline
+chr1	12880152	12913896	33744	not provided	deletion	Large for gestational age	unknown
+chr1	15783770	15796808	13038	not provided	deletion	Normal pregnancy	unknown
+chr1	15794010	15814186	20176	not provided	deletion	Normal pregnancy	unknown
+chr1	16902893	17264939	362046	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr1	17345216	17380665	35449	Pathogenic	deletion	Gastrointestinal stromal tumor,Paragangliomas 4,Pheochromocytoma	germline
+chr1	17345216	17380665	35449	Uncertain significance	duplication	Gastrointestinal stromal tumor,Paragangliomas 4,Pheochromocytoma	germline
+chr1	17345216	17345453	237	Uncertain significance	deletion	Gastrointestinal stromal tumor,Paragangliomas 4,Pheochromocytoma	germline
+chr1	17371255	17371383	128	Pathogenic	deletion	Gastrointestinal stromal tumor,Paragangliomas 4,Pheochromocytoma	germline
+chr1	17555507	24706269	7150762	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr1	25598275	25655538	57263	not provided	deletion	Gestational diabetes mellitus uncontrolled,Normal pregnancy	unknown
+chr1	26126710	26126802	92	Pathogenic	deletion	not provided	germline
+chr1	33276191	33276658	467	Uncertain significance	deletion	Charcot-Marie-Tooth disease,dominant intermediate C	germline
+chr1	36367779	36387654	19875	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr1	41343607	41378076	34469	not provided	duplication	Large for gestational age,Preeclampsia	unknown
+chr1	43391045	43424847	33802	Pathogenic	deletion	GLUT1 deficiency syndrome 1	germline
+chr1	45636891	45645069	8178	not provided	deletion	Normal pregnancy	unknown
+chr1	45794913	45800183	5270	Uncertain significance	duplication	MYH-associated polyposis	germline
+chr1	45794976	45798996	4020	Pathogenic	deletion	MYH-associated polyposis	germline
+chr1	49928062	49990335	62273	not provided	deletion	Large for gestational age	unknown
+chr1	50863201	50874830	11629	not provided	deletion	Small for gestational age	unknown
+chr1	59024434	59086221	61787	not provided	deletion	Small for gestational age	unknown
+chr1	73011442	73086201	74759	not provided	deletion	Large for gestational age	unknown
+chr1	73959878	73993804	33926	not provided	duplication	Small for gestational age	unknown
+chr1	94463475	94468246	4771	Likely pathogenic	deletion	Stargardt disease 1	germline
+chr1	94867055	95134903	267848	not provided	duplication	Normal pregnancy	unknown
+chr1	97435889	97454547	18658	not provided	deletion	Preeclampsia	unknown
+chr1	98220228	98342687	122459	Likely pathogenic	deletion	Schizophrenia	germline
+chr1	102667387	102846147	178760	not provided	deletion	Small for gestational age	unknown
+chr1	104129879	104211046	81167	not provided	deletion	Large for gestational age,Normal pregnancy,Small for gestational age	unknown
+chr1	104153864	104211046	57182	not provided	deletion	Large for gestational age,Normal pregnancy	unknown
+chr1	104153864	104155944	2080	not provided	deletion	Small for gestational age	unknown
+chr1	111926152	111944073	17921	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr1	111926152	111934304	8152	not provided	deletion	Preeclampsia	unknown
+chr1	145413071	145596903	183832	Pathogenic	deletion	Radial aplasia-thrombocytopenia syndrome	not provided
+chr1	145414692	145417545	2853	Pathogenic	deletion	Hemochromatosis type 2A	germline
+chr1	145625978	145762959	136981	not provided	deletion	Preeclampsia,Small for gestational age	unknown
+chr1	146089253	148004783	1915530	Pathogenic	duplication	Autism spectrum disorders	maternal
+chr1	146499478	147830375	1330897	Pathogenic	duplication	Autism spectrum disorders	de novo
+chr1	146560563	147416122	855559	Pathogenic	deletion	1q21.1 recurrent microdeletion	germline
+chr1	149039929	149201987	162058	not provided	deletion	Gestational diabetes mellitus uncontrolled,Large for gestational age,Normal pregnancy	unknown
+chr1	149060681	149201987	141306	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr1	155285955	155289259	3304	Pathogenic	deletion	Porokeratosis 9,multiple types	germline
+chr1	156084709	156085065	356	Pathogenic	deletion	Laminopathy	germline
+chr1	156108278	156108548	270	Pathogenic	deletion	Hutchinson-Gilford syndrome	germline
+chr1	158753405	158876921	123516	not provided	deletion	Large for gestational age	unknown
+chr1	161275597	161279773	4176	Likely pathogenic	duplication	Charcot-Marie-Tooth disease,demyelinating,type 1b	germline
+chr1	161279433	161299373	19940	Likely pathogenic	deletion	Charcot-Marie-Tooth disease,demyelinating,type 1b	germline
+chr1	161293403	161293460	57	Uncertain significance	deletion	Gastrointestinal stromal tumor,Paragangliomas 3	germline
+chr1	161310383	161310445	62	Likely pathogenic	duplication	Paragangliomas 3	germline
+chr1	161326466	161326630	164	Pathogenic	deletion	Paragangliomas 3	germline
+chr1	161492586	161501525	8939	not provided	deletion	Small for gestational age	unknown
+chr1	173872941	173886516	13575	Pathogenic	deletion	Antithrombin III deficiency	germline
+chr1	191833818	191887735	53917	not provided	deletion	Normal pregnancy	unknown
+chr1	193099303	193099373	70	Pathogenic	deletion	Parathyroid carcinoma	germline
+chr1	193172924	193223945	51021	Uncertain significance	duplication	Parathyroid carcinoma	germline
+chr1	193172924	193205486	32562	Likely pathogenic	duplication	Parathyroid carcinoma	germline
+chr1	193648642	193684171	35529	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr1	196722205	196808505	86300	protective,risk factor	deletion	Age-related macular degeneration,Hemolytic uremic syndrome,atypical,susceptibility to	germline
+chr1	196823299	196892322	69023	not provided	deletion	Small for gestational age	unknown
+chr1	196823299	196887457	64158	not provided	deletion	Large for gestational age	unknown
+chr1	196823299	196862569	39270	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr1	212999700	213011812	12112	not provided	deletion	Normal pregnancy,Small for gestational age	unknown
+chr1	215588711	222145072	6556361	Pathogenic	deletion	Loeys-Dietz syndrome 4	de novo
+chr1	215844313	215848958	4645	Likely pathogenic	deletion	Usher syndrome,type 2A	germline
+chr1	216040348	216040512	164	Pathogenic	deletion	Usher syndrome,type 2A	germline
+chr1	216061767	216074247	12480	Pathogenic	deletion	Usher syndrome,type 2A	germline
+chr1	216251430	216251704	274	Pathogenic	deletion	Usher syndrome,type 2A	germline
+chr1	216260060	216270555	10495	Pathogenic	deletion	Usher syndrome,type 2A	germline
+chr1	216465516	216500996	35480	Pathogenic	deletion	Usher syndrome,type 2A	germline
+chr1	216465516	216465712	196	Pathogenic	deletion	Usher syndrome,type 2A	germline
+chr1	216672180	220202575	3530395	Pathogenic	deletion	Loeys-Dietz syndrome 4	de novo
+chr1	220101229	220101287	58	Pathogenic	deletion	Hypermanganesemia with dystonia,polycythemia and cirrhosis	germline
+chr1	227150976	227195656	44680	Pathogenic	deletion	Coenzyme Q10 deficiency,primary,4	germline
+chr1	228353650	228547901	194251	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr1	231709403	231863204	153801	not provided	duplication	Normal pregnancy	unknown
+chr1	231709403	231813134	103731	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr1	231711488	231813134	101646	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr1	235575071	235583424	8353	Pathogenic	deletion	Hypoparathyroidism retardation dysmorphism syndrome	germline
+chr1	236984561	237128380	143819	not provided	deletion	Large for gestational age	unknown
+chr1	237205701	237519285	313584	Uncertain significance	duplication	Catecholaminergic polymorphic ventricular tachycardia	germline
+chr1	237433796	237519285	85489	Uncertain significance	duplication	Catecholaminergic polymorphic ventricular tachycardia	germline
+chr1	237494177	237494282	105	Pathogenic/Likely pathogenic	deletion	Catecholaminergic polymorphic ventricular tachycardia	germline
+chr1	239701434	239724421	22987	Likely pathogenic	deletion	Schizophrenia	germline
+chr1	239714773	239785165	70392	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr1	241660856	241683085	22229	Pathogenic	deletion	Fumarase deficiency	germline
+chr1	241660856	241667545	6689	Pathogenic	deletion	Fumarase deficiency	germline
+chr1	242263611	244559673	2296062	Pathogenic	deletion	Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 2	paternal
+chr1	245636914	245647726	10812	not provided	deletion	Normal pregnancy,Small for gestational age	unknown
+chr1	245636914	245642219	5305	not provided	deletion	Preeclampsia	unknown
+chr1	248525145	248525657	512	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr10	116475	450983	334508	Pathogenic	deletion	not provided	germline
+chr10	13056586	13060410	3824	not provided	deletion	Small for gestational age	unknown
+chr10	13056586	13058458	1872	not provided	deletion	Normal pregnancy	unknown
+chr10	20842030	20857365	15335	not provided	deletion	Gestational diabetes mellitus uncontrolled,Large for gestational age	unknown
+chr10	21129386	21130018	632	Uncertain significance	deletion	not specified	germline
+chr10	28149553	28151551	1998	Likely pathogenic	deletion	Primary ciliary dyskinesia 23	germline
+chr10	36909063	36949132	40069	not provided	duplication	Large for gestational age	unknown
+chr10	42682132	42827951	145819	not provided	deletion	Preeclampsia	unknown
+chr10	43595906	43598077	2171	Uncertain significance	deletion	Multiple endocrine neoplasia,type 2	germline
+chr10	43617393	43623718	6325	Uncertain significance	deletion	Multiple endocrine neoplasia,type 2	germline
+chr10	45209440	45359483	150043	not provided	duplication	Small for gestational age	unknown
+chr10	46283685	47703869	1420184	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr10	47049546	47940417	890871	not provided	duplication	Normal pregnancy,Preeclampsia	unknown
+chr10	47543321	47940417	397096	not provided	duplication	Large for gestational age,Preeclampsia	unknown
+chr10	47543321	47703869	160548	not provided	duplication	Normal pregnancy	unknown
+chr10	53207633	53211449	3816	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr10	55582143	55582206	63	Conflicting interpretations of pathogenicity	deletion	not specified	germline
+chr10	55663002	55663130	128	Pathogenic	deletion	Usher syndrome,type 1F	germline
+chr10	55735462	55779915	44453	not provided	deletion	Small for gestational age	unknown
+chr10	56077030	56424037	347007	Pathogenic	deletion	Usher syndrome,type 1F	germline
+chr10	57401748	57460416	58668	not provided	deletion	Preeclampsia	unknown
+chr10	58768318	58916759	148441	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr10	68078480	68114481	36001	not provided	deletion	Large for gestational age,Normal pregnancy,Small for gestational age	unknown
+chr10	68078480	68113595	35115	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr10	73491743	73494038	2295	Pathogenic	deletion	Usher syndrome,type 1D	germline
+chr10	78457587	78459211	1624	not provided	deletion	Normal pregnancy	unknown
+chr10	82879718	82892288	12570	not provided	deletion	Normal pregnancy	unknown
+chr10	82879718	82890180	10462	not provided	deletion	Gestational diabetes mellitus uncontrolled,Large for gestational age,Normal pregnancy	unknown
+chr10	83468657	83485025	16368	not provided	deletion	Normal pregnancy	unknown
+chr10	83944704	83959179	14475	not provided	deletion	Preeclampsia,Small for gestational age	unknown
+chr10	87954601	87959049	4448	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr10	88428320	88459810	31490	Uncertain significance	deletion	Myofibrillar myopathy,ZASP-related	germline
+chr10	88598621	88659883	61262	Pathogenic	deletion	Juvenile polyposis syndrome	germline
+chr10	88635623	88684945	49322	Pathogenic	deletion	Juvenile polyposis syndrome	germline
+chr10	89653781	89653866	85	Pathogenic	deletion	PTEN hamartoma tumor syndrome	germline
+chr10	95464132	95545376	81244	Pathogenic	deletion	Epilepsy,lateral temporal lobe,autosomal dominant	germline
+chr10	96499709	96563757	64048	not provided	deletion	Normal pregnancy	unknown
+chr10	107618047	107681447	63400	not provided	deletion	Small for gestational age	unknown
+chr10	107984319	108015496	31177	not provided	deletion	Large for gestational age,Normal pregnancy	unknown
+chr10	114846648	114847723	1075	not provided	deletion	Normal pregnancy	unknown
+chr10	121410881	121429689	18808	Uncertain significance	duplication	Dilated cardiomyopathy 1HH,Myofibrillar myopathy,BAG3-related	germline
+chr10	122079593	122094271	14678	not provided	deletion	Normal pregnancy	unknown
+chr10	134589630	134669463	79833	not provided	duplication	Normal pregnancy	unknown
+chr10	135175965	135182426	6461	Pathogenic	deletion	Mitochondrial short-chain enoyl-coa hydratase 1 deficiency	germline
+chr10	135217174	135369532	152358	not provided	duplication	Normal pregnancy	unknown
+chr10	135252346	135378802	126456	not provided	duplication	Normal pregnancy,Preeclampsia	unknown
+chr11	264390	396308	131918	not provided	duplication	Small for gestational age	unknown
+chr11	394004	419906	25902	not provided	duplication	Small for gestational age	unknown
+chr11	532630	534375	1745	Uncertain significance	duplication	Costello syndrome,not specified	germline
+chr11	532630	532755	125	Uncertain significance	duplication	Costello syndrome	germline
+chr11	870445	1857751	987306	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr11	1092953	1857751	764798	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr11	2591857	2594216	2359	Likely pathogenic	deletion	Long QT syndrome	germline
+chr11	2604664	2604775	111	Pathogenic	deletion	Long QT syndrome	germline
+chr11	2606441	2608922	2481	Pathogenic	deletion	Long QT syndrome	germline
+chr11	2797189	2798262	1073	Pathogenic	deletion	Long QT syndrome	germline
+chr11	5247799	5255214	7415	Pathogenic	deletion	Abnormal hemoglobin,Anemia,Hemoglobin Lepore trait,Persistence of hemoglobin F,Reduced beta/alpha synthesis ratio	germline,unknown
+chr11	5247867	5255282	7415	Pathogenic	deletion	Hemoglobin Lepore trait	germline
+chr11	5248143	5255556	7413	Pathogenic	deletion	Hemoglobin Lepore trait	germline
+chr11	6415115	6415214	99	Likely pathogenic	duplication	Niemann-Pick disease,type A	germline
+chr11	8959019	8964938	5919	not provided	deletion	Preeclampsia	unknown
+chr11	10215448	10215534	86	Pathogenic	deletion	Charcot-Marie-Tooth disease,type IV	germline
+chr11	18135641	18138153	2512	not provided	deletion	Normal pregnancy	unknown
+chr11	18949219	18956690	7471	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr11	22644078	22647387	3309	Uncertain significance	duplication	Fanconi anemia	germline
+chr11	25712299	25720706	8407	not provided	deletion	Large for gestational age,Normal pregnancy	unknown
+chr11	30918065	31698257	780192	Pathogenic	deletion	Aniridia	unknown
+chr11	31010423	31747424	737001	Pathogenic	deletion	Aniridia	unknown
+chr11	31152002	31693266	541264	Pathogenic	deletion	Aniridia	unknown
+chr11	31242423	31957424	715001	Pathogenic	deletion	Aniridia	unknown
+chr11	31242423	31892424	650001	Pathogenic	deletion	Aniridia	unknown
+chr11	31277818	31795239	517421	Pathogenic	deletion	Aniridia	unknown
+chr11	31422423	31751424	329001	Pathogenic	deletion	Aniridia	unknown
+chr11	31741694	31837838	96144	Pathogenic	deletion	Aniridia	unknown
+chr11	31822423	31976424	154001	Pathogenic	deletion	Aniridia	unknown
+chr11	34458229	34460711	2482	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr11	34458229	34460704	2475	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr11	34999670	34999729	59	Pathogenic	deletion	Pyruvate dehydrogenase E3-binding protein deficiency	germline
+chr11	35010773	35014686	3913	Pathogenic	deletion	Pyruvate dehydrogenase E3-binding protein deficiency	germline
+chr11	37768476	37891672	123196	not provided	duplication	Normal pregnancy	unknown
+chr11	42151228	42185849	34621	not provided	duplication	Preeclampsia	unknown
+chr11	47350986	47376251	25265	Likely pathogenic	deletion	Primary familial hypertrophic cardiomyopathy	germline
+chr11	47353395	47357562	4167	Pathogenic	deletion	Hypertrophic cardiomyopathy	germline
+chr11	47354116	47355561	1445	Pathogenic	deletion	Primary familial hypertrophic cardiomyopathy	germline
+chr11	47363640	47363734	94	Likely pathogenic	deletion	Primary familial hypertrophic cardiomyopathy	germline
+chr11	47367793	47367864	71	Pathogenic	deletion	Primary familial hypertrophic cardiomyopathy	germline
+chr11	47371324	47373056	1732	Pathogenic	deletion	Hypertrophic cardiomyopathy	germline
+chr11	48380902	48968027	587125	Uncertain significance	deletion	Autism spectrum disorders	paternal
+chr11	49977335	50668400	691065	not provided	duplication	Preeclampsia	unknown
+chr11	59204919	59244608	39689	not provided	deletion	Preeclampsia	unknown
+chr11	64570985	64577604	6619	Pathogenic	deletion	Multiple endocrine neoplasia,type 1	germline
+chr11	64570985	64572288	1303	Pathogenic	deletion	Multiple endocrine neoplasia,type 1	germline
+chr11	66024556	66024773	217	Pathogenic	deletion	Spastic paraplegia,optic atrophy,and neuropathy	germline
+chr11	66294158	66301137	6979	Pathogenic	deletion	Bardet-Biedl syndrome	germline
+chr11	67373668	67588012	214344	not provided	duplication	Normal pregnancy	unknown
+chr11	73638857	73708521	69664	not provided	duplication	Preeclampsia	unknown
+chr11	76923996	76925741	1745	Pathogenic	deletion	Usher syndrome,type 1	germline
+chr11	81498151	81517261	19110	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr11	81503991	81526573	22582	not provided	deletion	Small for gestational age	unknown
+chr11	81503991	81517261	13270	not provided	deletion	Gestational diabetes mellitus uncontrolled,Large for gestational age,Preeclampsia,Small for gestational age	unknown
+chr11	81505462	81517261	11799	not provided	deletion	Gestational diabetes mellitus uncontrolled,Normal pregnancy	unknown
+chr11	82858666	82876270	17604	not provided	duplication	Normal pregnancy	unknown
+chr11	82865517	82876270	10753	not provided	duplication	Preeclampsia	unknown
+chr11	83826731	84357005	530274	Likely pathogenic	deletion	Schizophrenia	germline
+chr11	84525943	84693279	167336	Likely pathogenic	deletion	Schizophrenia	germline
+chr11	84590107	84672444	82337	Likely pathogenic	deletion	Schizophrenia	germline
+chr11	88372707	88380551	7844	not provided	deletion	Normal pregnancy	unknown
+chr11	96192003	96243894	51891	not provided	duplication	Normal pregnancy	unknown
+chr11	97852497	98523074	670577	not provided	deletion	Preeclampsia	unknown
+chr11	99377406	99574689	197283	not provided	duplication	Small for gestational age	unknown
+chr11	99525125	99566782	41657	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr11	104366088	104372318	6230	not provided	deletion	Small for gestational age	unknown
+chr11	104754499	104761271	6772	not provided	deletion	Large for gestational age	unknown
+chr11	107653080	107683596	30516	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr11	107659023	107670228	11205	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr11	108093558	108239826	146268	Pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	108098350	108158442	60092	Uncertain significance	duplication	Ataxia-telangiectasia syndrome	germline
+chr11	108114679	108239826	125147	Pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	108122738	108122849	111	Likely pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	108137897	108225601	87704	Likely pathogenic	duplication	Ataxia-telangiectasia syndrome	germline
+chr11	108141927	108141996	69	Likely pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	108151721	108236236	84515	Pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	108151721	108160528	8807	Pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	108160328	108160528	200	Pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	108163345	108170612	7267	Likely pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	108168013	108206688	38675	Pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	108196036	108239826	43790	Pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	108198371	108202284	3913	Likely pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	108213948	108239826	25878	Pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	108235808	108236236	428	Pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	108235808	108236235	427	Pathogenic	deletion	Ataxia-telangiectasia syndrome	germline
+chr11	108235808	108236235	427	Likely pathogenic	duplication	Ataxia-telangiectasia syndrome	germline
+chr11	109111781	109156782	45001	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr11	111957547	111966525	8978	Pathogenic	deletion	Paragangliomas 1,Pheochromocytoma	germline
+chr11	111965979	111966081	102	Likely pathogenic	deletion	Hereditary Paraganglioma-Pheochromocytoma Syndromes	germline
+chr11	119149274	119149376	102	Uncertain significance	deletion	not specified	germline
+chr11	120557342	120630452	73110	not provided	deletion	Gestational diabetes mellitus uncontrolled,Small for gestational age	unknown
+chr11	122686127	122749214	63087	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr11	134347973	134720173	372200	not provided	duplication	Large for gestational age	unknown
+chr12	2245635	2252924	7289	not provided	deletion	Gestational diabetes mellitus uncontrolled,Large for gestational age,Normal pregnancy,Preeclampsia	unknown
+chr12	2798849	2841518	42669	Likely pathogenic	deletion	Schizophrenia	germline
+chr12	4920766	5603935	683169	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr12	7930170	8146162	215992	not provided	duplication	Large for gestational age	unknown
+chr12	7930170	8102386	172216	not provided	duplication	Preeclampsia	unknown
+chr12	7993315	8125745	132430	not provided	duplication	Normal pregnancy	unknown
+chr12	8000911	8114429	113518	not provided	duplication	Large for gestational age	unknown
+chr12	8003757	8123306	119549	not provided	deletion	Normal pregnancy	unknown
+chr12	9246175	9247568	1393	Benign	deletion		germline
+chr12	10074775	18800953	8726178	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr12	16002621	16018886	16265	not provided	deletion	Small for gestational age	unknown
+chr12	16295060	16480949	185889	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr12	21293333	21298702	5369	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr12	21715939	21716014	75	Pathogenic	deletion	not provided	germline
+chr12	23637678	23717515	79837	Pathogenic	deletion	Lamb-shaffer syndrome	germline
+chr12	23641725	23779213	137488	Pathogenic	deletion	Lamb-shaffer syndrome	germline
+chr12	23924799	24041698	116899	Pathogenic	deletion	Lamb-shaffer syndrome	germline
+chr12	23979790	24033225	53435	Pathogenic	deletion	Lamb-shaffer syndrome	germline
+chr12	25648675	25654445	5770	not provided	deletion	Preeclampsia	unknown
+chr12	31259371	31415204	155833	not provided	duplication	Normal pregnancy	unknown
+chr12	31259371	31409778	150407	not provided	duplication	Gestational diabetes mellitus uncontrolled,Large for gestational age	unknown
+chr12	31259371	31409579	150208	not provided	duplication	Preeclampsia	unknown
+chr12	31259371	31406907	147536	not provided	duplication	Small for gestational age	unknown
+chr12	31266286	31408696	142410	not provided	duplication	Preeclampsia	unknown
+chr12	31266286	31406907	140621	not provided	duplication	Small for gestational age	unknown
+chr12	32949042	32955490	6448	Pathogenic	deletion	Arrhythmogenic right ventricular cardiomyopathy,type 9	germline
+chr12	32976978	32977096	118	Likely pathogenic	deletion	Arrhythmogenic right ventricular cardiomyopathy	germline
+chr12	33030779	33031966	1187	Pathogenic	deletion	Arrhythmogenic right ventricular cardiomyopathy,type 9	germline
+chr12	42870201	42899456	29255	Likely pathogenic	deletion	Progressive myoclonus epilepsy with ataxia	de novo
+chr12	48369743	48370134	391	Pathogenic	deletion	Spondyloepiphyseal dysplasia congenita	germline
+chr12	49444957	49445038	81	Uncertain significance	deletion	not specified	germline
+chr12	52314542	52317145	2603	Pathogenic	deletion	Hereditary hemorrhagic telangiectasia type 2	germline
+chr12	52845951	52862614	16663	not provided	deletion	Normal pregnancy	unknown
+chr12	52845951	52859985	14034	not provided	deletion	Small for gestational age	unknown
+chr12	62269716	62272569	2853	not provided	deletion	Normal pregnancy	unknown
+chr12	63942648	64118558	175910	not provided	duplication	Preeclampsia	unknown
+chr12	63952692	64062354	109662	Pathogenic	deletion	Spermatogenic failure 9	germline
+chr12	70679863	70681814	1951	not provided	deletion	Normal pregnancy	unknown
+chr12	70680392	70681814	1422	not provided	deletion	Normal pregnancy	unknown
+chr12	80155599	80160230	4631	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr12	83171935	83206342	34407	not provided	deletion	Small for gestational age	unknown
+chr12	100002685	100008773	6088	not provided	deletion	Normal pregnancy	unknown
+chr12	100886253	100917988	31735	Pathogenic	deletion	Progressive intrahepatic cholestasis	paternal
+chr12	102151243	102151451	208	Likely pathogenic	duplication	I cell disease,Pseudo-Hurler polydystrophy	unknown
+chr12	102190454	102190540	86	Pathogenic	duplication	I cell disease	not provided
+chr12	103260373	103260441	68	not provided	deletion	not provided	not provided
+chr12	103311315	103315082	3767	not provided	deletion	not provided	not provided
+chr12	109552848	109712475	159627	not provided	duplication	Normal pregnancy	unknown
+chr12	110009812	110019888	10076	Pathogenic	deletion	Porokeratosis,disseminated superficial actinic 1	germline
+chr12	110012613	110012705	92	not provided	deletion	Hyperimmunoglobulin D with periodic fever	not provided
+chr12	110013802	110013950	148	not provided	deletion	Hyperimmunoglobulin D with periodic fever	not provided
+chr12	110019199	110019355	156	not provided	deletion	Hyperimmunoglobulin D with periodic fever	not provided
+chr12	111348622	111348979	357	Pathogenic	deletion	Familial hypertrophic cardiomyopathy 10	germline
+chr12	112915454	112915819	365	Likely pathogenic	deletion	Rasopathy	germline
+chr12	116419987	116460600	40613	Pathogenic	deletion	Mental retardation and distinctive facial features with or without cardiac defects	germline
+chr12	116484298	116695774	211476	Pathogenic	duplication	Mental retardation and distinctive facial features with or without cardiac defects	germline
+chr12	125260644	125321461	60817	not provided	duplication	Preeclampsia	unknown
+chr12	129226772	129266496	39724	not provided	duplication	Small for gestational age	unknown
+chr12	129228873	129234104	5231	not provided	deletion	Normal pregnancy,Preeclampsia	unknown
+chr12	131730734	131825125	94391	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr12	133233721	133263945	30224	Uncertain significance	duplication	Colorectal cancer,susceptibility to,12	germline
+chr12	133248800	133257865	9065	Uncertain significance	duplication	Colorectal cancer,susceptibility to,12	germline
+chr13	20470070	20509959	39889	not provided	duplication	Large for gestational age	unknown
+chr13	23357135	23515553	158418	not provided	duplication	Large for gestational age	unknown
+chr13	23544668	24893183	1348515	Likely pathogenic	deletion	Schizophrenia	germline
+chr13	23546237	23553518	7281	not provided	deletion	Normal pregnancy	unknown
+chr13	27015105	27017442	2337	not provided	deletion	Normal pregnancy	unknown
+chr13	32889616	32972908	83292	Pathogenic	deletion	Breast-ovarian cancer,familial 2	germline
+chr13	32890558	32929425	38867	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr13	32890558	32893462	2904	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr13	32890558	32890664	106	Pathogenic	deletion	Breast-ovarian cancer,familial 2,Hereditary breast and ovarian cancer syndrome	germline
+chr13	32893213	32893462	249	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr13	32899212	32900750	1538	Uncertain significance	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr13	32900714	32915032	14318	Pathogenic	deletion	Breast-ovarian cancer,familial 2	germline
+chr13	32930564	32932066	1502	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr13	32930726	32931009	283	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr13	32950806	32950928	122	Pathogenic	deletion	Breast-ovarian cancer,familial 2,Familial cancer of breast	germline,somatic
+chr13	32953904	32954030	126	Pathogenic	deletion	Breast-ovarian cancer,familial 2	germline
+chr13	32953907	32954033	126	Conflicting interpretations of pathogenicity	deletion	Breast-ovarian cancer,familial 2	germline
+chr13	32954282	32972908	18626	Pathogenic	deletion	Breast-ovarian cancer,familial 2	germline
+chr13	45634137	45910139	276002	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr13	48916734	48919335	2601	Pathogenic	deletion	Retinoblastoma	germline
+chr13	48953729	48955579	1850	Likely pathogenic	deletion	Retinoblastoma	germline
+chr13	58593656	58599031	5375	not provided	deletion	Normal pregnancy,Preeclampsia	unknown
+chr13	64343818	64387507	43689	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr13	69240120	69267981	27861	not provided	deletion	Preeclampsia,Small for gestational age	unknown
+chr13	69247021	69276739	29718	not provided	deletion	Large for gestational age	unknown
+chr13	69247021	69267981	20960	not provided	deletion	Gestational diabetes mellitus uncontrolled,Normal pregnancy,Preeclampsia,Small for gestational age	unknown
+chr13	70565867	70578513	12646	not provided	deletion	Normal pregnancy	unknown
+chr13	70744881	70778217	33336	not provided	deletion	Normal pregnancy	unknown
+chr13	77574550	77575150	600	Pathogenic	deletion	Ceroid lipofuscinosis neuronal 5	germline
+chr13	80691351	80696432	5081	not provided	duplication	Preeclampsia	unknown
+chr13	81919201	81952150	32949	not provided	duplication	Large for gestational age	unknown
+chr13	83788741	83793975	5234	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr13	83788741	83791615	2874	not provided	deletion	Preeclampsia	unknown
+chr13	84103706	84157927	54221	not provided	deletion	Gestational diabetes mellitus uncontrolled,Normal pregnancy	unknown
+chr13	85868322	85904426	36104	not provided	duplication	Preeclampsia	unknown
+chr13	89770383	89840239	69856	not provided	deletion	Small for gestational age	unknown
+chr13	90387428	90490883	103455	not provided	duplication	Normal pregnancy	unknown
+chr13	95933659	96035883	102224	not provided	duplication	Large for gestational age	unknown
+chr13	95933659	95983387	49728	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr13	95999738	96035883	36145	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr13	103689468	103699213	9745	not provided	duplication	Large for gestational age	unknown
+chr13	106326622	106866163	539541	not provided	duplication	Normal pregnancy	unknown
+chr14	19327822	20626291	1298469	not provided	duplication	Normal pregnancy	unknown
+chr14	19327822	20426742	1098920	not provided	duplication	Large for gestational age	unknown
+chr14	21371773	21393289	21516	not provided	deletion	Large for gestational age	unknown
+chr14	22376026	22737977	361951	not provided	deletion	Normal pregnancy	unknown
+chr14	22719679	22795126	75447	not provided	deletion	Large for gestational age	unknown
+chr14	24453365	24484060	30695	not provided	deletion	Large for gestational age,Small for gestational age	unknown
+chr14	33791400	33846501	55101	Likely pathogenic	deletion	Schizophrenia	germline
+chr14	35110511	35160860	50349	not provided	deletion	Large for gestational age	unknown
+chr14	40855031	40858428	3397	not provided	deletion	Preeclampsia	unknown
+chr14	41853508	41884448	30940	not provided	deletion	Normal pregnancy	unknown
+chr14	45648156	45650710	2554	Uncertain significance	deletion	Fanconi anemia,complementation group M	germline
+chr14	46749459	46759568	10109	not provided	deletion	Large for gestational age	unknown
+chr14	58771631	58799361	27730	not provided	duplication	Normal pregnancy	unknown
+chr14	62654697	62734866	80169	not provided	deletion	Small for gestational age	unknown
+chr14	65568263	65569262	999	Pathogenic	deletion	Hereditary Paraganglioma-Pheochromocytoma Syndromes	germline
+chr14	66975309	67291191	315882	Pathogenic	deletion	Molybdenum cofactor deficiency,complementation group C	germline
+chr14	73152114	77698582	4546468	Likely pathogenic	deletion	Aplasia/Hypoplasia of the thumb,Intellectual disability,mild,Multiple skeletal anomalies,Ventricular septal defect	de novo
+chr14	73671093	73676951	5858	not provided	deletion	not provided	not provided
+chr14	73671469	73676024	4555	not provided	deletion	not provided	not provided
+chr14	74138244	74138300	56	Uncertain significance	deletion	Ciliary dyskinesia,primary,16	germline
+chr14	76905696	76967064	61368	Likely pathogenic	deletion	Nonsyndromic hearing loss and deafness	germline
+chr14	79047821	79520101	472280	Uncertain significance	deletion	Autism spectrum disorders	unknown
+chr14	79354350	79660540	306190	Likely pathogenic	deletion	Schizophrenia	germline
+chr14	86284753	86310164	25411	not provided	deletion	Large for gestational age	unknown
+chr14	86287346	86332917	45571	not provided	deletion	Small for gestational age	unknown
+chr14	86287346	86310164	22818	not provided	deletion	Gestational diabetes mellitus uncontrolled,Preeclampsia,Small for gestational age	unknown
+chr14	86458413	86481388	22975	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr14	86460914	86481388	20474	not provided	deletion	Small for gestational age	unknown
+chr14	88399487	88419358	19871	not provided	deletion	Normal pregnancy	unknown
+chr14	90758890	90802050	43160	not provided	duplication	Small for gestational age	unknown
+chr14	90788933	90802050	13117	not provided	duplication	Gestational diabetes mellitus uncontrolled,Normal pregnancy,Preeclampsia,Small for gestational age	unknown
+chr14	91700559	91701009	450	Pathogenic	deletion	AMELOGENESIS IMPERFECTA,HYPOMATURATION TYPE,IIA6	germline
+chr14	92347751	92370477	22726	Pathogenic	duplication	Cutis laxa,autosomal dominant 1	not provided
+chr14	95552564	95599840	47276	Uncertain significance	duplication	DICER1-related pleuropulmonary blastoma cancer predisposition syndrome	germline
+chr14	95559868	95560991	1123	Pathogenic	deletion	DICER1-related pleuropulmonary blastoma cancer predisposition syndrome	germline
+chr14	96163102	96857129	694027	Likely pathogenic	duplication	Acute myeloid leukemia,Essential thrombocythemia,Myelofibrosis	germline
+chr14	101270695	101279253	8558	Pathogenic	deletion	Uniparental disomy,paternal,chromosome 14	maternal
+chr14	102898132	102968818	70686	Uncertain significance	duplication	Spastic paraplegia 49,autosomal recessive	germline
+chr14	104643720	105932775	1289055	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr14	105951610	107287663	1336053	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr14	105998543	107287663	1289120	not provided	duplication	Normal pregnancy	unknown
+chr14	106326622	106866163	539541	not provided	duplication	Normal pregnancy	unknown
+chr15	20044341	28924405	8880064	Pathogenic	duplication	Autism spectrum disorders	de novo
+chr15	20306548	26208861	5902313	Pathogenic	duplication	Autism spectrum disorders	maternal
+chr15	20612839	22652330	2039491	not provided	duplication	Large for gestational age	unknown
+chr15	22410241	23222284	812043	Uncertain significance	deletion	Autism spectrum disorders,Seizure Disorders	maternal
+chr15	22528722	23300172	771450	Uncertain significance	duplication	Autism spectrum disorders	maternal
+chr15	22528722	23226254	697532	Uncertain significance	deletion	Autism spectrum disorders	maternal
+chr15	22646348	23140114	493766	Uncertain significance	deletion	Autism spectrum disorders	maternal
+chr15	22750304	23228712	478408	Uncertain significance	deletion	Autism spectrum disorders	maternal
+chr15	22750304	23228712	478408	Uncertain significance	duplication	Autism spectrum disorders	de novo
+chr15	22750304	23175280	424976	Uncertain significance	duplication	Autism spectrum disorders	maternal
+chr15	22750304	23114440	364136	Uncertain significance	deletion	Autism spectrum disorders	maternal
+chr15	23043278	23086436	43158	Uncertain significance	deletion	Spastic paraplegia 6	germline
+chr15	23043278	23086436	43158	Uncertain significance	duplication	Spastic paraplegia 6	germline
+chr15	23077856	23114374	36518	not provided	deletion	Small for gestational age	unknown
+chr15	23084442	23114374	29932	not provided	deletion	Preeclampsia	unknown
+chr15	23624147	28790734	5166587	Pathogenic	duplication	Autism spectrum disorders	de novo
+chr15	23730703	28530182	4799479	Pathogenic	deletion	Angelman syndrome	germline
+chr15	24055487	24061497	6010	not provided	deletion	Large for gestational age,Normal pregnancy	unknown
+chr15	24357211	24472002	114791	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr15	24594815	24742652	147837	not provided	duplication	Preeclampsia	unknown
+chr15	24594815	24668007	73192	not provided	duplication	Gestational diabetes mellitus uncontrolled,Large for gestational age	unknown
+chr15	24606731	24668007	61276	not provided	duplication	Normal pregnancy	unknown
+chr15	25334521	28369712	3035191	Pathogenic	duplication	Autism spectrum disorders	maternal
+chr15	25420977	25430243	9266	not provided	deletion	Normal pregnancy	unknown
+chr15	25582395	25650653	68258	Pathogenic	deletion	Angelman syndrome	germline
+chr15	25582395	25650653	68258	Uncertain significance	duplication	Angelman syndrome	germline
+chr15	25584288	25584356	68	Pathogenic	deletion	Angelman syndrome	germline
+chr15	25584321	25584380	59	Pathogenic	duplication	Angelman syndrome	germline
+chr15	25615918	25616007	89	Pathogenic	deletion	Inborn genetic diseases	germline
+chr15	26788692	27018223	229531	Uncertain significance	deletion	Epilepsy,childhood absence 1,Epilepsy,childhood absence 5	germline
+chr15	29220617	30679040	1458423	Likely pathogenic	duplication	Schizophrenia	germline
+chr15	29220617	30664963	1444346	Likely pathogenic	duplication	Schizophrenia	germline
+chr15	30369913	31089526	719613	not provided	deletion	Preeclampsia	unknown
+chr15	30882900	32439053	1556153	Likely pathogenic	duplication	Schizophrenia	germline
+chr15	30940503	32620088	1679585	Pathogenic	deletion	Autism spectrum disorders	maternal
+chr15	30941571	32509926	1568355	Likely pathogenic	deletion	Autism spectrum disorders,Seizure Disorders	de novo
+chr15	31956035	32511581	555546	Uncertain significance	duplication	Autism spectrum disorders,Seizure Disorders	paternal
+chr15	32024191	32509926	485735	Uncertain significance	duplication	Autism spectrum disorders,Seizure Disorders	paternal
+chr15	32024199	32548462	524263	Likely pathogenic	duplication	Schizophrenia	germline
+chr15	32024199	32439053	414854	Likely pathogenic	duplication	Schizophrenia	germline
+chr15	32029600	32655281	625681	Likely pathogenic	duplication	Schizophrenia	germline
+chr15	32509891	32514341	4450	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr15	34760647	34800595	39948	not provided	deletion	Gestational diabetes mellitus uncontrolled,Normal pregnancy	unknown
+chr15	35509147	35562582	53435	not provided	deletion	Small for gestational age	unknown
+chr15	36034332	36036487	2155	not provided	deletion	Normal pregnancy	unknown
+chr15	37437247	37501850	64603	not provided	deletion	Small for gestational age	unknown
+chr15	38591573	38649450	57877	Pathogenic	deletion	Legius syndrome	germline
+chr15	40764166	40764263	97	Likely pathogenic	deletion	not provided	germline
+chr15	42159109	42192040	32931	not provided	duplication	Preeclampsia	unknown
+chr15	43891869	43910920	19051	Pathogenic	deletion	Nonsyndromic hearing loss and deafness	germline
+chr15	43891869	43897597	5728	Uncertain significance	duplication	not specified	germline
+chr15	43892731	43901532	8801	Uncertain significance	duplication	not specified	germline
+chr15	43892731	43897597	4866	Pathogenic	deletion	Nonsyndromic hearing loss and deafness	germline
+chr15	43892731	43893212	481	Pathogenic	deletion	Nonsyndromic hearing loss and deafness	germline
+chr15	43892731	43893212	481	Uncertain significance	duplication	not specified	germline
+chr15	43892947	43895799	2852	Pathogenic	deletion	Nonsyndromic hearing loss and deafness	germline
+chr15	43892947	43895542	2595	Pathogenic	deletion	Nonsyndromic hearing loss and deafness	germline
+chr15	43893069	43903182	10113	Uncertain significance	duplication	not specified	germline
+chr15	43893817	43939642	45825	not provided	deletion	Normal pregnancy,Preeclampsia	unknown
+chr15	43900060	43901532	1472	Uncertain significance	duplication	not specified	germline
+chr15	43901442	43901592	150	Pathogenic	deletion	Nonsyndromic hearing loss and deafness	germline
+chr15	43901445	43901512	67	Uncertain significance	duplication	not specified	germline
+chr15	43929273	43931260	1987	Pathogenic	deletion	Deafness-infertility syndrome	germline
+chr15	44862153	44870476	8323	Pathogenic	deletion	Spastic paraplegia 11,autosomal recessive	not provided
+chr15	44862722	44867239	4517	Pathogenic	deletion	Spastic paraplegia 11,autosomal recessive	germline
+chr15	44862722	44862856	134	Pathogenic	deletion	Spastic paraplegia 11,autosomal recessive	germline
+chr15	44864880	44867239	2359	Uncertain significance	deletion	Spastic paraplegia 11,autosomal recessive	germline
+chr15	44877833	44881612	3779	Uncertain significance	duplication	Spastic paraplegia 11,autosomal recessive	germline
+chr15	44881449	44925835	44386	Pathogenic	duplication	Spastic paraplegia 11,autosomal recessive	germline
+chr15	44898222	44955846	57624	Likely pathogenic	deletion	Spastic paraplegia 11,autosomal recessive	germline
+chr15	48703522	48760718	57196	Pathogenic	deletion	Marfan syndrome	germline
+chr15	48744761	48744829	68	Pathogenic	deletion	Marfan syndrome	germline
+chr15	48762830	48762953	123	Likely pathogenic	deletion	Marfan syndrome	germline
+chr15	53518465	53593018	74553	not provided	duplication	Large for gestational age	unknown
+chr15	55731669	55731779	110	Pathogenic	deletion	Primary ciliary dyskinesia	germline
+chr15	55742419	55742565	146	Pathogenic	deletion	Primary ciliary dyskinesia	germline
+chr15	61687639	61692518	4879	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr15	69696248	69735319	39071	not provided	duplication	Large for gestational age	unknown
+chr15	72637786	72639051	1265	Likely pathogenic	deletion	Tay-Sachs disease	germline
+chr15	81977464	82088114	110650	not provided	duplication	Preeclampsia	unknown
+chr15	86511689	86521483	9794	not provided	deletion	Small for gestational age	unknown
+chr15	87831145	87870024	38879	not provided	deletion	Preeclampsia	unknown
+chr15	89382102	89382159	57	Uncertain significance	deletion	not specified	germline
+chr15	89790859	89860362	69503	Pathogenic	deletion	Fanconi anemia	germline
+chr15	91347588	91358686	11098	Pathogenic	deletion	Bloom syndrome	not provided
+chr15	100885378	102399948	1514570	Likely pathogenic	duplication	Schizophrenia	germline
+chr15	102338426	102366849	28423	not provided	duplication	Normal pregnancy	unknown
+chr16	204299	227000	22701	Pathogenic	deletion	alpha Thalassemia	germline
+chr16	223299	227103	3804	Pathogenic	deletion	alpha Thalassemia	germline
+chr16	1239944	1300070	60126	Likely pathogenic	deletion	Schizophrenia	germline
+chr16	2098587	2138713	40126	Uncertain significance	duplication	Tuberous sclerosis 2	germline
+chr16	2098587	2115636	17049	Pathogenic	deletion	Tuberous sclerosis 2	germline
+chr16	2098644	2131595	32951	Pathogenic	deletion	Tuberous sclerosis 2	germline
+chr16	2103342	2110814	7472	Pathogenic	deletion	Tuberous sclerosis 2	germline
+chr16	2112497	2114428	1931	not provided	deletion	Tuberous sclerosis syndrome	germline
+chr16	2114272	2138713	24441	Uncertain significance	duplication	Tuberous sclerosis 2	germline
+chr16	2114272	2138315	24043	not provided	deletion	Tuberous sclerosis syndrome	germline
+chr16	2115519	2115636	117	Pathogenic	deletion	Tuberous sclerosis 2	germline
+chr16	2115519	2115636	117	not provided	deletion	not provided	not provided
+chr16	2120456	2120579	123	not provided	deletion	Tuberous sclerosis syndrome	germline
+chr16	2120476	2120554	78	not provided	deletion	Tuberous sclerosis syndrome	germline
+chr16	2133198	2137919	4721	Pathogenic	deletion	Tuberous sclerosis 2	germline
+chr16	2136256	2136313	57	not provided	deletion	Tuberous sclerosis syndrome	germline
+chr16	2136771	2137007	236	not provided	deletion	not provided	not provided
+chr16	3658430	3659567	1137	Pathogenic	deletion	Fanconi anemia	germline
+chr16	3775053	3930122	155069	Pathogenic	deletion	Rubinstein-Taybi syndrome	germline
+chr16	3929832	3929940	108	Pathogenic	deletion	Rubinstein-Taybi syndrome	germline
+chr16	6295073	6395368	100295	Uncertain significance	deletion	Autism spectrum disorders	maternal
+chr16	6682442	7069815	387373	Likely pathogenic	deletion	Schizophrenia	germline
+chr16	6714640	6792836	78196	Likely pathogenic	deletion	Schizophrenia	germline
+chr16	6750249	7122374	372125	Uncertain significance	duplication	Autism spectrum disorders	paternal
+chr16	7088520	7147700	59180	Likely pathogenic	deletion	Schizophrenia	germline
+chr16	10149903	10164599	14696	not provided	deletion	Preeclampsia	unknown
+chr16	12686916	12730650	43734	not provided	deletion	Normal pregnancy	unknown
+chr16	14658271	14679880	21609	Pathogenic	deletion	Dyskeratosis congenita,autosomal recessive 6	germline
+chr16	15125757	16606710	1480953	Pathogenic	duplication	Schizophrenia	germline
+chr16	15154897	15499057	344160	not provided	deletion	Preeclampsia	unknown
+chr16	15180600	18778866	3598266	Pathogenic	duplication	Schizophrenia	germline
+chr16	15412509	16386569	974060	Pathogenic	duplication	Schizophrenia	germline
+chr16	15424369	16537291	1112922	Likely pathogenic	deletion	Schizophrenia	germline
+chr16	15796990	16317329	520339	Pathogenic	deletion	Pseudoxanthoma elasticum	germline
+chr16	15796991	15932126	135135	Uncertain significance	duplication	Aortic aneurysm,familial thoracic 4	germline
+chr16	15802659	15932126	129467	Uncertain significance	deletion	Aortic aneurysm,familial thoracic 4	germline
+chr16	15802659	15932126	129467	Uncertain significance	duplication	Aortic aneurysm,familial thoracic 4	germline
+chr16	15802661	15932115	129454	Uncertain significance	duplication	Aortic aneurysm,familial thoracic 4	germline
+chr16	20521795	20532514	10719	not provided	deletion	Normal pregnancy	unknown
+chr16	20916285	20986506	70221	not provided	deletion	Large for gestational age	unknown
+chr16	21689835	21771861	82026	Pathogenic	deletion	Nonsyndromic hearing loss and deafness	germline
+chr16	21747581	21747711	130	Pathogenic	deletion	Nonsyndromic hearing loss and deafness	germline
+chr16	21950343	22445465	495122	Likely pathogenic	duplication	Schizophrenia	germline
+chr16	21950343	22435582	485239	Likely pathogenic	deletion	Schizophrenia	germline
+chr16	22435810	22702769	266959	not provided	deletion	Small for gestational age	unknown
+chr16	23614482	23652678	38196	Pathogenic	deletion	Familial cancer of breast	germline
+chr16	23614482	23652678	38196	Uncertain significance	duplication	Familial cancer of breast	germline
+chr16	23614482	23619333	4851	Pathogenic	deletion	Familial cancer of breast,Pancreatic cancer 3	germline
+chr16	23614482	23614990	508	Pathogenic	deletion	Familial cancer of breast	germline
+chr16	23614778	23637718	22940	Pathogenic	deletion	Familial cancer of breast	germline
+chr16	23614778	23625412	10634	Pathogenic	deletion	Familial cancer of breast	germline
+chr16	23614778	23619333	4555	Pathogenic	deletion	Familial cancer of breast,Hereditary cancer-predisposing syndrome	germline
+chr16	23614778	23614990	212	Pathogenic	deletion	Familial cancer of breast	germline
+chr16	23619184	23625412	6228	Likely pathogenic	deletion	Familial cancer of breast	germline
+chr16	23625324	23625412	88	Pathogenic	deletion	Familial cancer of breast	germline
+chr16	23625324	23625412	88	Likely pathogenic	duplication	Familial cancer of breast	germline
+chr16	23632682	23637718	5036	Pathogenic	deletion	Familial cancer of breast	germline
+chr16	23632682	23634451	1769	Likely pathogenic	deletion	Familial cancer of breast	germline
+chr16	23635329	23635415	86	Pathogenic	deletion	Familial cancer of breast	germline
+chr16	23637556	23641790	4234	Pathogenic	deletion	Familial cancer of breast	germline
+chr16	23637556	23637718	162	Pathogenic/Likely pathogenic	deletion	Familial cancer of breast,Hereditary cancer-predisposing syndrome	germline
+chr16	23646182	23652678	6496	Uncertain significance	duplication	Familial cancer of breast	germline
+chr16	28382192	29335597	953405	Likely pathogenic	deletion	Schizophrenia	germline
+chr16	28603888	28620752	16864	not provided	duplication	Preeclampsia	unknown
+chr16	28615242	28620752	5510	not provided	duplication	Large for gestational age	unknown
+chr16	29402300	30226931	824631	Likely pathogenic	duplication	Autism spectrum disorders	maternal
+chr16	29517698	30191895	674197	Likely pathogenic	deletion	Autism spectrum disorders	unknown
+chr16	29517698	30191895	674197	Likely pathogenic	duplication	Autism spectrum disorders	unknown
+chr16	29613494	30190030	576536	Likely pathogenic	duplication	Autism spectrum disorders	de novo
+chr16	29632038	30192562	560524	Pathogenic	duplication	Schizophrenia	germline
+chr16	29646275	30192562	546287	Likely pathogenic	deletion	Schizophrenia	germline
+chr16	29646275	30192562	546287	Pathogenic	duplication	Schizophrenia	germline
+chr16	29651598	30199709	548111	Pathogenic	deletion	Spondylocostal dysostosis 5	germline
+chr16	29657388	30192562	535174	Pathogenic	duplication	Schizophrenia	germline
+chr16	29696972	30191907	494935	Likely pathogenic	duplication	Autism spectrum disorders	paternal
+chr16	29824310	29827202	2892	Uncertain significance	duplication	Dystonia 10	germline
+chr16	31220868	31226691	5823	not provided	deletion	Small for gestational age	unknown
+chr16	32165781	33795687	1629906	not provided	deletion	Preeclampsia	unknown
+chr16	32165781	33557021	1391240	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr16	32608437	33557021	948584	not provided	deletion	Large for gestational age	unknown
+chr16	32608437	32648969	40532	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr16	34303922	34817176	513254	not provided	duplication	Normal pregnancy	unknown
+chr16	56368688	90141355	33772667	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr16	56519650	56539861	20211	Pathogenic	deletion	Bardet-Biedl syndrome	germline
+chr16	63520775	63582751	61976	not provided	deletion	Normal pregnancy	unknown
+chr16	68771194	68869444	98250	Pathogenic	deletion	Hereditary diffuse gastric cancer	germline
+chr16	68771194	68869444	98250	Uncertain significance	duplication	Hereditary diffuse gastric cancer	germline
+chr16	68771194	68772314	1120	Pathogenic	deletion	Hereditary diffuse gastric cancer	germline
+chr16	68835572	68867403	31831	Uncertain significance	duplication	Hereditary diffuse gastric cancer	germline
+chr16	68835572	68835796	224	Pathogenic	deletion	Hereditary diffuse gastric cancer	germline
+chr16	68842326	68869444	27118	Pathogenic	deletion	Hereditary diffuse gastric cancer	germline
+chr16	72723612	72785303	61691	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr16	75571248	75580985	9737	not provided	duplication	Normal pregnancy	unknown
+chr16	77626859	78140002	513143	association	duplication	Autism spectrum disorders	unknown
+chr16	77961258	78463424	502166	association	duplication	Autism spectrum disorders	unknown
+chr16	77967321	78604831	637510	association	duplication	Autism spectrum disorders	paternal
+chr16	78260520	78417344	156824	Pathogenic	deletion	Epileptic encephalopathy,early infantile,28	germline
+chr16	78939657	79076810	137153	association	deletion	Autism spectrum disorders	maternal
+chr16	79252323	79273682	21359	not provided	deletion	Normal pregnancy	unknown
+chr16	84178864	84211524	32660	Pathogenic	deletion	Primary ciliary dyskinesia	germline
+chr16	84203691	84203769	78	Uncertain significance	deletion	Primary ciliary dyskinesia	germline
+chr16	86544189	86546749	2560	Pathogenic	deletion	Primary pulmonary hypertension	germline
+chr16	87183660	89520803	2337143	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	87340134	89335428	1995294	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	88165979	88914268	748289	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	88230759	89363742	1132983	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	88230960	89363602	1132642	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	88556190	89557911	1001721	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	88630606	89607742	977136	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	88634999	89628950	993951	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	88666176	89472627	806451	Pathogenic	deletion	16q24.3 microdeletion syndrome	unknown
+chr16	88755311	89584412	829101	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	89161683	89505106	343423	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	89475450	89652148	176698	Pathogenic	deletion	16q24.3 microdeletion syndrome	de novo
+chr16	89590657	89590715	58	Benign	deletion	Spastic paraplegia 7	germline
+chr16	89818545	89858955	40410	Pathogenic	deletion	Fanconi anemia	germline
+chr16	89829944	89836293	6349	Likely pathogenic	deletion	Fanconi anemia,complementation group A	germline
+chr16	89837127	89848956	11829	Likely pathogenic	deletion	Fanconi anemia,complementation group A	germline
+chr16	89877114	89883024	5910	Pathogenic	deletion	Fanconi anemia	germline
+chr16	89880927	89883065	2138	Uncertain significance	duplication	Fanconi anemia	germline
+chr17	1116990	1239946	122956	not provided	deletion	Preeclampsia	unknown
+chr17	2583427	2583487	60	Pathogenic	deletion	Lissencephaly 1	germline
+chr17	3506042	3582239	76197	not provided	deletion	Normal pregnancy	unknown
+chr17	4907451	4926045	18594	Pathogenic	deletion	Ataxia,spastic,2,autosomal recessive	germline
+chr17	6291336	6309355	18019	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr17	6295958	6312267	16309	not provided	duplication	Normal pregnancy	unknown
+chr17	6301561	6311397	9836	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr17	7571719	7590868	19149	Pathogenic	deletion	Li-Fraumeni syndrome	germline
+chr17	7571719	7573008	1289	Likely pathogenic	deletion	Li-Fraumeni syndrome	germline
+chr17	7579290	7579404	114	Likely pathogenic	deletion	Li-Fraumeni syndrome	germline
+chr17	7590694	7590868	174	Likely pathogenic	deletion	Li-Fraumeni syndrome	germline
+chr17	7590694	7590868	174	Uncertain significance	duplication	Li-Fraumeni syndrome	germline
+chr17	8280833	8283254	2421	Uncertain significance	duplication	Diamond-Blackfan anemia	germline
+chr17	9586164	16325968	6739804	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr17	10533097	10533212	115	Pathogenic	deletion	Inborn genetic diseases	germline
+chr17	12896200	12896263	63	Uncertain significance	duplication	Combined oxidative phosphorylation deficiency 17	germline
+chr17	14083470	15420108	1336638	Likely pathogenic	deletion	Schizophrenia	germline
+chr17	14101028	15482817	1381789	Pathogenic	deletion	Autism spectrum disorders	unknown
+chr17	15133093	15164078	30985	Pathogenic	deletion	Charcot-Marie-Tooth disease,type I	germline
+chr17	15133093	15164078	30985	Pathogenic	duplication	Charcot-Marie-Tooth disease,type I	germline
+chr17	19510080	19519444	9364	not provided	deletion	Large for gestational age	unknown
+chr17	25974256	26075524	101268	Uncertain significance	deletion	Autism spectrum disorders,Seizure Disorders	unknown
+chr17	29111367	30183819	1072452	Likely pathogenic	duplication	Global developmental delay,Intellectual disability,Seizures	germline
+chr17	29421944	29704695	282751	Pathogenic	deletion	Neurofibromatosis,type 1	germline
+chr17	29421944	29509683	87739	Pathogenic	deletion	Neurofibromatosis,type 1	germline
+chr17	29421944	29509683	87739	Uncertain significance	duplication	Neurofibromatosis,type 1	germline
+chr17	29421944	29422387	443	Pathogenic	deletion	Neurofibromatosis,type 1	germline
+chr17	29421944	29422387	443	Uncertain significance	duplication	Neurofibromatosis,type 1	germline
+chr17	29466685	29490493	23808	Pathogenic	deletion	Neurofibromatosis,type 1	unknown
+chr17	29470912	29484077	13165	Pathogenic	deletion	Neurofibromatosis,type 1	germline
+chr17	29476478	29484166	7688	Pathogenic	duplication	Neurofibromatosis,type 1	de novo
+chr17	29477811	29484743	6932	Pathogenic	deletion	Neurofibromatosis,type 1	de novo,germline
+chr17	29484743	29489260	4517	Pathogenic	deletion	Neurofibromatosis,type 1	de novo
+chr17	29488966	29500340	11374	Pathogenic	deletion	Neurofibromatosis,type 1	germline
+chr17	29489032	29511646	22614	Pathogenic	duplication	Neurofibromatosis,type 1	unknown
+chr17	29489247	29502014	12767	Pathogenic	deletion	Neurofibromatosis,type 1	germline
+chr17	29489253	29500058	10805	Pathogenic	deletion	Neurofibromatosis,type 1	germline
+chr17	29490203	29497015	6812	Pathogenic	deletion	Neurofibromatosis,type 1	germline
+chr17	29490203	29490394	191	Pathogenic	deletion	Neurofibromatosis,type 1	germline
+chr17	29493919	29500460	6541	Pathogenic	deletion	Neurofibromatosis,type 1	de novo
+chr17	29500113	29532213	32100	Pathogenic	deletion	Neurofibromatosis,type 1	germline
+chr17	29506673	29511539	4866	Pathogenic	deletion	Neurofibromatosis,type 1	de novo
+chr17	29515197	29531623	16426	Pathogenic	deletion	Neurofibromatosis,type 1	de novo
+chr17	29519332	29532980	13648	Pathogenic	deletion	Neurofibromatosis,type 1	de novo
+chr17	29526545	29532974	6429	Pathogenic	deletion	Neurofibromatosis,type 1	de novo
+chr17	29526986	29527459	473	Pathogenic	deletion	Neurofibromatosis,type 1	germline
+chr17	29538139	29569625	31486	Pathogenic	deletion	Neurofibromatosis,type 1	de novo
+chr17	29538816	29545131	6315	Pathogenic	deletion	Neurofibromatosis,type 1	unknown
+chr17	29539563	29553787	14224	Pathogenic	duplication	Neurofibromatosis,type 1	de novo
+chr17	29542045	29561868	19823	Pathogenic	duplication	Neurofibromatosis,type 1	de novo
+chr17	29543111	29547273	4162	Pathogenic	deletion	Neurofibromatosis,type 1	de novo
+chr17	29545062	29550501	5439	Pathogenic	deletion	Neurofibromatosis,type 1	de novo
+chr17	29546291	29573780	27489	Pathogenic	deletion	Neurofibromatosis,type 1	germline
+chr17	29551121	29589206	38085	Pathogenic	deletion	Neurofibromatosis,type 1	de novo
+chr17	29551762	29553948	2186		deletion	Neurofibromatosis,type 1	somatic
+chr17	29553924	29556824	2900		deletion	Neurofibromatosis,type 1	somatic
+chr17	29554165	29554502	337	Pathogenic	duplication	Neurofibromatosis,type 1	de novo
+chr17	29556701	29557113	412	Pathogenic	duplication	Neurofibromatosis,type 1	de novo
+chr17	29559955	29594996	35041	Pathogenic	duplication	Neurofibromatosis,type 1	de novo
+chr17	29560828	29608581	47753	Pathogenic	deletion	Neurofibromatosis,type 1	germline
+chr17	29561687	29565750	4063	Pathogenic	deletion	Neurofibromatosis,type 1	germline
+chr17	29577927	29678195	100268		duplication	Neurofibromatosis,type 1	unknown
+chr17	29588728	29667663	78935	Pathogenic	deletion	Neurofibromatosis,type 1	germline
+chr17	29591849	29638576	46727	Pathogenic	deletion	Neurofibromatosis,type 1	de novo
+chr17	29630276	29663879	33603	Pathogenic	deletion	Neurofibromatosis,type 1	germline
+chr17	29651240	29678590	27350	Pathogenic	duplication	Neurofibromatosis,type 1	de novo
+chr17	29653005	29673237	20232	Pathogenic	deletion	Neurofibromatosis,type 1	unknown
+chr17	29654516	29654857	341	Pathogenic	deletion	Neurofibromatosis,type 1	germline
+chr17	29655192	29662293	7101	Pathogenic	deletion	Neurofibromatosis,type 1	de novo
+chr17	29657704	29668698	10994	Pathogenic	deletion	Neurofibromatosis,type 1	unknown
+chr17	29658265	29662293	4028	Pathogenic	deletion	Neurofibromatosis,type 1	de novo
+chr17	29660769	29662293	1524	Pathogenic	deletion	Neurofibromatosis,type 1	de novo
+chr17	29661395	29662293	898	Pathogenic	deletion	Neurofibromatosis,type 1	de novo
+chr17	29661481	29663175	1694	Pathogenic	deletion	Neurofibromatosis,type 1	de novo
+chr17	29662496	29675724	13228	Pathogenic	deletion	Neurofibromatosis,type 1	germline
+chr17	29669527	29685019	15492	Pathogenic	deletion	Neurofibromatosis,type 1	de novo
+chr17	29670026	29670153	127	Pathogenic	deletion	Neurofibromatosis,type 1	germline
+chr17	29676651	29684342	7691	Pathogenic	deletion	Neurofibromatosis,type 1	de novo
+chr17	29678674	29680167	1493	Pathogenic	deletion	Neurofibromatosis,type 1	de novo
+chr17	29684363	29695503	11140	Pathogenic	deletion	Neurofibromatosis,type 1	germline
+chr17	29684535	29686756	2221	Pathogenic	duplication	Neurofibromatosis,type 1	de novo
+chr17	29701030	29704695	3665	Uncertain significance	duplication	Neurofibromatosis,type 1	germline
+chr17	30858968	30866889	7921	not provided	deletion	Preeclampsia	unknown
+chr17	33426810	33430563	3753	Pathogenic	deletion	Breast-ovarian cancer,familial 4	germline
+chr17	33426810	33428384	1574	Likely pathogenic	deletion	Breast-ovarian cancer,familial 4	germline
+chr17	33684034	33768199	84165	not provided	deletion	Large for gestational age,Normal pregnancy,Preeclampsia	unknown
+chr17	34360226	36473024	2112798	Pathogenic	deletion	Chromosome 17q12 deletion syndrome	germline
+chr17	34456072	34476396	20324	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr17	34815550	36249800	1434250	Pathogenic	duplication	Autism spectrum disorders	de novo
+chr17	38512313	38512478	165	drug response	deletion	all trans retinoic acid (ATRA) response	somatic
+chr17	41176311	41277500	101189	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41189421	41200474	11053	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41196311	41251897	55586	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41196311	41209152	12841	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41196311	41197819	1508	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41197693	41277500	79807	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41197693	41277287	79594	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41197693	41267742	70049	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41197693	41256138	58445	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41197693	41222944	25251	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41197693	41219711	22018	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41197693	41215349	17656	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41197693	41209068	11375	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41197693	41203134	5441	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41197693	41201137	3444	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41197693	41199720	2027	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41197693	41199659	1966	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41197722	41197784	62	Pathogenic	deletion	Breast-ovarian cancer,familial 1,Familial cancer of breast	germline
+chr17	41197766	41197830	64	Pathogenic	duplication	Breast-ovarian cancer,familial 1	germline
+chr17	41197819	41277500	79681	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41199315	41206969	7654	Pathogenic	duplication	Breast-ovarian cancer,familial 1	germline
+chr17	41199659	41276132	76473	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41199659	41203134	3475	Pathogenic	deletion	Breast-ovarian cancer,familial 1,Hereditary breast and ovarian cancer syndrome	germline
+chr17	41199720	41277500	77780	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41199720	41277500	77780	Pathogenic	duplication	Breast-ovarian cancer,familial 1	germline
+chr17	41200601	41211992	11391	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41200737	41201247	510	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41201137	41203134	1997	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41201137	41203134	1997	Likely pathogenic	duplication	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41201156	41201409	253	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41201211	41277500	76289	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41203134	41277500	74366	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41203134	41222944	19810		deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41204255	41227656	23401	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41205430	41209604	4174	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41205890	41209090	3200	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41206280	41209103	2823		deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41206862	41215010	8148	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41206979	41217061	10082	Pathogenic	duplication	Breast-ovarian cancer,familial 1	germline
+chr17	41208398	41212722	4324	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41209068	41228631	19563	Pathogenic	deletion	Breast-ovarian cancer,familial 1,Familial cancer of breast,Hereditary breast and ovarian cancer syndrome	germline
+chr17	41209068	41215968	6900	Pathogenic/Likely pathogenic	duplication	Breast-ovarian cancer,familial 1,Hereditary breast and ovarian cancer syndrome	germline
+chr17	41209152	41277500	68348	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41213808	41218634	4826	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41215349	41276132	60783	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41215349	41219712	4363	Pathogenic	deletion	Breast-ovarian cancer,familial 1,Hereditary breast and ovarian cancer syndrome	germline
+chr17	41215349	41215968	619	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41215349	41215968	619	Pathogenic	duplication	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41215890	41249306	33416	Pathogenic	deletion	Breast-ovarian cancer,familial 1,Familial cancer of breast	germline
+chr17	41215968	41277500	61532	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41216948	41222053	5105	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41216951	41222055	5104	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41218873	41221990	3117	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41219281	41220289	1008	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41219540	41222220	2680	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41219624	41276114	56490	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41219624	41228631	9007	Likely pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41219624	41223255	3631	Pathogenic	deletion	Breast-ovarian cancer,familial 1,Hereditary breast and ovarian cancer syndrome	germline
+chr17	41219624	41219712	88	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41219624	41219712	88	Pathogenic	deletion	Breast-ovarian cancer,familial 1,Familial cancer of breast,Hereditary breast and ovarian cancer syndrome	germline
+chr17	41222044	41224675	2631	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41222208	41230360	8152	Pathogenic	duplication	Breast-ovarian cancer,familial 1	germline
+chr17	41222944	41267796	44852	Pathogenic	deletion	Breast-ovarian cancer,familial 1,Hereditary breast and ovarian cancer syndrome	germline
+chr17	41222944	41234592	11648	Pathogenic	deletion	Familial cancer of breast	germline
+chr17	41222944	41226538	3594	Pathogenic	deletion	Breast-ovarian cancer,familial 1,Familial cancer of breast,Hereditary breast and ovarian cancer syndrome	germline
+chr17	41222944	41223255	311	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41222989	41223071	82	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41226347	41234592	8245	Pathogenic	deletion	Breast-ovarian cancer,familial 1,Familial cancer of breast,Hereditary breast and ovarian cancer syndrome	germline
+chr17	41226538	41277500	50962	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41228504	41277500	48996	Pathogenic	deletion	Familial cancer of breast	germline
+chr17	41228504	41234592	6088	Likely pathogenic	duplication	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41228504	41228631	127	Pathogenic	deletion	Breast-ovarian cancer,familial 1,Hereditary breast and ovarian cancer syndrome	germline
+chr17	41228504	41228631	127	Likely pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41230298	41236379	6081	Pathogenic	duplication	Breast-ovarian cancer,familial 1	germline
+chr17	41232400	41236235	3835	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41232465	41235424	2959	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41233217	41243627	10410	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41234420	41276132	41712	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41234420	41251897	17477	Pathogenic	deletion	Breast-ovarian cancer,familial 1,Hereditary breast and ovarian cancer syndrome	germline
+chr17	41234420	41234592	172	Pathogenic	duplication	Breast-ovarian cancer,familial 1,Hereditary breast and ovarian cancer syndrome	germline
+chr17	41234592	41277500	42908	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41242891	41243127	236	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41242960	41276132	33172	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41242960	41249306	6346	Pathogenic	deletion	Breast-ovarian cancer,familial 1,Hereditary breast and ovarian cancer syndrome	germline
+chr17	41243049	41277500	34451	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41243049	41247862	4813	Pathogenic	duplication	Breast-ovarian cancer,familial 1	germline
+chr17	41244339	41244398	59	Pathogenic	duplication	Breast-ovarian cancer,familial 1	germline
+chr17	41245326	41245393	67	Pathogenic	duplication	Breast-ovarian cancer,familial 1	germline
+chr17	41245687	41245900	213	Uncertain significance	deletion	Breast-ovarian cancer,familial 1,Familial cancer of breast	germline,somatic
+chr17	41245766	41246903	1137	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41246406	41246462	56	Pathogenic	deletion	Breast-ovarian cancer,familial 1,Hereditary breast and ovarian cancer syndrome	germline
+chr17	41246532	41246596	64	Pathogenic	deletion	Breast-ovarian cancer,familial 1,Familial cancer of breast	germline
+chr17	41246540	41246604	64	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41246571	41253132	6561	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41246646	41247092	446	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41248754	41252719	3965	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41249260	41251897	2637	Pathogenic	deletion	Breast-ovarian cancer,familial 1,Hereditary breast and ovarian cancer syndrome	germline
+chr17	41251568	41253026	1458	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41251791	41252849	1058	Pathogenic	duplication	Breast-ovarian cancer,familial 1	germline
+chr17	41251791	41251897	106	Pathogenic	deletion	Breast-ovarian cancer,familial 1,Hereditary breast and ovarian cancer syndrome	germline
+chr17	41251791	41251897	106	Conflicting interpretations of pathogenicity	duplication	Familial cancer of breast,Hereditary breast and ovarian cancer syndrome	germline
+chr17	41251814	41251940	126	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41251897	41277500	25603	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41254529	41259554	5025	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41254531	41259756	5225	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41256138	41258550	2412	Pathogenic	deletion	Breast-ovarian cancer,familial 1,Familial cancer of breast,Hereditary breast and ovarian cancer syndrome	germline
+chr17	41256138	41256278	140	Uncertain significance	duplication	Familial cancer of breast	germline
+chr17	41258550	41277500	18950	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41263492	41273654	10162	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41266017	41269384	3367	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41267742	41276114	8372	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41267742	41267796	54	Pathogenic	deletion	Breast-ovarian cancer,familial 1,Hereditary breast and ovarian cancer syndrome	germline
+chr17	41267742	41267796	54	Pathogenic	deletion	Neoplasm of breast	germline
+chr17	41267796	41277500	9704	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	41267796	41277500	9704	Pathogenic	duplication	Breast-ovarian cancer,familial 1	germline
+chr17	41276033	41276132	99	Pathogenic	deletion	Breast-ovarian cancer,familial 1,Hereditary breast and ovarian cancer syndrome	germline
+chr17	41276033	41276114	81	Pathogenic	deletion	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41276033	41276114	81	Uncertain significance	duplication	Hereditary breast and ovarian cancer syndrome	germline
+chr17	41276132	41277500	1368	Pathogenic	deletion	Breast-ovarian cancer,familial 1	germline
+chr17	44131766	44580136	448370	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr17	44161440	44580136	418696	not provided	duplication	Large for gestational age	unknown
+chr17	44161440	44368212	206772	not provided	duplication	Large for gestational age	unknown
+chr17	44169807	44580136	410329	not provided	duplication	Gestational diabetes mellitus uncontrolled,Large for gestational age,Normal pregnancy,Preeclampsia	unknown
+chr17	44169807	44368212	198405	not provided	duplication	Large for gestational age,Normal pregnancy,Small for gestational age	unknown
+chr17	45008569	45994044	985475	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr17	50949614	51314354	364740	not provided	deletion	Gestational diabetes mellitus uncontrolled,Preeclampsia	unknown
+chr17	54160464	54172277	11813	not provided	deletion	Large for gestational age,Normal pregnancy,Preeclampsia	unknown
+chr17	56293640	56293783	143	Pathogenic	deletion	Joubert syndrome	unknown
+chr17	56770003	56787351	17348	Pathogenic	deletion	Fanconi anemia,complementation group O	germline
+chr17	56780556	56811703	31147	Pathogenic	deletion	Fanconi anemia,complementation group O	germline
+chr17	56780556	56811584	31028	Pathogenic	deletion	Fanconi anemia,complementation group O	germline
+chr17	56780556	56787351	6795	Pathogenic	deletion	Fanconi anemia,complementation group O	germline
+chr17	56780556	56780690	134	Pathogenic	deletion	Fanconi anemia,complementation group O	germline
+chr17	56780654	56780754	100	Uncertain significance	duplication	Fanconi anemia,complementation group O	germline
+chr17	56780656	56780755	99	Uncertain significance	duplication	Hereditary cancer-predisposing syndrome	germline
+chr17	56787219	56811703	24484	Pathogenic	deletion	Fanconi anemia,complementation group O	germline
+chr17	56798106	56811703	13597	Pathogenic	deletion	Fanconi anemia,complementation group O	germline
+chr17	56809844	56809905	61	Pathogenic	deletion	Fanconi anemia,complementation group O	germline
+chr17	59820373	59886118	65745	Uncertain significance	duplication	Familial cancer of breast,Fanconi anemia,complementation group J	germline
+chr17	59878613	59878835	222	Likely pathogenic	deletion	Familial cancer of breast,Fanconi anemia,complementation group J	germline
+chr17	59885827	59938901	53074	Uncertain significance	duplication	Familial cancer of breast	germline
+chr17	59924461	59926617	2156	Pathogenic	deletion	Familial cancer of breast,Fanconi anemia,complementation group J	germline
+chr17	59924461	59926617	2156	Likely pathogenic	duplication	Familial cancer of breast,Fanconi anemia,complementation group J	germline
+chr17	59937183	59937275	92	Pathogenic	duplication	Familial cancer of breast,Fanconi anemia,complementation group J	germline
+chr17	60109040	60137085	28045	not provided	deletion	Normal pregnancy	unknown
+chr17	64384075	64504644	120569	not provided	deletion	Small for gestational age	unknown
+chr17	64410914	64482151	71237	not provided	deletion	Large for gestational age	unknown
+chr17	66566062	66581506	15444	not provided	deletion	Large for gestational age	unknown
+chr17	68639720	69599915	960195	Pathogenic	deletion	Acampomelic campomelic dysplasia with autosomal sex reversal	unknown
+chr17	72277945	72310410	32465	Uncertain significance	duplication	Primary ciliary dyskinesia	germline
+chr17	77365533	77392001	26468	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr17	77367697	77396482	28785	not provided	duplication	Small for gestational age	unknown
+chr17	77367697	77394037	26340	not provided	duplication	Large for gestational age,Preeclampsia	unknown
+chr17	78071043	78074412	3369	Uncertain significance	duplication	Primary ciliary dyskinesia	germline
+chr17	78085283	78092477	7194	Pathogenic	deletion	Glycogen storage disease,type II	germline
+chr17	78091991	78092156	165	Pathogenic	deletion	Glycogen storage disease,type II	germline
+chr18	1725757	1841469	115712	not provided	deletion	Small for gestational age	unknown
+chr18	1725757	1839339	113582	not provided	deletion	Normal pregnancy	unknown
+chr18	3168814	3168979	165	Uncertain significance	duplication	Hypertrophic cardiomyopathy	germline
+chr18	7776839	8247508	470669	Likely pathogenic	deletion	Schizophrenia	germline
+chr18	10433381	10439153	5772	not provided	duplication	Large for gestational age	unknown
+chr18	10913662	10919989	6327	not provided	deletion	Normal pregnancy	unknown
+chr18	10915569	10924184	8615	not provided	deletion	Large for gestational age	unknown
+chr18	27815319	27815968	649	not provided	deletion	Preeclampsia	unknown
+chr18	30901988	31009751	107763	not provided	duplication	Small for gestational age	unknown
+chr18	44574744	44601337	26593	Likely pathogenic	deletion	Schizophrenia	germline
+chr18	47787531	47787606	75	Likely pathogenic	deletion	Dextrocardia	unknown
+chr18	48556582	48591976	35394	Pathogenic	deletion	Hereditary cancer-predisposing syndrome	germline
+chr18	48573415	48573665	250	Likely benign	duplication	Juvenile polyposis syndrome	germline
+chr18	48593388	48611412	18024	Pathogenic	deletion	Juvenile polyposis syndrome	germline
+chr18	48603007	48611412	8405	Uncertain significance	duplication	Juvenile polyposis syndrome	germline
+chr18	48604625	48611412	6787	Likely benign	duplication	Juvenile polyposis syndrome	germline
+chr18	55935986	55937109	1123	not provided	deletion	Normal pregnancy	unknown
+chr18	58101864	58120273	18409	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr18	59821581	59824939	3358	Pathogenic	deletion	Multiple congenital anomalies-hypotonia-seizures syndrome 1	germline
+chr18	61387311	63489378	2102067	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr18	63196447	63218786	22339	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr18	63849679	63866787	17108	not provided	duplication	Preeclampsia	unknown
+chr18	63909071	63912698	3627	not provided	deletion	Small for gestational age	unknown
+chr18	65248520	65690189	441669	not provided	duplication	Large for gestational age	unknown
+chr18	66747567	66755508	7941	not provided	deletion	Large for gestational age,Normal pregnancy,Preeclampsia	unknown
+chr18	67209140	67217271	8131	not provided	deletion	Large for gestational age,Normal pregnancy,Preeclampsia,Small for gestational age	unknown
+chr18	77733684	77737597	3913	Pathogenic	deletion	Burn-McKeown syndrome	germline
+chr18	77736959	77738660	1701	Pathogenic	deletion	Burn-McKeown syndrome	germline
+chr18	77748580	77748636	56	Pathogenic	deletion	Burn-McKeown syndrome	germline
+chr19	360625	442015	81390	not provided	deletion	Normal pregnancy,Preeclampsia,Small for gestational age	unknown
+chr19	1205797	1226662	20865	Pathogenic	deletion	Peutz-Jeghers syndrome	germline
+chr19	1206906	1226651	19745	Pathogenic	deletion	Peutz-Jeghers syndrome	germline
+chr19	1206911	1222005	15094	Pathogenic	deletion	Hereditary cancer-predisposing syndrome	germline
+chr19	1218415	1223171	4756	Pathogenic	deletion	Peutz-Jeghers syndrome	germline
+chr19	1218415	1219412	997	Pathogenic	deletion	Peutz-Jeghers syndrome	germline
+chr19	1221947	1222005	58	Pathogenic	deletion	Peutz-Jeghers syndrome	germline
+chr19	1781878	1792997	11119	not provided	deletion	Preeclampsia	unknown
+chr19	5563341	5606259	42918	not provided	deletion	Preeclampsia	unknown
+chr19	6958133	7018869	60736	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr19	9001832	10085054	1083222	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr19	11094796	11172958	78162	Pathogenic	deletion	Rhabdoid tumor predisposition syndrome 2	germline
+chr19	11150133	11150229	96	Uncertain significance	deletion	Rhabdoid tumor predisposition syndrome 2	germline
+chr19	11198401	11211587	13186	Pathogenic	deletion	Familial hypercholesterolemia	germline,inherited
+chr19	11200037	11244576	44539	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11200037	11238683	38646	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11200037	11233849	33812	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11200037	11230767	30730	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11200037	11223953	23916	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11200037	11222189	22152	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11200037	11221327	21290	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11200037	11213339	13302	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11200037	11211021	10984		deletion	Familial hypercholesterolemia	germline
+chr19	11200037	11210898	10861	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11200037	11210898	10861	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11200037	11200291	254	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11200291	11241956	41665	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11200291	11238683	38392	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11200291	11233849	33558	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11200291	11230767	30476	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11200291	11227534	27243	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11200291	11226769	26478	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11200291	11223953	23662	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11200291	11218067	17776	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11200291	11218067	17776	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11200291	11217240	16949	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11200291	11215895	15604	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11200291	11213339	13048	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11204258	11218486	14228	Pathogenic/Likely pathogenic	duplication	Familial hypercholesterolemia	germline,inherited
+chr19	11205051	11217736	12685	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11211021	11233849	22828	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11211021	11230767	19746	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11211021	11230767	19746	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11211021	11226769	15748	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11211021	11223953	12932	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11211021	11222189	11168	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11211021	11221327	10306	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11211021	11221327	10306	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11211021	11218067	7046	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11211021	11218067	7046	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11211021	11217240	6219	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11211021	11217240	6219	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11211021	11215895	4874	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11212004	11229608	17604	Pathogenic	deletion	Familial hypercholesterolemia	germline,unknown
+chr19	11212827	11218821	5994	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11213338	11222316	8978	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11213339	11217363	4024		deletion	Familial hypercholesterolemia	germline
+chr19	11213462	11223953	10491	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11213462	11221327	7865	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11213462	11221327	7865	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11213462	11218067	4605	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11213462	11217240	3778	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11215449	11223568	8119	Pathogenic/Likely pathogenic	duplication	Familial hypercholesterolemia	germline,inherited
+chr19	11215894	11221447	5553	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11215894	11216277	383	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11216023	11216086	63	Likely pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11216275	11217241	966	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11216276	11226769	10493	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11216276	11221327	5051	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11216276	11218067	1791	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11216884	11219249	2365	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11217173	11224809	7636	Pathogenic	deletion	Familial hypercholesterolemia	germline,inherited
+chr19	11217250	11217337	87	Likely pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11217363	11244506	27143	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11217363	11223953	6590	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11217363	11221327	3964	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11218066	11222316	4250	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11218190	11244506	26316	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11218190	11238683	20493	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11218190	11233849	15659	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11218190	11230767	12577	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11218190	11230767	12577	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11218190	11226769	8579	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11218190	11226769	8579	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11218190	11223953	5763	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11218190	11222189	3999	Likely pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11218361	11249060	30699	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11219034	11222846	3812	Likely pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11221326	11222316	990	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11221327	11221447	120	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11221440	11222193	753	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11221447	11230767	9320	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11221447	11226769	5322	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11221447	11223953	2506	Likely pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11222189	11240346	18157		duplication	Familial hypercholesterolemia	germline
+chr19	11222189	11227674	5485	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11222189	11227674	5485		deletion	Familial hypercholesterolemia	germline
+chr19	11222261	11222327	66	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11222315	11244506	22191	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11222315	11233849	11534	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11222315	11233849	11534	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11222315	11230767	8452	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11222315	11230767	8452	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11222315	11226769	4454	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11222315	11226769	4454	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11222315	11224210	1895	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11222315	11224210	1895	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11223014	11233305	10291	Pathogenic	deletion	Familial hypercholesterolemia	germline,inherited
+chr19	11223784	11237894	14110	Pathogenic	deletion	Familial hypercholesterolemia	germline,inherited
+chr19	11223943	11224039	96	Likely pathogenic	duplication	Familial hypercholesterolemia	inherited
+chr19	11223952	11224439	487	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11223953	11244506	20553	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11223963	11233914	9951	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11224438	11244506	20068	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11224438	11241956	17518	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11224438	11240188	15750	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11224438	11238683	14245	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11224438	11233849	9411	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11224438	11233849	9411	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11224438	11230767	6329	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11224438	11230767	6329	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11224438	11227534	3096	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11226768	11231199	4431	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11226768	11227675	907	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11226888	11244506	17618	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11226888	11240188	13300	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11226888	11230767	3879	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11226888	11230767	3879	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11227674	11244506	16832	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11227674	11238683	11009	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11227674	11238683	11009	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11227674	11238683	11009	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11227674	11233849	6175	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11227674	11233849	6175	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11228588	11233352	4764	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11230766	11231199	433	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11230767	11240346	9579	Likely pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11230767	11234020	3253	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11230909	11238683	7774	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11230993	11231064	71	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11231198	11244506	13308	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11231198	11238683	7485	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11233848	11244506	10658	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11233848	11234021	173	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11234020	11244506	10486	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11234020	11244506	10486	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11234020	11242799	8779	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11234020	11242212	8192	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11234020	11241956	7936	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11234020	11241956	7936	Pathogenic	duplication	Familial hypercholesterolemia	germline
+chr19	11234020	11240188	6168	Likely pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11235960	11243208	7248	Conflicting interpretations of pathogenicity	duplication	Familial hypercholesterolemia	germline,inherited
+chr19	11238761	11244506	5745	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11238761	11241956	3195	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11240187	11240347	160	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	11240188	11244506	4318	Pathogenic	deletion	Familial hypercholesterolemia	germline
+chr19	13446723	13482501	35778	Pathogenic	duplication	Episodic ataxia type 2	germline
+chr19	15271861	15271941	80	Pathogenic	deletion	Lehman syndrome	germline
+chr19	19230867	24115369	4884502	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr19	20626178	20707568	81390	not provided	deletion	Normal pregnancy,Preeclampsia,Small for gestational age	unknown
+chr19	20657780	20707568	49788	not provided	deletion	Small for gestational age	unknown
+chr19	20663313	20707568	44255	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr19	20682054	20707568	25514	not provided	deletion	Large for gestational age	unknown
+chr19	20691113	20707568	16455	not provided	deletion	Gestational diabetes mellitus uncontrolled,Normal pregnancy,Preeclampsia,Small for gestational age	unknown
+chr19	33324129	33328907	4778	Pathogenic	deletion	Cystinuria	germline
+chr19	35587634	35600510	12876	not provided	deletion	Normal pregnancy	unknown
+chr19	35587634	35597215	9581	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr19	36494238	36499583	5345	Likely pathogenic	deletion	Nonsyndromic hearing loss and deafness	germline
+chr19	36674304	38652962	1978658	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr19	40902698	40902776	78	Uncertain significance	deletion	Charcot-Marie-Tooth disease,type IV	germline
+chr19	41350894	41379148	28254	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr19	41356750	41379148	22398	not provided	deletion	Gestational diabetes mellitus uncontrolled,Large for gestational age,Preeclampsia	unknown
+chr19	41360271	41392154	31883	Likely pathogenic	deletion	APC-mutation negative familial colorectal cancer	germline
+chr19	43270564	43699208	428644	not provided	deletion	Normal pregnancy	unknown
+chr19	43328005	43559330	231325	not provided	deletion	Normal pregnancy	unknown
+chr19	43328005	43556843	228838	not provided	deletion	Preeclampsia,Small for gestational age	unknown
+chr19	43328005	43537378	209373	not provided	deletion	Normal pregnancy	unknown
+chr19	43371293	43699208	327915	not provided	deletion	Normal pregnancy	unknown
+chr19	43372385	43802290	429905	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr19	43372385	43468660	96275	not provided	deletion	Preeclampsia	unknown
+chr19	43635683	43699208	63525	not provided	deletion	Preeclampsia	unknown
+chr19	43666696	43835770	169074	not provided	deletion	Normal pregnancy	unknown
+chr19	44015588	44015719	131	Pathogenic	deletion	Ethylmalonic encephalopathy	germline
+chr19	44501517	45322744	821227	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr19	47255734	47259271	3537	Pathogenic	deletion	Walker-Warburg congenital muscular dystrophy	germline
+chr19	50526895	50905042	378147	not provided	duplication	Normal pregnancy	unknown
+chr19	50902107	50902741	634	Uncertain significance	duplication	Colorectal cancer 10	germline
+chr19	51260988	51263510	2522	not provided	duplication	Large for gestational age	unknown
+chr19	52273256	52617298	344042	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr19	54754751	55624113	869362	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr19	55143155	55294969	151814	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr19	55449146	55453505	4359	not provided	duplication	Hydatidiform mole	not provided
+chr19	56133298	57648277	1514979	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr2	18673	189972	171299	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr2	2864209	2916955	52746	not provided	duplication	Normal pregnancy	unknown
+chr2	4677904	5958997	1281093	not provided	duplication	Preeclampsia	unknown
+chr2	11326143	16240708	4914565	Likely pathogenic	deletion	Schizophrenia	germline
+chr2	13486777	13536772	49995	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr2	14355720	14385992	30272	not provided	duplication	Normal pregnancy	unknown
+chr2	32260442	32347688	87246	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32263918	32333722	69804	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32274910	32291246	16336	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32282759	32303254	20495	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32282851	32295403	12552	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32288216	32292251	4035	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32288679	32289315	636	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32288707	32305196	16489	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32288894	32312653	23759	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32291778	32357195	65417	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32291801	32364656	72855	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32302046	32472162	170116	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32302136	32351058	48922	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32308156	32341651	33495	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32308540	32367923	59383	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32313170	32408919	95749	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32321556	32422090	100534	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32327162	32886455	559293	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32329722	32373142	43420	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32332673	32340934	8261	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32338429	32340293	1864	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32338732	32350391	11659	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32339706	32382706	43000	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32339713	32347794	8081	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32340401	32345422	5021	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32342696	32403350	60654	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32347621	32392375	44754	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32348593	33632523	1283930	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32350953	32360289	9336	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32351058	32359958	8900	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32352107	32379647	27540	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32353206	32359908	6702	Pathogenic	duplication	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32356942	32372914	15972	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32358734	32362780	4046	Pathogenic	duplication	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32360318	32381228	20910	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32362823	32817794	454971	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32365294	32374446	9152	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32365579	32371821	6242	Pathogenic	duplication	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32370422	32402099	31677	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32371907	32373867	1960	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32372791	32389594	16803	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32372802	32396866	24064	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32372814	32398557	25743	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32372831	32390406	17575	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32373678	32384445	10767	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32374426	32388831	14405	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32376111	32381206	5095	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32378558	32381280	2722	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32378642	32403264	24622	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32378672	32397052	18380	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32378897	32384398	5501	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	32379442	32379566	124	Pathogenic	deletion	Spastic paraplegia 4,autosomal dominant	germline
+chr2	35470726	35597319	126593	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr2	35819685	36085059	265374	not provided	deletion	Small for gestational age	unknown
+chr2	39518511	39588797	70286	not provided	duplication	Large for gestational age	unknown
+chr2	47596286	47614167	17881	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47596286	47614167	17881	Uncertain significance	duplication	Lynch syndrome	germline
+chr2	47596286	47604216	7930	Uncertain significance	duplication	Lynch syndrome	germline
+chr2	47596286	47596720	434	Uncertain significance	duplication	Lynch syndrome	germline
+chr2	47596643	47607108	10465	Uncertain significance	duplication	Lynch syndrome	germline
+chr2	47604152	47604216	64	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47606091	47614167	8076	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47610842	47615751	4909	Pathogenic	deletion	Hereditary nonpolyposis colorectal cancer type 8	germline
+chr2	47612304	47614167	1863	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47625601	47636880	11279	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47628577	47638433	9856	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47629374	47651274	21900	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47629507	47649552	20045	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47630205	47710367	80162	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47630205	47643568	13363	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47630205	47643568	13363	Uncertain significance	duplication	Lynch syndrome	germline
+chr2	47630205	47637511	7306	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47630205	47635694	5489	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47630205	47630541	336	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47630262	47708010	77748	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47630262	47698201	67939	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47630262	47693947	63685	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47630262	47672796	42534	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47630262	47657080	26818	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47630262	47643568	13306	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47630262	47643568	13306	Uncertain significance	duplication	Lynch syndrome	germline
+chr2	47630262	47641557	11295	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47630262	47639699	9437	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47630262	47637511	7249	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47630262	47637511	7249	Uncertain significance	duplication	Lynch syndrome	germline
+chr2	47630262	47635694	5432	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47630262	47630541	279	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47630329	47643568	13239	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47632106	47668733	36627	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47635539	47635694	155	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47636551	47638597	2046	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47636752	47638155	1403	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47636780	47638831	2051	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47636861	47639040	2179	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47637232	47637511	279	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47637376	47637449	73	Pathogenic	duplication	Lynch syndrome	germline
+chr2	47638049	47653430	15381	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47638301	47648462	10161	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47638477	47648643	10166	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47639552	47710367	70815	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47639552	47710360	70808	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47639552	47639699	147	Likely pathogenic	deletion	Lynch syndrome	germline
+chr2	47639706	47642985	3279	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47641401	47642007	606	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47642508	47655432	12924	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47656660	47663325	6665	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47656745	47657199	454	Pathogenic	duplication	Lynch syndrome	germline
+chr2	47656811	47656947	136	Likely pathogenic	deletion	Lynch syndrome	germline
+chr2	47656880	47710360	53480	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47656880	47657080	200	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47657311	47676594	19283	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47672114	47675122	3008	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47672686	47710360	37674	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47672686	47693947	21261	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47672687	47672797	110	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47686193	47697740	11547	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47690169	47710360	20191	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47690169	47690293	124	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47697729	47706125	8396	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47698103	47710367	12264	Uncertain significance	duplication	Lynch syndrome	germline
+chr2	47698103	47710360	12257	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47698103	47710360	12257	Uncertain significance	duplication	Lynch syndrome	germline
+chr2	47698103	47710089	11986	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47698505	47703472	4967	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47701802	47708848	7046	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47702163	47710360	8197	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47702221	47702281	60	Uncertain significance	deletion	Lynch syndrome	germline
+chr2	47703505	47703710	205	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47703547	47703611	64	Pathogenic	duplication	Lynch syndrome	germline
+chr2	47703825	47707938	4113	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47707834	47710360	2526	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47709917	47710360	443	Pathogenic	deletion	Lynch syndrome	germline
+chr2	47709917	47710089	172	Uncertain significance	deletion	Lynch syndrome	germline
+chr2	47852013	47873687	21674	Pathogenic	deletion	Lynch syndrome	germline
+chr2	48007275	48020272	12997	Pathogenic	deletion	Lynch syndrome	germline
+chr2	48010220	48034092	23872	Pathogenic	deletion	Lynch syndrome	germline
+chr2	48010220	48032166	21946	Uncertain significance	duplication	Lynch syndrome	germline
+chr2	48010220	48018262	8042	Pathogenic	deletion	Lynch syndrome	germline
+chr2	48010220	48010632	412	Uncertain significance	duplication	Lynch syndrome	germline
+chr2	48010371	48018262	7891	Pathogenic	deletion	Lynch syndrome	germline
+chr2	48014828	48033431	18603	Pathogenic	deletion	Lynch syndrome	germline
+chr2	48018065	48028294	10229	Pathogenic	deletion	Lynch syndrome	germline
+chr2	48018065	48018262	197	Pathogenic	deletion	Lynch syndrome	germline
+chr2	48023032	48033790	10758	Pathogenic	deletion	Lynch syndrome	germline
+chr2	48023032	48032166	9134	Pathogenic	deletion	Lynch syndrome	germline
+chr2	48023032	48028294	5262	Pathogenic	deletion	Lynch syndrome	germline
+chr2	48026694	48031620	4926	Pathogenic	duplication	Hereditary nonpolyposis colorectal cancer type 5	germline
+chr2	48030125	48032394	2269	Pathogenic	deletion	Lynch syndrome	germline
+chr2	48030558	48032166	1608	Pathogenic	deletion	Lynch syndrome	germline
+chr2	48030764	48030829	65	Pathogenic	deletion	Lynch syndrome,not provided	germline
+chr2	48032166	48034093	1927	Pathogenic	deletion	Lynch syndrome	germline
+chr2	48033757	48033842	85	Uncertain significance	duplication	Lynch syndrome	germline
+chr2	48033757	48033841	84	Uncertain significance	duplication	Lynch syndrome	germline
+chr2	48033937	48033993	56	Uncertain significance	duplication	not specified	germline
+chr2	49857937	49865140	7203	not provided	deletion	Preeclampsia	unknown
+chr2	50268227	50276061	7834	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr2	50949467	51166993	217526	Likely pathogenic	deletion	Schizophrenia	germline
+chr2	51298450	51336848	38398		deletion	Mental disorder	maternal,paternal,unknown
+chr2	51345473	51411126	65653	not provided	deletion	Normal pregnancy	unknown
+chr2	51587464	51627777	40313		deletion	Mental disorder	maternal,paternal,unknown
+chr2	51926598	51926904	306	not provided	deletion	Gestational diabetes mellitus uncontrolled,Large for gestational age,Normal pregnancy,Preeclampsia	unknown
+chr2	61601390	62720567	1119177	Likely pathogenic	duplication	Schizophrenia	germline
+chr2	64695892	64703286	7394	not provided	deletion	Large for gestational age	unknown
+chr2	76941048	76949101	8053	not provided	deletion	Large for gestational age	unknown
+chr2	86441115	86509365	68250	Uncertain significance	duplication	Spastic paraplegia 31,autosomal dominant	germline
+chr2	89427985	91820358	2392373	not provided	duplication	Preeclampsia	unknown
+chr2	89427985	90240473	812488	not provided	duplication	Large for gestational age,Preeclampsia	unknown
+chr2	90010894	90240473	229579	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr2	90094256	90109261	15005	not provided	deletion	Large for gestational age,Normal pregnancy,Preeclampsia	unknown
+chr2	96738406	97742073	1003667	Likely pathogenic	deletion	Schizophrenia	germline
+chr2	96915945	96931250	15305	Pathogenic	deletion	Hereditary Paraganglioma-Pheochromocytoma Syndromes	germline
+chr2	100055505	100062163	6658	not provided	duplication	Normal pregnancy	unknown
+chr2	100055762	100062163	6401	not provided	duplication	Large for gestational age,Preeclampsia	unknown
+chr2	106903880	108428618	1524738	Likely pathogenic	duplication	Schizophrenia	germline
+chr2	107096840	108442448	1345608	Likely pathogenic	deletion	Schizophrenia	germline
+chr2	109513362	109522790	9428	Pathogenic	deletion	Hypohidrotic ectodermal dysplasia	germline
+chr2	109526881	109529154	2273	Pathogenic	deletion	Hypohidrotic ectodermal dysplasia	germline
+chr2	110453975	111084885	630910	Uncertain significance	duplication	Autism spectrum disorders,Seizure Disorders	paternal
+chr2	110880912	110962639	81727	Pathogenic	deletion	Nephronophthisis	germline
+chr2	111406837	113102594	1695757	Likely pathogenic	deletion	not provided	maternal
+chr2	113885137	113891610	6473	not provided	deletion	not provided	not provided
+chr2	123818295	123878592	60297	not provided	duplication	Normal pregnancy	unknown
+chr2	127447830	127447887	57	Affects	deletion	Blood group,Gerbich system	germline
+chr2	127451439	127451523	84	Pathogenic,protective	deletion	Malaria,resistance to	germline
+chr2	130939271	131116671	177400		deletion	Congenital disorders of glycosylation type II	germline
+chr2	130949552	130952725	3173	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr2	131488861	131916943	428082	Likely pathogenic	deletion	Schizophrenia	germline
+chr2	135972092	136231459	259367	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr2	140621940	149324662	8702722	Pathogenic	duplication	MBD5 associated neurodevelopmental disorder	de novo
+chr2	142073759	142078003	4244	not provided	deletion	Preeclampsia	unknown
+chr2	142999393	143043285	43892	not provided	deletion	Small for gestational age	unknown
+chr2	145146280	145277870	131590	Pathogenic	deletion	not provided	germline
+chr2	145274844	145274986	142	Pathogenic	deletion	Mowat-Wilson syndrome	germline
+chr2	148064361	148777233	712872	Pathogenic	deletion	MBD5 associated neurodevelopmental disorder	de novo
+chr2	148099734	149441341	1341607	Pathogenic	duplication	MBD5 associated neurodevelopmental disorder	de novo
+chr2	148384664	148560710	176046	Pathogenic	deletion	MBD5 associated neurodevelopmental disorder	de novo
+chr2	148399999	149600000	1200001	Pathogenic	duplication	MBD5 associated neurodevelopmental disorder	de novo
+chr2	148447294	148651456	204162	Pathogenic	deletion	MBD5 associated neurodevelopmental disorder	de novo
+chr2	148483961	148694158	210197	Pathogenic	deletion	MBD5 associated neurodevelopmental disorder	de novo
+chr2	148496549	148737336	240787	Pathogenic	duplication	MBD5 associated neurodevelopmental disorder	de novo
+chr2	148596091	148979574	383483	Pathogenic	deletion	MBD5 associated neurodevelopmental disorder	de novo
+chr2	148701091	148778176	77085	Pathogenic	deletion	Meier-Gorlin syndrome 2	germline
+chr2	148715920	149020805	304885	Pathogenic	deletion	Mental retardation,autosomal dominant 1	de novo
+chr2	148731025	149660827	929802	Pathogenic	deletion	Mental retardation,autosomal dominant 1	de novo
+chr2	148752188	149105727	353539	Likely pathogenic	deletion	Schizophrenia	germline
+chr2	148900244	148999291	99047	Likely pathogenic	deletion	Schizophrenia	germline
+chr2	148916762	148977628	60866	Likely pathogenic	deletion	Schizophrenia	germline
+chr2	148973785	149162985	189200	Likely pathogenic	deletion	Schizophrenia	germline
+chr2	150432124	150432217	93	Uncertain significance	deletion	not specified	germline
+chr2	154163943	154199490	35547	not provided	duplication	Small for gestational age	unknown
+chr2	154701807	155131619	429812	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr2	155363750	158667217	3303467	Likely pathogenic	deletion	Autism spectrum disorders	de novo
+chr2	160321787	160567537	245750	not provided	duplication	Preeclampsia	unknown
+chr2	166911147	166911276	129	Pathogenic	deletion	Severe myoclonic epilepsy in infancy	de novo
+chr2	166912920	166913010	90	Pathogenic	deletion	Severe myoclonic epilepsy in infancy	de novo
+chr2	167051694	167060974	9280	Uncertain significance	deletion	Generalized epilepsy with febrile seizures plus,type 7,Hereditary sensory and autonomic neuropathy type IIA	germline
+chr2	169830231	169830305	74	Pathogenic	deletion	Benign recurrent intrahepatic cholestasis 2,Progressive familial intrahepatic cholestasis 2	germline
+chr2	179408252	179408384	132	Uncertain significance	deletion	not specified	germline
+chr2	179430426	179430494	68	Pathogenic	deletion	not provided	germline
+chr2	179484442	179484523	81	Uncertain significance	deletion	not specified	germline
+chr2	179504566	179504801	235	Uncertain significance	deletion	Dilated cardiomyopathy 1G,Limb-girdle muscular dystrophy,type 2J	germline
+chr2	184797825	184802609	4784	not provided	deletion	Gestational diabetes mellitus uncontrolled,Normal pregnancy	unknown
+chr2	185701610	185743114	41504	Likely pathogenic	deletion	Schizophrenia	germline
+chr2	188435642	188530578	94936	not provided	deletion	Small for gestational age	unknown
+chr2	189852806	189855783	2977	Likely pathogenic	duplication	Ehlers-Danlos syndrome,type 4	germline
+chr2	189859689	189863222	3533	Pathogenic	deletion	Ehlers-Danlos syndrome,type 4	germline
+chr2	189859758	189859815	57	Pathogenic	deletion	Ehlers-Danlos syndrome,type 4	germline
+chr2	200228771	200263785	35014	Pathogenic	duplication	Chromosome 2q32-q33 deletion syndrome	germline
+chr2	200298060	200298237	177	Pathogenic	duplication	Chromosome 2q32-q33 deletion syndrome	germline
+chr2	201843499	201971024	127525	not provided	duplication	Normal pregnancy	unknown
+chr2	203241657	203424670	183013	Pathogenic	deletion	Primary pulmonary hypertension	germline
+chr2	203241657	203329531	87874	Pathogenic	deletion	Primary pulmonary hypertension	germline
+chr2	203242196	203424670	182474	Pathogenic	deletion	Primary pulmonary hypertension	germline
+chr2	203242196	203397307	155111	Pathogenic	deletion	Primary pulmonary hypertension	germline
+chr2	203242196	203379610	137414	Pathogenic	deletion	Primary pulmonary hypertension	germline
+chr2	203242196	203378441	136245	Pathogenic	deletion	Primary pulmonary hypertension	germline
+chr2	203242196	203329531	87335	Pathogenic	deletion	Primary pulmonary hypertension	germline
+chr2	203242273	203424670	182397	Pathogenic	deletion	Primary pulmonary hypertension	germline
+chr2	203329531	203332412	2881	Pathogenic	deletion	Primary pulmonary hypertension	germline
+chr2	203329531	203329702	171	Pathogenic	deletion	Primary pulmonary hypertension,Pulmonary venoocclusive disease 1	germline
+chr2	203331912	203338445	6533	Likely pathogenic	deletion	Primary pulmonary hypertension	germline
+chr2	203332412	203424670	92258	Pathogenic	deletion	Primary pulmonary hypertension	germline
+chr2	203406744	203411907	5163	Pathogenic	deletion	Primary pulmonary hypertension	germline
+chr2	203407170	203424670	17500	Pathogenic	deletion	Primary pulmonary hypertension	germline
+chr2	209034800	209050447	15647	not provided	deletion	Small for gestational age	unknown
+chr2	213173171	213192268	19097	not provided	deletion	Small for gestational age	unknown
+chr2	213183695	213192268	8573	not provided	deletion	Large for gestational age,Normal pregnancy	unknown
+chr2	213183695	213190493	6798	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr2	213187033	213191389	4356	not provided	deletion	Large for gestational age,Normal pregnancy	unknown
+chr2	213188732	213190493	1761	not provided	deletion	Normal pregnancy	unknown
+chr2	213635051	213657426	22375	not provided	deletion	Large for gestational age	unknown
+chr2	215593398	215634036	40638	Uncertain significance	duplication	Familial cancer of breast	germline
+chr2	220142658	220146510	3852	Pathogenic	deletion	Spinal muscular atrophy,distal,autosomal recessive,5	inherited
+chr2	220431636	220431689	53	Pathogenic	deletion	Three M syndrome 2	germline
+chr2	223158338	223163411	5073	Pathogenic	deletion	Waardenburg syndrome	germline
+chr2	223563573	223588671	25098	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr2	223798500	223823141	24641	not provided	duplication	Preeclampsia	unknown
+chr2	228230758	228234864	4106	Pathogenic	deletion	Specific language impairment 5	germline
+chr2	228243309	228258288	14979	not provided	duplication	Preeclampsia	unknown
+chr2	232995328	232995429	101	Pathogenic	deletion	Renal hamartomas nephroblastomatosis and fetal gigantism	germline
+chr2	233028168	233028342	174	Pathogenic	deletion	Renal hamartomas nephroblastomatosis and fetal gigantism	germline
+chr2	233028168	233028342	174	Uncertain significance	duplication	Renal hamartomas nephroblastomatosis and fetal gigantism	germline
+chr2	241558935	241576626	17691	not provided	duplication	Gestational diabetes mellitus uncontrolled,Small for gestational age	unknown
+chr2	241808161	241815351	7190	Pathogenic	deletion	Primary hyperoxaluria,type I	germline
+chr2	241808161	241813394	5233	Pathogenic	deletion	Primary hyperoxaluria,type I	germline
+chr2	241808465	241808539	74	Uncertain significance	duplication	Primary hyperoxaluria,type I	germline
+chr2	241810866	241818536	7670	Pathogenic	deletion	Primary hyperoxaluria,type I	germline
+chr2	241816066	241817188	1122	Pathogenic	deletion	Primary hyperoxaluria,type I	germline
+chr2	241817567	241818536	969	Pathogenic	deletion	Primary hyperoxaluria,type I	germline
+chr2	242812079	243048760	236681	not provided	deletion	Large for gestational age	unknown
+chr2	242873799	243048760	174961	not provided	deletion	Gestational diabetes mellitus uncontrolled,Normal pregnancy	unknown
+chr2	242917733	243048760	131027	not provided	deletion	Large for gestational age,Normal pregnancy,Preeclampsia	unknown
+chr2	242919763	243048760	128997	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr2	242926380	243048760	122380	not provided	deletion	Normal pregnancy	unknown
+chr20	3195319	3197225	1906	Pathogenic	deletion	Epileptic encephalopathy,early infantile,35	germline
+chr20	7957765	7962072	4307	not provided	duplication	Preeclampsia	unknown
+chr20	12807015	12889314	82299	not provided	duplication	Normal pregnancy	unknown
+chr20	14748534	14955730	207196	Uncertain significance	deletion	Autism spectrum disorders	unknown
+chr20	14794360	14931186	136826	not provided	deletion	Normal pregnancy	unknown
+chr20	14798975	15007351	208376	Uncertain significance	deletion	Autism spectrum disorders	paternal
+chr20	25364309	25378180	13871	Pathogenic	deletion	Polyneuropathy,hearing loss,ataxia,retinitis pigmentosa,and cataract	inherited
+chr20	31806587	31814348	7761	not provided	deletion	Preeclampsia	unknown
+chr20	37026341	37045533	19192	not provided	duplication	Small for gestational age	unknown
+chr20	39316128	39317100	972	Pathogenic	deletion	Duane syndrome type 1,Duane syndrome type 2	inherited
+chr20	44351420	44378173	26753	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr20	49552799	49571722	18923	Pathogenic	deletion	Congenital disorder of glycosylation type 1E	germline
+chr20	58956160	58962376	6216	not provided	duplication	Preeclampsia	unknown
+chr20	60885241	61929348	1044107	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr20	61393872	61412466	18594	not provided	deletion	Preeclampsia	unknown
+chr20	61880168	61908597	28429	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr20	62037541	62051025	13484	Pathogenic	deletion	Benign familial neonatal seizures 1	germline
+chr20	62037541	62039889	2348	Pathogenic	deletion	Benign familial neonatal seizures 1	germline
+chr20	62076011	62103993	27982	Pathogenic	deletion	Benign familial neonatal seizures 1	germline
+chr20	62559687	62567384	7697	Uncertain significance	duplication	Neuronal ceroid lipofuscinosis	germline
+chr21	10827532	10913441	85909	not provided	deletion	Large for gestational age	unknown
+chr21	14714506	29216662	14502156	Pathogenic	duplication	Alzheimer's disease,Cerebral amyloid angiopathy,APP-related	germline
+chr21	21916115	21918415	2300	not provided	deletion	Normal pregnancy	unknown
+chr21	24020222	24043069	22847	not provided	deletion	Small for gestational age	unknown
+chr21	35027141	35056247	29106	not provided	deletion	Preeclampsia	unknown
+chr21	35821361	35822042	681	Likely benign	duplication	not specified	germline
+chr21	35821542	35821932	390	Uncertain significance	duplication	not specified	germline
+chr21	36160097	36421255	261158	Pathogenic	deletion	Familial platelet disorder with associated myeloid malignancy	germline
+chr21	36160097	36171759	11662	Pathogenic	deletion	Familial platelet disorder with associated myeloid malignancy	germline
+chr21	36231770	36231875	105	Likely pathogenic	deletion	Familial platelet disorder with associated myeloid malignancy	germline
+chr21	38007969	39747620	1739651	Pathogenic	deletion	Absent or delayed speech development,Deeply set eye,Feeding difficulties,Intellectual disability,Microcephaly,Seizures	de novo
+chr21	44821866	44853859	31993	not provided	duplication	Normal pregnancy	unknown
+chr21	45970717	47545826	1575109	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr21	47754484	47754562	78	Uncertain significance	deletion	not specified	germline
+chr22	18844631	19008108	163477	not provided	deletion	Normal pregnancy	unknown
+chr22	18874964	21028946	2153982	Pathogenic	duplication	Autism spectrum disorders	de novo
+chr22	20721033	21460598	739565	Likely pathogenic	deletion	Schizophrenia	germline
+chr22	22314462	22573637	259175	not provided	duplication	Large for gestational age	unknown
+chr22	22320929	22566160	245231	Likely pathogenic	deletion	Schizophrenia	germline
+chr22	22971579	25041986	2070407	Likely pathogenic	duplication	Schizophrenia	germline
+chr22	23667750	25041986	1374236	Likely pathogenic	duplication	Schizophrenia	germline
+chr22	23667750	24991609	1323859	Likely pathogenic	duplication	Schizophrenia	germline
+chr22	24129149	24176705	47556	Uncertain significance	duplication	Rhabdoid tumor predisposition syndrome 1,Schwannomatosis	germline
+chr22	24175758	24176705	947	Uncertain significance	duplication	Rhabdoid tumor predisposition syndrome 1,Schwannomatosis	germline
+chr22	25629681	25998204	368523	not provided	duplication	Large for gestational age	unknown
+chr22	25669568	25914593	245025	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr22	25832418	25843884	11466	not provided	deletion	Large for gestational age,Normal pregnancy,Preeclampsia,Small for gestational age	unknown
+chr22	26995596	27074524	78928	Likely pathogenic	duplication	Cataract,congenital	inherited
+chr22	29083730	29121355	37625	Pathogenic	deletion	Familial cancer of breast	germline
+chr22	29083730	29115473	31743	Uncertain significance	duplication	Familial cancer of breast	germline
+chr22	29083730	29083974	244	Likely pathogenic	deletion	Familial cancer of breast	germline
+chr22	29083883	29121355	37472	Uncertain significance	duplication	Familial cancer of breast	germline
+chr22	29085122	29085203	81	Uncertain significance	deletion	Familial cancer of breast	germline
+chr22	29092888	29095925	3037	Pathogenic	deletion	Breast and colorectal cancer,susceptibility to,Familial cancer of breast	germline
+chr22	29095825	29099554	3729	Likely pathogenic	deletion	Familial cancer of breast	germline
+chr22	29099492	29099554	62	Pathogenic	deletion	Familial cancer of breast	germline
+chr22	29099492	29099554	62	Likely pathogenic	duplication	Familial cancer of breast	germline
+chr22	29105993	29115473	9480	Pathogenic	deletion	Familial cancer of breast	germline
+chr22	29120964	29121355	391	Pathogenic	deletion	Familial cancer of breast	germline
+chr22	29120964	29121355	391	Likely pathogenic	duplication	Familial cancer of breast	germline
+chr22	30035078	30035201	123	Likely pathogenic	deletion	Neurofibromatosis,type 2	germline
+chr22	30057722	30063344	5622		deletion	Neurofibromatosis,type 2	somatic
+chr22	30063344	30067790	4446		deletion	Neurofibromatosis,type 2	somatic
+chr22	30064321	30067937	3616	Likely pathogenic	deletion	Neurofibromatosis,type 2	germline
+chr22	38369501	38370205	704	Pathogenic	deletion	Waardenburg syndrome	germline
+chr22	38409686	38447833	38147	Pathogenic	deletion	Hirschsprung disease 1	de novo
+chr22	38530412	38537093	6681	Pathogenic	deletion	Infantile neuroaxonal dystrophy	germline
+chr22	38565224	38565478	254	Pathogenic	deletion	Infantile neuroaxonal dystrophy	germline
+chr22	39428918	39445556	16638	not provided	deletion	Normal pregnancy	unknown
+chr22	40049409	40065322	15913	not provided	deletion	Normal pregnancy	unknown
+chr22	41537226	41562602	25376	Pathogenic	duplication	Rubinstein-Taybi syndrome 2	de novo
+chr22	42519195	42534124	14929	drug response	deletion	Debrisoquine,poor metabolism of	germline
+chr22	49033232	51193680	2160448	Pathogenic	deletion	Autism spectrum disorders,Seizure Disorders	de novo
+chr22	50282985	51304566	1021581	Pathogenic	deletion	Autism spectrum disorders	de novo
+chr22	51027580	51234443	206863	Pathogenic	deletion	Autism spectrum disorders,Seizure Disorders	unknown
+chr3	61494	126209	64715	not provided	duplication	Normal pregnancy	unknown
+chr3	857324	1063826	206502	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr3	1782523	1783885	1362	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr3	5391553	5438374	46821	not provided	deletion	Normal pregnancy	unknown
+chr3	8787211	8788451	1240	not provided	deletion	not provided	germline
+chr3	8829871	8857963	28092	not provided	duplication	Small for gestational age	unknown
+chr3	9477569	9477650	81	Pathogenic	deletion	Mental retardation,autosomal dominant 23	germline
+chr3	10175482	10183579	8097	Pathogenic	deletion	Pancreatic cysts,Renal cyst	unknown
+chr3	10183318	10183871	553	Pathogenic	deletion	Erythrocytosis,familial,2,Von Hippel-Lindau syndrome	germline
+chr3	10188172	10188227	55	Uncertain significance	duplication	Erythrocytosis,familial,2,Von Hippel-Lindau syndrome	germline
+chr3	10188197	10188320	123	Pathogenic	deletion	Erythrocytosis,familial,2,Von Hippel-Lindau syndrome	germline
+chr3	10191470	10195354	3884	Pathogenic	deletion	Erythrocytosis,familial,2,Von Hippel-Lindau syndrome	germline
+chr3	10191470	10195354	3884	Uncertain significance	duplication	Erythrocytosis,familial,2,Von Hippel-Lindau syndrome	germline
+chr3	10191470	10191649	179	Pathogenic	deletion	Von Hippel-Lindau syndrome	germline
+chr3	12632224	12660296	28072	Uncertain significance	duplication	not specified	germline
+chr3	14166439	14185180	18741	Uncertain significance	duplication	Arrhythmogenic right ventricular cardiomyopathy,type 5	germline
+chr3	20577472	20583674	6202	not provided	duplication	Normal pregnancy	unknown
+chr3	22283290	22285562	2272	not provided	deletion	Normal pregnancy,Small for gestational age	unknown
+chr3	28810587	28816082	5495	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr3	35826706	35902885	76179	not provided	duplication	Preeclampsia	unknown
+chr3	37034657	37038806	4149	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37034839	37070424	35585	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37034840	37092337	57497	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37034840	37070423	35583	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37034840	37059090	24250	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37034840	37050396	15556	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37034840	37042544	7704	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37034840	37038200	3360	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37034840	37035154	314	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37034840	37035154	314	Uncertain significance	duplication	Lynch syndrome	germline
+chr3	37035038	37035154	116	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37037418	37043555	6137	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37038109	37042544	4435	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37039444	37059613	20169	Pathogenic	duplication	Lynch syndrome	germline
+chr3	37039759	37052440	12681	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37042445	37042544	99	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37044471	37046589	2118	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37045071	37046861	1790	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37045094	37054651	9557	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37045646	37049940	4294	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37045891	37092337	46446	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37045891	37045965	74	Pathogenic	deletion	Lynch syndrome,not provided	germline,unknown
+chr3	37048066	37049287	1221	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37049639	37050445	806	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37049799	37052209	2410	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37049838	37052249	2411	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37049872	37052281	2409	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37050304	37067498	17194	Uncertain significance	duplication	Lynch syndrome	germline
+chr3	37052949	37060990	8041	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37053310	37059090	5780	Likely pathogenic	deletion	Lynch syndrome	germline
+chr3	37061206	37063077	1871	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37061307	37066756	5449	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37061594	37061913	319	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37061800	37092337	30537	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37064798	37068325	3527	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37066452	37067524	1072	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37067127	37092337	25210	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37067127	37067498	371	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37068624	37074678	6054	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37068653	37071808	3155	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37070274	37092337	22063	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37070274	37070423	149	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37080354	37083368	3014	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37081676	37092337	10661	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37081676	37081785	109	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37084091	37089247	5156	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37084589	37089786	5197	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37086766	37089578	2812	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37089009	37092337	3328	Pathogenic	deletion	Lynch syndrome,not provided	germline,unknown
+chr3	37089009	37092337	3328	Uncertain significance	duplication	Lynch syndrome	germline
+chr3	37090394	37092337	1943	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37091976	37092337	361	Pathogenic	deletion	Lynch syndrome	germline
+chr3	37091976	37092337	361	Uncertain significance	duplication	Lynch syndrome	germline
+chr3	37092118	37092302	184	Uncertain significance	duplication	not specified	germline
+chr3	37979881	37986249	6368	not provided	deletion	Gestational diabetes mellitus uncontrolled,Normal pregnancy,Preeclampsia	unknown
+chr3	38589552	38674850	85298	Uncertain significance	duplication	Brugada syndrome	germline
+chr3	38589552	38593049	3497	Likely pathogenic	deletion	Brugada syndrome	germline
+chr3	38645196	38674804	29608	Uncertain significance	duplication	Brugada syndrome	germline
+chr3	38655233	38663980	8747	Pathogenic	deletion	Brugada syndrome	germline
+chr3	38674525	38674850	325	Pathogenic	deletion	Brugada syndrome	germline
+chr3	41266066	41266117	51	Likely pathogenic	deletion	Malignant melanoma	somatic
+chr3	41656073	41842202	186129	Likely pathogenic	deletion	Schizophrenia	germline
+chr3	41811348	41898721	87373	Likely pathogenic	deletion	Schizophrenia	germline
+chr3	48508662	48508716	54	Pathogenic	duplication	Aicardi Goutieres syndrome 1	germline
+chr3	53033294	53035044	1750	not provided	deletion	Large for gestational age,Normal pregnancy,Preeclampsia	unknown
+chr3	62958568	62993083	34515	not provided	deletion	Large for gestational age,Small for gestational age	unknown
+chr3	65117946	65118762	816	not provided	deletion	Normal pregnancy	unknown
+chr3	65191846	65215804	23958	not provided	deletion	Gestational diabetes mellitus uncontrolled,Normal pregnancy,Preeclampsia	unknown
+chr3	65191846	65214533	22687	not provided	deletion	Gestational diabetes mellitus uncontrolled,Normal pregnancy,Preeclampsia,Small for gestational age	unknown
+chr3	65191846	65212596	20750	not provided	deletion	Preeclampsia	unknown
+chr3	65191846	65206583	14737	not provided	deletion	Gestational diabetes mellitus uncontrolled,Large for gestational age,Normal pregnancy	unknown
+chr3	65206582	65212596	6014	not provided	duplication	Large for gestational age	unknown
+chr3	66584921	66629765	44844	not provided	duplication	Small for gestational age	unknown
+chr3	69985769	70014477	28708	Pathogenic	deletion	Waardenburg syndrome	germline
+chr3	70005503	70014477	8974	Pathogenic	deletion	Waardenburg syndrome	germline
+chr3	75428674	75726925	298251	not provided	deletion	Gestational diabetes mellitus uncontrolled,Normal pregnancy,Preeclampsia	unknown
+chr3	75428674	75605157	176483	not provided	deletion	Gestational diabetes mellitus uncontrolled,Preeclampsia	unknown
+chr3	75428674	75469493	40819	not provided	deletion	Normal pregnancy	unknown
+chr3	75786277	75790822	4545	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr3	89384565	89417171	32606	not provided	deletion	Gestational diabetes mellitus uncontrolled,Normal pregnancy	unknown
+chr3	93598006	93598158	152	Pathogenic	deletion	Thrombophilia due to protein S deficiency,autosomal recessive	germline
+chr3	96303887	96319964	16077	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr3	100351695	100437892	86197	not provided	duplication	Gestational diabetes mellitus uncontrolled,Preeclampsia	unknown
+chr3	120394333	120394982	649	Pathogenic	deletion	Alkaptonuria	inherited
+chr3	122003482	122004025	543	Pathogenic	deletion	Hypocalcemia,autosomal dominant 1	germline
+chr3	128198264	128205919	7655	Pathogenic	deletion	Lymphedema,primary,with myelodysplasia	germline
+chr3	128391788	128412024	20236	not provided	duplication	Small for gestational age	unknown
+chr3	135965048	135973100	8052	Pathogenic	deletion	Propionic acidemia	inherited
+chr3	136149138	136260722	111584	not provided	duplication	Normal pregnancy	unknown
+chr3	138665088	138665212	124	Pathogenic	duplication	Blepharophimosis,ptosis,and epicanthus inversus	germline
+chr3	146479244	147646011	1166767	Likely pathogenic	deletion	Schizophrenia	germline
+chr3	148844500	148848419	3919	Pathogenic	deletion	Hermansky-Pudlak syndrome 3	germline
+chr3	148964691	148967335	2644	not provided	deletion	Preeclampsia	unknown
+chr3	151514589	151574286	59697	not provided	deletion	Small for gestational age	unknown
+chr3	151514589	151546041	31452	not provided	deletion	Gestational diabetes mellitus uncontrolled,Normal pregnancy	unknown
+chr3	151676321	151681018	4697	not provided	deletion	Normal pregnancy	unknown
+chr3	162131407	162142475	11068	not provided	deletion	Gestational diabetes mellitus uncontrolled,Large for gestational age,Normal pregnancy,Preeclampsia,Small for gestational age	unknown
+chr3	162131407	162138826	7419	not provided	deletion	Normal pregnancy	unknown
+chr3	162132154	162142475	10321	not provided	duplication	Small for gestational age	unknown
+chr3	162918386	163178778	260392	not provided	deletion	Normal pregnancy	unknown
+chr3	163178777	163263886	85109	not provided	duplication	Normal pregnancy	unknown
+chr3	163661531	163664285	2754	not provided	deletion	Small for gestational age	unknown
+chr3	165041115	165073006	31891	not provided	deletion	Large for gestational age,Normal pregnancy,Preeclampsia	unknown
+chr3	173239452	173309839	70387	not provided	duplication	Large for gestational age	unknown
+chr3	173239452	173301037	61585	not provided	duplication	Preeclampsia	unknown
+chr3	175893081	175907342	14261	not provided	deletion	Normal pregnancy	unknown
+chr3	178916537	178952500	35963	Uncertain significance	duplication	Cowden syndrome	germline
+chr3	186386775	186411076	24301	not provided	deletion	Normal pregnancy	unknown
+chr3	186411075	186494422	83347	not provided	duplication	Normal pregnancy	unknown
+chr3	192305207	192312270	7063	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr3	194226485	194245931	19446	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr3	195738019	197332998	1594979	Pathogenic	deletion	Schizophrenia	germline
+chr4	71565	134851	63286	not provided	duplication	Normal pregnancy	unknown
+chr4	2764087	2770772	6685	not provided	deletion	Normal pregnancy	unknown
+chr4	9922196	9982215	60019	Pathogenic	deletion	Renal hypouricemia 2	germline
+chr4	10398426	10400156	1730	not provided	deletion	Normal pregnancy	unknown
+chr4	15480346	15482451	2105	Pathogenic	deletion	Joubert syndrome,Meckel-Gruber syndrome	germline
+chr4	16413098	16428830	15732	not provided	deletion	Gestational diabetes mellitus uncontrolled,Small for gestational age	unknown
+chr4	22934688	23563103	628415	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr4	25033007	25505932	472925	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr4	25128885	25128979	94	Likely pathogenic	deletion	Ataxia,Dysarthria,Elliptical nystagmus,Neurodegeneration,Progressive limb weakness,Spastic diplegia	germline
+chr4	35149659	35151237	1578	not provided	deletion	Small for gestational age	unknown
+chr4	42697552	42708098	10546	not provided	deletion	Normal pregnancy	unknown
+chr4	44976702	45002987	26285	not provided	duplication	Normal pregnancy	unknown
+chr4	45817326	45863268	45942	not provided	duplication	Preeclampsia	unknown
+chr4	55141007	55164412	23405	Uncertain significance	duplication	Gastrointestinal stromal tumor	germline
+chr4	55524094	55606881	82787	Uncertain significance	duplication	Gastrointestinal stromal tumor	germline
+chr4	64066403	64080016	13613	not provided	deletion	Normal pregnancy	unknown
+chr4	64138340	64150666	12326	not provided	deletion	Gestational diabetes mellitus uncontrolled,Normal pregnancy,Small for gestational age	unknown
+chr4	66584921	66629765	44844	not provided	duplication	Normal pregnancy	unknown
+chr4	71465501	71467849	2348	Pathogenic	deletion	AMELOGENESIS IMPERFECTA,TYPE IF	germline
+chr4	80160464	80598713	438249	not provided	duplication	Normal pregnancy	unknown
+chr4	80871931	80943688	71757	not provided	deletion	Small for gestational age	unknown
+chr4	86210280	86432381	222101	not provided	duplication	Preeclampsia	unknown
+chr4	88537267	88537420	153	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr4	88537275	88537405	130	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr4	92981312	93256907	275595	Uncertain significance	deletion	Troyer syndrome	germline
+chr4	93786774	93948103	161329	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr4	93854724	94012510	157786	Likely pathogenic	deletion	Schizophrenia	germline
+chr4	94019841	94056765	36924	Pathogenic	deletion	Spinocerebellar ataxia,autosomal recessive 18	germline
+chr4	94153588	94298037	144449	Pathogenic	deletion	Spinocerebellar ataxia,autosomal recessive 18	germline
+chr4	97308913	97391366	82453	not provided	deletion	Large for gestational age	unknown
+chr4	101568955	101616281	47326	not provided	deletion	Large for gestational age	unknown
+chr4	108065737	108081536	15799	not provided	deletion	Preeclampsia	unknown
+chr4	111079336	111187683	108347	not provided	duplication	Small for gestational age	unknown
+chr4	111539204	111543628	4424	Pathogenic	deletion	Axenfeld-Rieger syndrome type 1	unknown
+chr4	111774550	115284551	3510001	Pathogenic	deletion	Aniridia	unknown
+chr4	113568509	113569257	748	Pathogenic	deletion	Alazami syndrome	germline
+chr4	120057666	120108944	51278	Uncertain significance	duplication	Hypertrophic cardiomyopathy	germline
+chr4	120057680	120057756	76	Uncertain significance	duplication	not specified	germline
+chr4	121393820	121457685	63865	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr4	122285262	122289863	4601	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr4	122324111	122333765	9654	not provided	deletion	Normal pregnancy	unknown
+chr4	128851837	128886363	34526	Uncertain significance	duplication	Ceroid lipofuscinosis neuronal 7	germline
+chr4	129774374	129927804	153430	not provided	duplication	Small for gestational age	unknown
+chr4	138103312	138190394	87082	not provided	deletion	Normal pregnancy	unknown
+chr4	154581207	154585922	4715	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr4	158430546	158479507	48961	not provided	deletion	Normal pregnancy	unknown
+chr4	161062143	161071059	8916	not provided	deletion	Gestational diabetes mellitus uncontrolled,Small for gestational age	unknown
+chr4	161590090	161646978	56888	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr4	161945301	162009525	64224	not provided	duplication	Large for gestational age	unknown
+chr4	161952227	162009525	57298	not provided	duplication	Normal pregnancy	unknown
+chr4	161952227	162003624	51397	not provided	duplication	Gestational diabetes mellitus uncontrolled,Large for gestational age,Normal pregnancy,Small for gestational age	unknown
+chr4	165576739	165587000	10261	not provided	deletion	Gestational diabetes mellitus uncontrolled,Preeclampsia	unknown
+chr4	186400227	186414626	14399	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr4	186421813	186456712	34899	Uncertain significance	duplication	Hypertrophic cardiomyopathy,Primary dilated cardiomyopathy	germline
+chr4	186444515	186456712	12197	Uncertain significance	duplication	Hypertrophic cardiomyopathy,Primary dilated cardiomyopathy	germline
+chr4	186934285	187137146	202861	Uncertain significance	duplication	Autism spectrum disorders	maternal
+chr4	189133206	189158163	24957	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr4	190438605	190915650	477045	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr5	788645	851046	62401	not provided	deletion	Small for gestational age	unknown
+chr5	788645	840717	52072	not provided	deletion	Preeclampsia	unknown
+chr5	788645	825338	36693	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr5	788645	821726	33081	not provided	deletion	Preeclampsia	unknown
+chr5	1253661	1253838	177	Pathogenic	deletion	Idiopathic fibrosing alveolitis,chronic form	not provided
+chr5	7169850	7191074	21224	not provided	deletion	Normal pregnancy,Small for gestational age	unknown
+chr5	7178643	7191074	12431	not provided	deletion	Preeclampsia	unknown
+chr5	7179550	7191074	11524	not provided	deletion	Large for gestational age	unknown
+chr5	8708018	8744557	36539	not provided	deletion	Gestational diabetes mellitus uncontrolled,Large for gestational age,Normal pregnancy,Preeclampsia	unknown
+chr5	8715359	8744557	29198	not provided	deletion	Normal pregnancy,Preeclampsia	unknown
+chr5	8728873	8744557	15684	not provided	deletion	Large for gestational age	unknown
+chr5	9129754	9257708	127954	Uncertain significance	deletion	Charcot-Marie-Tooth disease	unknown
+chr5	9902402	9924597	22195	not provided	deletion	Gestational diabetes mellitus uncontrolled,Preeclampsia,Small for gestational age	unknown
+chr5	13792102	13944548	152446	Likely pathogenic	duplication	Primary ciliary dyskinesia	germline
+chr5	13824307	13830884	6577	Pathogenic	deletion	Primary ciliary dyskinesia	germline
+chr5	13917268	13919730	2462	Likely pathogenic	deletion	Primary ciliary dyskinesia	germline
+chr5	13923388	13923549	161	Pathogenic	deletion	Primary ciliary dyskinesia	germline
+chr5	18819945	18913137	93192	not provided	duplication	Normal pregnancy	unknown
+chr5	32101399	32159517	58118	not provided	duplication	Gestational diabetes mellitus uncontrolled,Normal pregnancy	unknown
+chr5	32107380	32159517	52137	not provided	duplication	Gestational diabetes mellitus uncontrolled,Normal pregnancy	unknown
+chr5	35862008	35867620	5612	Pathogenic	deletion	Severe combined immunodeficiency,autosomal recessive,T cell-negative,B cell-positive,NK cell-positive	inherited
+chr5	45396593	45696220	299627	Uncertain significance	duplication	Early infantile epileptic encephalopathy	germline
+chr5	68757773	68828296	70523	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr5	70305695	70307464	1769	not provided	deletion	Gestational diabetes mellitus uncontrolled,Large for gestational age,Normal pregnancy	unknown
+chr5	77436045	77444215	8170	Pathogenic	deletion	Hermansky Pudlak syndrome 2	germline
+chr5	77461433	77461496	63	Pathogenic	deletion	Hermansky Pudlak syndrome 2	germline
+chr5	89953721	89954095	374	Pathogenic	deletion	Usher syndrome,type 2C	germline
+chr5	90144434	90159732	15298	Uncertain significance	duplication	not specified	germline
+chr5	90368248	90459732	91484	Pathogenic	deletion	Usher syndrome,type 2C	germline
+chr5	91064109	93896378	2832269	Likely pathogenic	deletion	Bosch-Boonstra-Schaaf optic atrophy syndrome	de novo
+chr5	92845156	93679748	834592	Likely pathogenic	deletion	Bosch-Boonstra-Schaaf optic atrophy syndrome	unknown
+chr5	94264816	94316007	51191	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr5	97047652	97099320	51668	not provided	deletion	Normal pregnancy	unknown
+chr5	97048465	97111523	63058	not provided	deletion	Normal pregnancy	unknown
+chr5	97048465	97108559	60094	not provided	deletion	Gestational diabetes mellitus uncontrolled,Large for gestational age,Normal pregnancy,Small for gestational age	unknown
+chr5	97048465	97099320	50855	not provided	deletion	Large for gestational age	unknown
+chr5	97933887	97939616	5729	not provided	deletion	Normal pregnancy	unknown
+chr5	98779529	98841255	61726	not provided	deletion	Large for gestational age	unknown
+chr5	99597528	99614601	17073	not provided	deletion	Large for gestational age	unknown
+chr5	104069561	104406952	337391	not provided	deletion	Large for gestational age	unknown
+chr5	106223535	106260687	37152	not provided	deletion	Small for gestational age	unknown
+chr5	109363174	109384306	21132	not provided	deletion	Small for gestational age	unknown
+chr5	109363174	109375480	12306	not provided	deletion	Small for gestational age	unknown
+chr5	112043200	112181937	138737	Pathogenic	deletion	Familial adenomatous polyposis 1	germline
+chr5	112073555	112181936	108381	Pathogenic	deletion	Familial adenomatous polyposis 1	germline
+chr5	112073555	112151290	77735	Pathogenic	deletion	Familial adenomatous polyposis 1	germline
+chr5	112090569	112157688	67119	Likely pathogenic	duplication	Familial adenomatous polyposis 1	germline
+chr5	112090587	112179768	89181	Pathogenic	deletion	Familial adenomatous polyposis 1	germline
+chr5	112116486	112181936	65450	Pathogenic	deletion	Familial adenomatous polyposis 1	germline
+chr5	112151191	112157688	6497	Pathogenic	deletion	Familial adenomatous polyposis 1	germline
+chr5	112154358	112155228	870	Pathogenic	complex	Colorectal cancer,susceptibility to	germline
+chr5	112154662	112157688	3026	Pathogenic	deletion	Familial adenomatous polyposis 1	germline
+chr5	112162804	112181936	19132	Uncertain significance	duplication	Familial adenomatous polyposis 1	germline
+chr5	112162804	112179824	17020	Pathogenic	deletion	Familial adenomatous polyposis 1	germline
+chr5	112164552	112164669	117	Uncertain significance	deletion	Familial adenomatous polyposis 1	germline
+chr5	112164686	112164775	89	Likely benign	deletion	not specified	germline
+chr5	112173249	112181936	8687	Pathogenic	deletion	Familial adenomatous polyposis 1	germline
+chr5	113160489	113171928	11439	not provided	deletion	Large for gestational age	unknown
+chr5	113874135	113986223	112088	not provided	deletion	Preeclampsia	unknown
+chr5	117701467	117707373	5906	not provided	deletion	Normal pregnancy	unknown
+chr5	127653840	127654693	853	Likely pathogenic	deletion	Congenital contractural arachnodactyly	germline
+chr5	131705696	131728284	22588	not provided	deletion	Renal carnitine transport defect	not provided
+chr5	131892615	131980313	87698	Pathogenic	deletion	Hereditary cancer-predisposing syndrome	germline
+chr5	131892615	131893145	530	Pathogenic	deletion	Hereditary cancer-predisposing syndrome	germline
+chr5	131911468	131911620	152	Pathogenic	deletion	Hereditary cancer-predisposing syndrome	germline
+chr5	131973806	131973875	69	Uncertain significance	duplication	Hereditary cancer-predisposing syndrome	germline
+chr5	148442533	148442737	204	Pathogenic	deletion	Charcot-Marie-Tooth disease,type IV	germline
+chr5	155477865	155484237	6372	not provided	deletion	Large for gestational age,Small for gestational age	unknown
+chr5	161528240	161582545	54305	Uncertain significance	duplication	Epilepsy,childhood absence 2,Familial febrile seizures 8	germline
+chr5	171758784	171771367	12583	Pathogenic	deletion	Frank Ter Haar syndrome	germline
+chr5	172659106	172662315	3209	Pathogenic	deletion	Atrial septal defect 7 with or without atrioventricular conduction defects	germline
+chr5	177391048	177400550	9502	not provided	deletion	Large for gestational age	unknown
+chr6	1598591	1730086	131495	Pathogenic	deletion	Aniridia	unknown
+chr6	1610679	1612342	1663	Pathogenic	deletion	Axenfeld-Rieger syndrome type 3	unknown
+chr6	7583533	7586033	2500	Uncertain significance	deletion	not specified	germline
+chr6	7585982	7586222	240	Uncertain significance	duplication	not specified	germline
+chr6	14839777	14845799	6022	not provided	deletion	Preeclampsia	unknown
+chr6	19045559	19048773	3214	not provided	deletion	Normal pregnancy,Preeclampsia	unknown
+chr6	27632580	27660508	27928	not provided	duplication	Large for gestational age	unknown
+chr6	29094695	29161435	66740	not provided	deletion	Large for gestational age	unknown
+chr6	29869109	29896421	27312	not provided	deletion	Small for gestational age	unknown
+chr6	29910377	30075843	165466	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr6	29910601	29912297	1696	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr6	31085199	31324647	239448	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr6	31221038	31228972	7934	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr6	31237123	31378388	141265	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr6	31338527	31341357	2830	not provided	deletion	Normal pregnancy	unknown
+chr6	31355118	31453640	98522	not provided	duplication	Preeclampsia	unknown
+chr6	32188382	32629802	441420	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr6	32498833	32519005	20172	not provided	deletion	Small for gestational age	unknown
+chr6	32609096	32629809	20713	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr6	42946006	42946270	264	Pathogenic	deletion	Peroxisome biogenesis disorder 4B	germline
+chr6	43573055	43581397	8342	Pathogenic	deletion	Xeroderma pigmentosum,variant type	germline
+chr6	48329808	48352572	22764	not provided	deletion	Normal pregnancy	unknown
+chr6	49409613	49409684	71	Pathogenic	duplication	Methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency	germline
+chr6	55776584	56253790	477206	not provided	deletion	Normal pregnancy	unknown
+chr6	55819361	55846527	27166	not provided	deletion	Normal pregnancy	unknown
+chr6	55828726	55846527	17801	not provided	deletion	Normal pregnancy	unknown
+chr6	65828852	65910220	81368	not provided	deletion	Normal pregnancy	unknown
+chr6	66554081	66622346	68265	not provided	duplication	Normal pregnancy	unknown
+chr6	66593132	66622346	29214	not provided	duplication	Normal pregnancy	unknown
+chr6	67017493	67047294	29801	not provided	deletion	Gestational diabetes mellitus uncontrolled,Normal pregnancy,Preeclampsia	unknown
+chr6	67017493	67044431	26938	not provided	deletion	Normal pregnancy	unknown
+chr6	67017493	67039740	22247	not provided	deletion	Preeclampsia	unknown
+chr6	83013453	84395825	1382372	Pathogenic	deletion	Immunodeficiency 23	inherited
+chr6	84553477	84698353	144876	not provided	duplication	Large for gestational age,Normal pregnancy	unknown
+chr6	110396539	110411065	14526	not provided	deletion	Large for gestational age	unknown
+chr6	112511750	118037596	5525846	Pathogenic	deletion	Delayed speech and language development,Dysmorphic features,Muscular hypotonia	de novo
+chr6	112955667	112968423	12756	not provided	duplication	Small for gestational age	unknown
+chr6	116681079	119775014	3093935	Pathogenic	deletion	Delayed speech and language development,Intellectual disability,Microcephaly,tremors	de novo
+chr6	117810939	119417749	1606810	Pathogenic	deletion	Absence seizures,Autistic behavior,Delayed speech and language development	de novo
+chr6	117961790	118280044	318254	Pathogenic	deletion	Intellectual disability,generalized epilepsy with atypical absence seizures,tremors	de novo
+chr6	117971548	118218720	247172	Pathogenic	deletion	Intellectual disability,generalized epilepsy with atypical absence and tonic/myoclonic seizures,tremors	de novo
+chr6	118410061	118635123	225062	Uncertain significance	deletion	Dysmorphic features,Global developmental delay,Muscular hypotonia	unknown
+chr6	118879987	118881587	1600	Uncertain significance	duplication	Dilated cardiomyopathy 1P	germline
+chr6	123833400	123833454	54	Uncertain significance	deletion	not specified	germline
+chr6	124404538	124474595	70057	not provided	duplication	Normal pregnancy	unknown
+chr6	124416846	124474595	57749	not provided	duplication	Small for gestational age	unknown
+chr6	129040518	129222690	182172	Likely pathogenic	deletion	Charcot-Marie-Tooth disease	unknown
+chr6	129093271	129125184	31913	not provided	duplication	Normal pregnancy	unknown
+chr6	129785434	129785597	163	Likely pathogenic	deletion	Merosin deficient congenital muscular dystrophy	unknown
+chr6	133783901	133785996	2095	Conflicting interpretations of pathogenicity	deletion	Nonsyndromic hearing loss and deafness,Primary dilated cardiomyopathy	germline
+chr6	135751019	135754394	3375	Pathogenic	deletion	Joubert syndrome	germline
+chr6	138909907	138929434	19527	not provided	deletion	Preeclampsia	unknown
+chr6	146007257	146007432	175	Pathogenic	deletion	not provided	germline
+chr6	146735205	147036914	301709	Pathogenic	deletion	Fragile X syndrome	germline
+chr6	147670085	147723577	53492	not provided	duplication	Small for gestational age	unknown
+chr6	147685479	147723577	38098	not provided	duplication	Normal pregnancy	unknown
+chr6	151618234	151621611	3377	not provided	deletion	Preeclampsia	unknown
+chr6	154323908	154341558	17650	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr6	157099063	158366109	1267046	Pathogenic	deletion	Absent speech,Blepharophimosis,Intellectual disability,moderate,Long eyelashes,Thick lower lip vermilion,Thin upper lip vermilion	de novo
+chr6	161352697	161566909	214212	not provided	duplication	Normal pregnancy	unknown
+chr6	161768589	162475206	706617	Uncertain significance	duplication	Parkinson disease 2	germline
+chr6	161969885	161990448	20563	Pathogenic	deletion	Parkinson disease 2	germline
+chr6	162206803	162683797	476994	Pathogenic	deletion	Parkinson disease 2	germline
+chr6	162206803	162206940	137	Pathogenic	deletion	Parkinson disease 2	germline
+chr6	162359117	162478632	119515	Likely pathogenic	deletion	Schizophrenia	germline
+chr6	162390193	162712849	322656	Likely pathogenic	deletion	Schizophrenia	germline
+chr6	162475122	162475206	84	Pathogenic	deletion	Parkinson disease 2	germline
+chr6	162567225	162646227	79002	Likely pathogenic	deletion	Schizophrenia	germline
+chr6	162587772	162707611	119839	Likely pathogenic	deletion	Schizophrenia	germline
+chr6	162617241	162740393	123152	Likely pathogenic	deletion	Schizophrenia	germline
+chr6	162622162	162864505	242343	Pathogenic	deletion	Parkinson disease 2	germline
+chr6	162622162	162622284	122	Pathogenic	deletion	Parkinson disease 2	germline
+chr6	162622162	162622284	122	Uncertain significance	duplication	Parkinson disease 2	germline
+chr6	162628960	162839077	210117	Likely pathogenic	deletion	Schizophrenia	germline
+chr6	162635245	162799376	164131	Likely pathogenic	deletion	Schizophrenia	germline
+chr6	162682482	162945283	262801	Likely pathogenic	deletion	Schizophrenia	germline
+chr6	162687400	162848974	161574	Likely pathogenic	deletion	Schizophrenia	germline
+chr6	162690104	162721777	31673	Likely pathogenic	deletion	Schizophrenia	germline
+chr6	162712848	162978138	265290	Likely pathogenic	deletion	Schizophrenia	germline
+chr6	162731216	163047076	315860	Likely pathogenic	deletion	Schizophrenia	germline
+chr6	162757332	162915593	158261	Likely pathogenic	deletion	Schizophrenia	germline
+chr6	162864341	162864505	164	Pathogenic	deletion	Parkinson disease 2	germline
+chr6	163032437	163232528	200091	Likely pathogenic	deletion	Schizophrenia	germline
+chr7	44934	63494	18560	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr7	3609711	3627799	18088	not provided	deletion	Normal pregnancy	unknown
+chr7	4827784	4834026	6242	Uncertain significance	deletion	Spastic paraplegia 48,autosomal recessive	germline
+chr7	6012869	6042267	29398	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6012869	6031688	18819	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6012869	6029586	16717	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6015622	6017501	1879	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6016428	6017479	1051	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6017218	6017388	170	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6026383	6048656	22273	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6026389	6048651	22262	Uncertain significance	duplication	Lynch syndrome	germline
+chr7	6026389	6035264	8875	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6028724	6029882	1158	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6029430	6048737	19307	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6029430	6031688	2258	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6029430	6029586	156	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6029430	6029586	156	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6031603	6048737	17134	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6031603	6045662	14059	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6031603	6042267	10664	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6031603	6038906	7303	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6035164	6038906	3742	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6036956	6043689	6733	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6038282	6039384	1102	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6043320	6043689	369	Pathogenic	deletion	Lynch syndrome	germline
+chr7	6048627	6048737	110	Pathogenic	deletion	Lynch syndrome	germline
+chr7	9128069	9229882	101813	not provided	deletion	Normal pregnancy	unknown
+chr7	9636391	9847642	211251	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr7	9722306	9805492	83186	not provided	duplication	Normal pregnancy	unknown
+chr7	10819154	10945193	126039	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr7	12258146	140494267	128236121	Pathogenic	deletion	Pleomorphic xanthoastrocytoma	somatic
+chr7	12418601	12422721	4120	not provided	deletion	Preeclampsia	unknown
+chr7	16317752	16415867	98115	Pathogenic	deletion	Congenital muscular dystrophy-dystroglycanopathy with brain and eye anomalies,type A7	germline
+chr7	17425894	17453479	27585	not provided	deletion	Gestational diabetes mellitus uncontrolled,Normal pregnancy	unknown
+chr7	19206435	19211709	5274	not provided	deletion	Gestational diabetes mellitus uncontrolled,Preeclampsia	unknown
+chr7	21940793	21940947	154	Uncertain significance	duplication	Primary ciliary dyskinesia	germline
+chr7	21940959	22011292	70333	not provided	duplication	Normal pregnancy	unknown
+chr7	24742317	24747933	5616	Likely pathogenic	deletion	Nonsyndromic hearing loss and deafness	germline
+chr7	27239290	27239342	52	Pathogenic	duplication	Hand foot uterus syndrome	germline
+chr7	33166069	33185898	19829	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr7	33185863	33195314	9451	Pathogenic	deletion	Bardet-Biedl syndrome	germline
+chr7	43930774	43935301	4527	not provided	deletion	Normal pregnancy	unknown
+chr7	52129321	52131514	2193	not provided	duplication	Preeclampsia	unknown
+chr7	52733290	52743803	10513	not provided	duplication	Gestational diabetes mellitus uncontrolled,Large for gestational age,Normal pregnancy,Preeclampsia	unknown
+chr7	53198268	53206225	7957	not provided	deletion	Small for gestational age	unknown
+chr7	55242524	55242660	136	Uncertain significance	deletion	not specified	somatic
+chr7	55259445	55259533	88	Uncertain significance	deletion	not specified	somatic
+chr7	57260918	57882330	621412	Uncertain significance	duplication	Autism spectrum disorders	unknown
+chr7	57481103	57621951	140848	not provided	duplication	Preeclampsia	unknown
+chr7	61747793	62838532	1090739	not provided	duplication	Preeclampsia	unknown
+chr7	61747793	62358419	610626	not provided	duplication	Small for gestational age	unknown
+chr7	61994169	62729224	735055	not provided	duplication	Preeclampsia	unknown
+chr7	62035569	62047108	11539	not provided	deletion	Normal pregnancy	unknown
+chr7	69450233	69638393	188160	Uncertain significance	deletion	Autism spectrum disorders	maternal
+chr7	69955481	70217682	262201	Pathogenic	deletion	Multiple congenital anomalies/dysmorphic syndrome-intellectual disability	germline
+chr7	69985842	70228020	242178	Pathogenic	deletion	Mental retardation,autosomal dominant 26	germline
+chr7	70105228	70203625	98397	Pathogenic	deletion	Multiple congenital anomalies/dysmorphic syndrome-intellectual disability	germline
+chr7	70236722	72383418	2146696	Pathogenic	deletion	Multiple congenital anomalies/dysmorphic syndrome-intellectual disability	germline
+chr7	72718277	74140708	1422431	Pathogenic	duplication	Autism spectrum disorders	paternal
+chr7	73442118	73484237	42119	Pathogenic	deletion	Supravalvar aortic stenosis	germline
+chr7	73482986	73484237	1251	Pathogenic	deletion	Supravalvar aortic stenosis	germline
+chr7	76134202	76144560	10358	not provided	duplication	Large for gestational age	unknown
+chr7	76143704	76637441	493737	not provided	duplication	Normal pregnancy	unknown
+chr7	76474913	76637441	162528	not provided	duplication	Normal pregnancy	unknown
+chr7	79337678	86790392	7452714	Likely pathogenic	deletion	Intellectual disability,Seizures	germline
+chr7	81114950	83724138	2609188	Likely pathogenic	deletion	Schizophrenia	germline
+chr7	81217069	83933784	2716715	Likely pathogenic	deletion	Intellectual disability,Seizures	germline
+chr7	88588036	88596054	8018	not provided	deletion	Normal pregnancy	unknown
+chr7	92055271	92069164	13893	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr7	94048197	94052613	4416	Pathogenic	deletion	Osteogenesis imperfecta,recessive perinatal lethal	germline
+chr7	94233565	94248585	15020	Pathogenic	deletion	Myoclonic dystonia	germline
+chr7	97933600	98157619	224019	not provided	duplication	Normal pregnancy	unknown
+chr7	103132403	103143573	11170	Likely pathogenic	deletion	Schizophrenia	germline
+chr7	105173264	105187786	14522	Uncertain significance	duplication	not specified	germline
+chr7	105173270	105187780	14510	Uncertain significance	duplication	not specified	germline
+chr7	105195468	105207763	12295	Uncertain significance	deletion	not specified	germline
+chr7	108058573	108066326	7753	not provided	deletion	Normal pregnancy	unknown
+chr7	109049658	111130658	2081000	Pathogenic	deletion	Speech-language disorder 1	germline
+chr7	109455704	109477177	21473	not provided	duplication	Normal pregnancy,Small for gestational age	unknown
+chr7	110151470	112422581	2271111	Likely pathogenic	duplication	Schizophrenia	germline
+chr7	111025947	111073710	47763	not provided	deletion	Preeclampsia	unknown
+chr7	111069945	111166165	96220	not provided	duplication	Normal pregnancy	unknown
+chr7	111251448	111288373	36925	not provided	deletion	Preeclampsia	unknown
+chr7	111433418	111630024	196606	not provided	deletion	Normal pregnancy	unknown
+chr7	116339137	116340338	1201	Uncertain significance	duplication	Renal cell carcinoma,papillary,1	germline
+chr7	116380905	116438440	57535	Uncertain significance	duplication	Renal cell carcinoma,papillary,1	germline
+chr7	117143145	117146020	2875	not provided	deletion	Cystic fibrosis	germline
+chr7	117144306	117149196	4890	Pathogenic	deletion	Cystic fibrosis	germline
+chr7	117144306	117144417	111	not provided	deletion	Cystic fibrosis	germline
+chr7	117232040	117232124	84	Pathogenic/Likely pathogenic,not provided	deletion	Cystic fibrosis	germline,unknown
+chr7	117242205	117252060	9855	not provided	deletion	Cystic fibrosis	germline
+chr7	117249595	117252110	2515	Pathogenic	deletion	Cystic fibrosis	germline
+chr7	117250572	117250723	151	not provided	deletion	Cystic fibrosis	germline
+chr7	117250647	117250701	54	not provided	deletion	Cystic fibrosis	germline
+chr7	117250985	117251581	596	not provided	deletion	Cystic fibrosis	germline
+chr7	117267575	117267824	249	not provided	deletion	Cystic fibrosis	germline
+chr7	117282467	117283248	781	not provided	deletion	Cystic fibrosis	germline
+chr7	141774289	141793419	19130	not provided	deletion	Gestational diabetes mellitus uncontrolled,Normal pregnancy,Preeclampsia,Small for gestational age	unknown
+chr7	141774289	141782731	8442	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr7	142137118	142152369	15251	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr7	142457318	142460927	3609	Likely pathogenic	duplication	Hereditary pancreatitis	germline
+chr7	142457329	142460424	3095	Pathogenic	duplication	Hereditary pancreatitis	germline
+chr7	142459624	142460927	1303	Uncertain significance	duplication	Hereditary pancreatitis	germline
+chr7	145794078	145796758	2680	not provided	deletion	Preeclampsia	unknown
+chr7	145931707	147099477	1167770	Pathogenic	deletion	Pitt-Hopkins-like syndrome 1	germline
+chr7	146471362	146471473	111	Uncertain significance	deletion	Cortical dysplasia-focal epilepsy syndrome	germline
+chr7	146705270	146748724	43454	Uncertain significance	duplication	Charcot-Marie-Tooth disease	unknown
+chr7	146756420	146935930	179510	Pathogenic	deletion	Pitt-Hopkins-like syndrome 1	germline
+chr7	147117453	147145576	28123	not provided	duplication	Small for gestational age	unknown
+chr7	147518608	147807856	289248	Likely pathogenic	deletion	Schizoaffective disorder,depressive type	paternal,unknown
+chr7	149152905	149518148	365243	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr7	150553474	150560322	6848	not provided	deletion	Normal pregnancy	unknown
+chr7	150642043	150675402	33359	Pathogenic	deletion	Long QT syndrome	germline
+chr7	150642043	150656824	14781	Pathogenic	deletion	Long QT syndrome	germline
+chr7	150656675	150656737	62	Pathogenic	deletion	not provided	germline
+chr7	151590284	151599503	9219	not provided	deletion	Large for gestational age	unknown
+chr7	151873852	152277531	403679	not provided	duplication	Large for gestational age	unknown
+chr7	152343582	152346448	2866	Uncertain significance	duplication	not specified	germline
+chr7	152345725	152346448	723	Uncertain significance	deletion	Hereditary cancer-predisposing syndrome	germline
+chr7	156539604	156619298	79694	Pathogenic	duplication	Triphalangeal thumb polysyndactyly syndrome	germline
+chr7	156615802	156621903	6101	Pathogenic	deletion	Acheiropodia	germline
+chr7	158758538	158988677	230139	Likely pathogenic	duplication	Schizophrenia	germline
+chr7	158845383	159119486	274103	not provided	duplication	Normal pregnancy	unknown
+chr8	2142266	2158537	16271	not provided	deletion	Normal pregnancy	unknown
+chr8	3035991	4784421	1748430	Uncertain significance	deletion	Autism spectrum disorders	maternal
+chr8	3267353	3371706	104353	Likely pathogenic	deletion	Schizophrenia	germline
+chr8	3731351	3813908	82557	Likely pathogenic	deletion	Schizophrenia	germline
+chr8	3739304	3813908	74604	Likely pathogenic	deletion	Schizophrenia	germline
+chr8	3786542	3789272	2730	not provided	deletion	Large for gestational age	unknown
+chr8	5563281	5587923	24642	not provided	deletion	Preeclampsia	unknown
+chr8	5599398	5608082	8684	not provided	deletion	Preeclampsia	unknown
+chr8	5599398	5607797	8399	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr8	5599398	5607663	8265	not provided	deletion	Preeclampsia	unknown
+chr8	5599398	5605087	5689	not provided	deletion	Gestational diabetes mellitus uncontrolled,Large for gestational age,Normal pregnancy,Small for gestational age	unknown
+chr8	5601190	5605087	3897	not provided	deletion	Gestational diabetes mellitus uncontrolled,Normal pregnancy	unknown
+chr8	6060653	6317266	256613	Pathogenic	deletion	Primary autosomal recessive microcephaly 1	inherited
+chr8	8583108	8587589	4481	not provided	deletion	Gestational diabetes mellitus uncontrolled,Preeclampsia	unknown
+chr8	13380878	13536002	155124	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr8	15395143	15410250	15107	not provided	deletion	Normal pregnancy	unknown
+chr8	15899687	15939182	39495	not provided	duplication	Preeclampsia	unknown
+chr8	15948234	16025964	77730	not provided	deletion	Large for gestational age,Normal pregnancy	unknown
+chr8	16262508	16268502	5994	not provided	deletion	Normal pregnancy,Preeclampsia	unknown
+chr8	17580790	17582137	1347	not provided	deletion	Normal pregnancy,Preeclampsia,Small for gestational age	unknown
+chr8	17580790	17581700	910	not provided	deletion	Gestational diabetes mellitus uncontrolled,Normal pregnancy	unknown
+chr8	17580790	17581454	664	not provided	deletion	Large for gestational age,Normal pregnancy	unknown
+chr8	17909062	17964559	55497	Pathogenic	deletion	Jankovic Rivera syndrome	germline
+chr8	20952059	21151009	198950	not provided	deletion	Preeclampsia	unknown
+chr8	24604792	25028671	423879	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr8	27326851	27328711	1860	Uncertain significance	deletion	Autosomal dominant nocturnal frontal lobe epilepsy	germline
+chr8	31007856	31015046	7190	Pathogenic	deletion	Werner syndrome	germline
+chr8	40184871	40189549	4678	not provided	deletion	Gestational diabetes mellitus uncontrolled,Small for gestational age	unknown
+chr8	42338720	42916885	578165	Likely pathogenic	deletion	Idiopathic basal ganglia calcification 1	germline
+chr8	49831365	49833824	2459	Pathogenic	deletion	Partial albinism	germline
+chr8	49831365	49833824	2459	Pathogenic	deletion	Waardenburg syndrome type 2D	germline
+chr8	51227227	51230812	3585	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr8	61716599	61721089	4490	Pathogenic	deletion	CHARGE association	germline
+chr8	72109606	72123547	13941	Pathogenic	deletion	Melnick-Fraser syndrome	germline
+chr8	72111498	72268758	157260	Pathogenic	deletion	Melnick-Fraser syndrome	germline
+chr8	75270581	75272469	1888	Likely pathogenic	deletion	Charcot-Marie-Tooth disease,type 4A	germline
+chr8	83271394	83293872	22478	not provided	deletion	Preeclampsia,Small for gestational age	unknown
+chr8	84876694	84890104	13410	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr8	86923374	86990451	67077	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr8	90215648	90259170	43522	not provided	deletion	Large for gestational age	unknown
+chr8	90945563	90971082	25519	Uncertain significance	duplication	Microcephaly,normal intelligence and immunodeficiency	germline
+chr8	90947808	90949303	1495	Likely pathogenic	deletion	Microcephaly,normal intelligence and immunodeficiency	germline
+chr8	90955480	90976735	21255	Pathogenic	deletion	Microcephaly,normal intelligence and immunodeficiency	germline
+chr8	90992961	90996899	3938	Pathogenic	deletion	Microcephaly,normal intelligence and immunodeficiency	germline
+chr8	92128839	92198211	69372	not provided	deletion	Normal pregnancy	unknown
+chr8	92128839	92183658	54819	not provided	deletion	Small for gestational age	unknown
+chr8	92128839	92181214	52375	not provided	deletion	Normal pregnancy	unknown
+chr8	92275767	92295114	19347	not provided	deletion	Small for gestational age	unknown
+chr8	96959818	96969356	9538	not provided	deletion	Large for gestational age	unknown
+chr8	100069858	100237853	167995	Likely pathogenic	deletion	Schizophrenia	germline
+chr8	101163844	101175817	11973	Pathogenic	deletion	Ciliary dyskinesia,primary,28,Kartagener syndrome	germline
+chr8	101174506	101174648	142	Pathogenic	deletion	Ciliary dyskinesia,primary,28	germline
+chr8	134265064	134271319	6255	Pathogenic	duplication	Charcot-Marie-Tooth disease,type 4D	germline
+chr8	137679804	137857327	177523	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr8	137688229	137857327	169098	not provided	deletion	Normal pregnancy	unknown
+chr8	144996454	144996520	66	Uncertain significance	deletion	not specified	germline
+chr9	46586	274108	227522	not provided	duplication	Normal pregnancy	unknown
+chr9	204192	343954	139762	Pathogenic	deletion	Hyperimmunoglobulin E recurrent infection syndrome,autosomal recessive	germline,paternal
+chr9	354333	355793	1460	not provided	deletion	Normal pregnancy	unknown
+chr9	395249	707463	312214	not provided	duplication	Normal pregnancy	unknown
+chr9	1447010	1450428	3418	not provided	deletion	Large for gestational age	unknown
+chr9	2621792	2654485	32693	Pathogenic	deletion	Cerebellar ataxia,mental retardation,and dysequilibrium syndrome 1	germline
+chr9	3628375	3747376	119001	not provided	deletion	Large for gestational age	unknown
+chr9	5306823	5335470	28647	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr9	8582228	8610513	28285	not provided	duplication	Large for gestational age	unknown
+chr9	11414179	11463799	49620	not provided	deletion	Preeclampsia	unknown
+chr9	12046841	12163583	116742	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr9	21187002	21228040	41038	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr9	21187120	21207037	19917	Uncertain significance	complex	Ductal breast carcinoma	somatic
+chr9	24502736	24515111	12375	not provided	deletion	Normal pregnancy,Preeclampsia,Small for gestational age	unknown
+chr9	24754014	24785247	31233	not provided	deletion	Small for gestational age	unknown
+chr9	27040562	27060990	20428	Pathogenic	deletion	BARDET-BIEDL SYNDROME 20	germline
+chr9	28309787	28342179	32392	not provided	deletion	Gestational diabetes mellitus uncontrolled	unknown
+chr9	29919238	29928182	8944	not provided	duplication	Gestational diabetes mellitus uncontrolled	unknown
+chr9	30181744	30222006	40262	not provided	duplication	Small for gestational age	unknown
+chr9	34280041	34296294	16253	Uncertain significance	deletion	Peripheral neuropathy	germline
+chr9	34647754	34649648	1894	Pathogenic	deletion	Deficiency of UDPglucose-hexose-1-phosphate uridylyltransferase	not provided
+chr9	71704981	71840362	135381	Pathogenic	duplication	Deafness,autosomal dominant 51	germline
+chr9	71833275	71861605	28330	Pathogenic	duplication	Progressive familial intrahepatic cholestasis 4	maternal
+chr9	71869124	71869290	166	Pathogenic	deletion	Progressive familial intrahepatic cholestasis 4	inherited
+chr9	72100117	72115711	15594	not provided	deletion	Small for gestational age	unknown
+chr9	73907624	73909871	2247	not provided	duplication	Normal pregnancy	unknown
+chr9	86203245	86206343	3098	not provided	deletion	Large for gestational age,Normal pregnancy,Preeclampsia,Small for gestational age	unknown
+chr9	94396058	94398847	2789	not provided	deletion	Normal pregnancy	unknown
+chr9	94490060	94498911	8851	Pathogenic	deletion	Robinow syndrome,autosomal recessive	germline
+chr9	98009713	98011651	1938	Pathogenic	deletion	Fanconi anemia	germline
+chr9	98205263	98270831	65568	Pathogenic	deletion	Gorlin syndrome	germline
+chr9	98229397	98232213	2816	Pathogenic	deletion	Gorlin syndrome	germline
+chr9	102339409	109549354	7209945	Likely pathogenic	deletion	Schizophrenia	germline
+chr9	102814577	102968415	153838	Likely pathogenic	deletion	Infantile nephronophthisis	germline
+chr9	102866779	102866909	130	Pathogenic	deletion	Nephronophthisis	germline
+chr9	115938317	116029174	90857	not provided	duplication	Normal pregnancy	unknown
+chr9	119398556	119504090	105534	Likely pathogenic	deletion	Schizophrenia	germline
+chr9	119452770	119635625	182855	Likely pathogenic	deletion	Schizophrenia	germline
+chr9	119452770	119495066	42296	Likely pathogenic	deletion	Schizophrenia	germline
+chr9	130265052	130265780	728	Uncertain significance	deletion	Charcot-Marie-Tooth disease type 2P	germline
+chr9	130422059	130439559	17500	Pathogenic	duplication	Epileptic encephalopathy	de novo
+chr9	130577290	130617052	39762	Pathogenic	deletion	Osler hemorrhagic telangiectasia syndrome	germline
+chr9	130581900	130582316	416	Likely pathogenic	deletion	Osler hemorrhagic telangiectasia syndrome	germline
+chr9	130605372	130605524	152	Pathogenic	deletion	Osler hemorrhagic telangiectasia syndrome	germline
+chr9	130605372	130605524	152	Likely pathogenic	duplication	Osler hemorrhagic telangiectasia syndrome	germline
+chr9	135750585	135776102	25517	Pathogenic	deletion	Tuberous sclerosis 1	de novo
+chr9	137533650	137534142	492	Uncertain significance	duplication	Ehlers-Danlos syndrome,classic type	germline
+chr9	137593016	137727050	134034	Pathogenic	deletion	Ehlers-Danlos syndrome,classic type	germline
+chr9	139439619	139524480	84861	Pathogenic/Likely pathogenic	deletion	Adams-Oliver syndrome 1,Adams-Oliver syndrome 5	de novo,germline
+chrX	1464084	1464649	565	Pathogenic	deletion	Rett syndrome	unknown
+chrX	1465325	1469426	4101	Pathogenic	deletion	Epileptic encephalopathy	de novo
+chrX	13779203	13779330	127	Pathogenic	deletion	Oral-facial-digital syndrome	not provided
+chrX	18443724	18497087	53363	Pathogenic	deletion	Atypical Rett syndrome	de novo
+chrX	18525054	18671749	146695	Pathogenic	deletion	Early infantile epileptic encephalopathy 2	unknown
+chrX	18525054	18528974	3920	Uncertain significance	duplication	Angelman syndrome-like,Early infantile epileptic encephalopathy 2	germline
+chrX	18593473	18671749	78276	Pathogenic	deletion	Early infantile epileptic encephalopathy 2	de novo
+chrX	18643247	18671749	28502	Pathogenic	deletion	Early infantile epileptic encephalopathy 2	de novo
+chrX	18643247	18646707	3460	Pathogenic	deletion	not provided	germline
+chrX	18646490	18671749	25259	Pathogenic	deletion	Early infantile epileptic encephalopathy 2	de novo
+chrX	25023006	25023109	103	Pathogenic	duplication	Lissencephaly 2,X-linked	germline
+chrX	31137344	33229673	2092329	Pathogenic	deletion	Duchenne muscular dystrophy	germline
+chrX	31191649	33229435	2037786	Uncertain significance	duplication	Duchenne muscular dystrophy	germline
+chrX	31279071	31279133	62	Pathogenic	deletion	Duchenne muscular dystrophy	germline
+chrX	31341714	31497220	155506	Pathogenic	deletion	Duchenne muscular dystrophy	germline
+chrX	31462597	31515061	52464	Pathogenic	deletion	Duchenne muscular dystrophy	germline
+chrX	31496222	31950344	454122	Pathogenic	deletion	Duchenne muscular dystrophy	germline
+chrX	31514904	31893490	378586	Pathogenic	deletion	Duchenne muscular dystrophy	germline
+chrX	31645789	31676261	30472	Likely pathogenic	deletion	Duchenne muscular dystrophy	germline
+chrX	31676106	31854936	178830	Pathogenic	deletion	Duchenne muscular dystrophy	germline
+chrX	31676106	31838200	162094	Pathogenic	deletion	Duchenne muscular dystrophy	germline
+chrX	31681589	32011129	329540	Pathogenic	deletion	Muscular dystrophy	germline
+chrX	31747747	31838200	90453	Pathogenic	deletion	Duchenne muscular dystrophy	germline
+chrX	31747747	31747865	118	Pathogenic	deletion	Duchenne muscular dystrophy	germline
+chrX	31792076	31854939	62863	Pathogenic	deletion	Becker muscular dystrophy,Duchenne muscular dystrophy	maternal
+chrX	31792076	31792309	233	Pathogenic	deletion	Duchenne muscular dystrophy	germline
+chrX	31795109	31870587	75478	Likely pathogenic	deletion	Schizophrenia	germline
+chrX	31838091	31854936	16845	Pathogenic	deletion	Duchenne muscular dystrophy	germline
+chrX	31838466	31867499	29033	Pathogenic	deletion	Becker muscular dystrophy,Duchenne muscular dystrophy	germline
+chrX	31986455	31986631	176	Pathogenic	deletion	Duchenne muscular dystrophy	germline
+chrX	32305645	32328393	22748	Pathogenic	deletion	Duchenne muscular dystrophy	germline
+chrX	32305645	32328393	22748	Pathogenic	duplication	Duchenne muscular dystrophy	germline
+chrX	32456357	32509635	53278	Pathogenic	deletion	Duchenne muscular dystrophy	germline
+chrX	32481555	32509635	28080	Pathogenic	duplication	Duchenne muscular dystrophy	germline
+chrX	32563275	32867937	304662	Pathogenic	deletion	Duchenne muscular dystrophy	germline
+chrX	32563275	32563451	176	Likely pathogenic	duplication	Duchenne muscular dystrophy	germline
+chrX	32583818	32632570	48752	Pathogenic	duplication	Duchenne muscular dystrophy	germline
+chrX	32591646	32717410	125764	Pathogenic	deletion	Duchenne muscular dystrophy	germline
+chrX	32613873	32867937	254064	Pathogenic	deletion	Duchenne muscular dystrophy	germline
+chrX	32662248	32867937	205689	Pathogenic	deletion	Duchenne muscular dystrophy	germline
+chrX	32827609	33229673	402064	Likely pathogenic	duplication	Duchenne muscular dystrophy	germline
+chrX	32827609	33038317	210708	Pathogenic	duplication	Duchenne muscular dystrophy	germline
+chrX	32834584	32862977	28393	Likely pathogenic	duplication	Duchenne muscular dystrophy	germline
+chrX	32841411	32841504	93	Likely pathogenic	duplication	Duchenne muscular dystrophy	germline
+chrX	32862899	32867937	5038	Pathogenic	duplication	Duchenne muscular dystrophy	germline
+chrX	33038255	33038317	62	Pathogenic	duplication	Duchenne muscular dystrophy	germline
+chrX	39916407	39937222	20815	Pathogenic	deletion	Oculofaciocardiodental syndrome	germline
+chrX	43479883	46741003	3261120	Likely pathogenic	deletion	Kabuki syndrome 2	unknown
+chrX	43479883	45501849	2021966	Likely pathogenic	deletion	Kabuki syndrome 2	unknown
+chrX	48762410	48763382	972	Pathogenic	deletion	CONGENITAL DISORDER OF GLYCOSYLATION,TYPE IIm	germline
+chrX	48915436	48967391	51955	Pathogenic	deletion	Early onset epileptic encephalopathy	de novo
+chrX	49845250	49846504	1254	Pathogenic	deletion	Dent disease 1	germline
+chrX	68836037	68836326	289	Pathogenic	deletion	Hypohidrotic ectodermal dysplasia	germline
+chrX	69176536	69176976	440	Likely pathogenic	duplication	Hypohidrotic ectodermal dysplasia	germline
+chrX	69176572	69176940	368	Pathogenic	deletion	Hypohidrotic ectodermal dysplasia	germline
+chrX	69176876	69176982	106	Pathogenic	deletion	Hypohidrotic ectodermal dysplasia	germline
+chrX	69242979	69255459	12480	Pathogenic	deletion	Hypohidrotic ectodermal dysplasia	germline
+chrX	69255207	69255459	252	Pathogenic	deletion	Hypohidrotic ectodermal dysplasia	germline
+chrX	70348963	70350064	1101	Uncertain significance	duplication	FG syndrome	germline
+chrX	71681852	72434328	752476	Pathogenic	deletion	Cornelia de Lange syndrome 5	de novo
+chrX	77190005	77231471	41466	protective	deletion	Spinocerebellar ataxia,X-linked	maternal
+chrX	99899162	99926296	27134	Uncertain significance	deletion	Rolandic epilepsy with mental retardation and speech dyspraxia,X-linked	germline
+chrX	103031753	103047548	15795	Pathogenic	duplication	Spastic paraplegia 2	germline
+chrX	103031917	103045531	13614	Pathogenic	duplication	Spastic paraplegia 2	germline
+chrX	107683436	107908736	225300	Pathogenic	deletion	Alport syndrome,X-linked recessive	not provided
+chrX	107683436	107802293	118857	Pathogenic	deletion	Alport syndrome,X-linked recessive	not provided
+chrX	107783035	107908736	125701	Pathogenic	deletion	Alport syndrome,X-linked recessive	not provided
+chrX	107783035	107865032	81997	Pathogenic	deletion	Alport syndrome,X-linked recessive	not provided
+chrX	107802383	107935977	133594	Pathogenic	deletion	Alport syndrome,X-linked recessive	not provided
+chrX	107840291	107840615	324	Pathogenic	deletion	Alport syndrome,X-linked recessive	not provided
+chrX	107840757	107842198	1441	Pathogenic	deletion	Alport syndrome,X-linked recessive	not provided
+chrX	107845134	107845187	53	Pathogenic	duplication	Alport syndrome,X-linked recessive	not provided
+chrX	107898687	107913457	14770	Pathogenic	deletion	Alport syndrome,X-linked recessive	not provided
+chrX	107911600	107911672	72	Pathogenic	deletion	Alport syndrome,X-linked recessive	not provided
+chrX	107911653	107911705	52	Pathogenic	deletion	Alport syndrome,X-linked recessive	not provided
+chrX	107920739	107920802	63	Pathogenic	deletion	Alport syndrome,X-linked recessive	germline
+chrX	113050825	114941807	1890982	Pathogenic	deletion	Bone mineral density quantitative trait locus 18	maternal
+chrX	118986729	119603030	616301	Uncertain significance	duplication	Danon disease	germline
+chrX	119562338	119562481	143	Uncertain significance	deletion	not specified	germline
+chrX	119565177	119575749	10572	Likely pathogenic	deletion	Danon disease	germline
+chrX	119581627	119583043	1416	Likely pathogenic	deletion	Danon disease	germline
+chrX	128692864	128697110	4246	Pathogenic	deletion	Lowe syndrome	germline
+chrX	132795702	132795954	252	Pathogenic	deletion	Simpson-Golabi-Behmel syndrome	germline
+chrX	132795757	132888203	92446	Pathogenic	deletion	Wilms tumor 1	germline
+chrX	135533329	136123779	590450	Likely pathogenic	duplication	Chromosome Xq26.3 duplication syndrome	somatic
+chrX	135549273	136126345	577072	Likely pathogenic	duplication	Chromosome Xq26.3 duplication syndrome	somatic
+chrX	135596445	136254970	658525	Likely pathogenic	duplication	Chromosome Xq26.3 duplication syndrome	somatic
+chrX	135601429	136192229	590800	Pathogenic	duplication	Chromosome Xq26.3 duplication syndrome	germline
+chrX	135622313	136191699	569386	Likely pathogenic	duplication	Chromosome Xq26.3 duplication syndrome	somatic
+chrX	147030198	147046357	16159	Pathogenic	deletion	Intellectual disability	maternal
+chrX	148586564	148586884	320	Pathogenic	deletion	Mucopolysaccharidosis,MPS-II	maternal
+chrX	152767423	152787984	20561	Pathogenic	deletion	MEESTER-LOEYS SYNDROME,Thoracic aortic aneurysm and aortic dissection	germline,maternal
+chrX	152768437	152795976	27539	Pathogenic	deletion	Thoracic aortic aneurysm and aortic dissection	maternal
+chrX	153062611	153063511	900	Pathogenic	deletion	Congenital disorder of glycosylation type 1y	germline
+chrX	153129337	153131274	1937	Pathogenic	deletion	Spastic paraplegia	germline
+chrX	153287263	153363188	75925	Pathogenic	duplication	Angelman syndrome,Mental retardation,X-linked,syndromic 13,Rett syndrome	germline
+chrX	153292373	153296121	3748	Pathogenic	deletion	Angelman syndrome,Mental retardation,X-linked,syndromic 13,Rett syndrome	germline
+chrX	153295365	153296133	768	Pathogenic	deletion	Rett syndrome	unknown
+chrX	153295701	153296122	421	Pathogenic	deletion	Rett syndrome	germline
+chrX	153295773	153296452	679	Likely pathogenic	deletion	Rett syndrome	germline
+chrX	153295822	153296026	204	Pathogenic	deletion	Rett syndrome	germline
+chrX	153295882	153296178	296	Pathogenic	deletion	Rett syndrome	unknown
+chrX	153296012	153296118	106	Pathogenic	deletion	not provided	germline
+chrX	153296070	153296124	54	Uncertain significance	deletion	Rett syndrome	de novo
+chrX	153296077	153296163	86	Pathogenic	deletion	Rett syndrome,not provided	de novo,unknown
+chrX	153296080	153296150	70	Pathogenic	deletion	not provided	germline
+chrX	153296084	153296272	188	Pathogenic	deletion	Rett syndrome	germline
+chrX	153296095	153296278	183	Likely pathogenic	deletion	not provided	germline
+chrX	153296112	153296381	269	Pathogenic	deletion	Rett syndrome	germline
+chrX	153296120	153296514	394	Pathogenic	deletion	not provided	unknown
+chrX	153357661	153357808	147	Uncertain significance	duplication	not specified	germline
+chrX	153576899	153599729	22830	Pathogenic	deletion	Periventricular nodular heterotopia 1	germline
+chrX	153607596	153609883	2287	Uncertain significance	duplication	Emery-Dreifuss muscular dystrophy 1,X-linked	germline
+chrX	153640180	153641904	1724	Likely pathogenic	deletion	3-Methylglutaconic aciduria type 2	germline
+chrX	154474498	154518072	43574	Pathogenic	deletion	Parkinsonism,early onset with mental retardation	maternal
+chrX	154762062	154784284	22222	Likely pathogenic	deletion	Schizophrenia	germline

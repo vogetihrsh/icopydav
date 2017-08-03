@@ -11,17 +11,24 @@ PROGNAME="annotate"
 ARGS=$(getopt -s bash --options $SHORTOPTS  --longoptions $LONGOPTS --name $PROGNAME -- "$@" )
 eval set -- "$ARGS"
 
+
+# argument 1 - annotation file
+# argument 2 - delta 
+# argument 3 - column number 
 function annotate {
+	additional_parameters="$4"
+	echo "Additional Parameters:" $additional_parameters
 	awk -v DELTA=$2 -v OFS='\t' '{print $1,$2-DELTA,$3+DELTA}' $annFile > $annFile"_temp.bed";
 	numLines=$(wc -l $annFile"_temp.bed"| awk '{print $1}');
 	for i in `seq 1 $numLines`
 	do
 		sed -n $i","$i"p" $annFile"_temp.bed" > $oneLineFile;
-		$bedTools intersect -a $oneLineFile -b $1 -loj -sorted -g $chrInfoFile >$tempFile
+		$bedTools intersect -a $oneLineFile -b $1 -loj -sorted -g $chrInfoFile  $additional_parameters >$tempFile
 		$bedTools merge -i $tempFile -c $3 -o distinct >> $newFile
 	done
 	paste $newFile $annFile | awk -v OFS='\t' -v ORS='\t' '{for(i=5;i<=NF;i++)print $i;print $4;printf "\n";}' > $annFile"_temp.bed";
 	mv $annFile"_temp.bed" $annFile
+	sed -i 's/^M//' $annFile
 	rm -rf $oneLineFile $newFile $tempFile 
 
 }
@@ -50,10 +57,20 @@ elif [[ ! -f $inputFile ]]; then
 	exit 1;
 fi
 
-chrInfoFile=$annDir"/"$genome"ChrInfo.txt";
-geneList=$annDir"/"$genome".bed";
-locFile=$annDir"/"$genome"LocInfo.bed";
-dgvFile=$annDir"/"$genome"DGV.bed";
+COMMENT_LINE="1i#Added annotation columns in the order:"
+
+# ANNOTATION FILE LIST 
+chrInfoFile=${annDir}/${genome}ChrInfo.txt
+geneList=${annDir}/${genome}.bed
+locFile=${annDir}/${genome}LocInfo.bed
+dgvFile=${annDir}/${genome}DGV.bed
+enhancerFile=${annDir}/${genome}_enhancer
+lncRNAFile=${annDir}/${genome}_lincRNA
+miRNAFile=${annDir}/${genome}_miRNA_sites.bed
+sdFile=${annDir}/${genome}_SD
+clinVarFile=${annDir}/${genome}_clinvar_svs.txt
+decipherFile=${annDir}/${genome}_DECIPHER
+exacFile=${annDir}/${genome}_ExAC
 
 tempFile=$inputFile"_temp"
 oneLineFile=$inputFile"_1.bed"
@@ -63,10 +80,59 @@ annFile=$outputPrefix"_annotated.bed"
 rm -rf $newFile $tempFile $annFile
 cp $inputFile $annFile
 
+# check if files are avialable and run annotation function
+COMMENT_LINE=$COMMENT_LINE" GENE"
+echo "Annotation with genes"
 annotate $geneList 5000 8
 if [[ -f $locFile ]]; then
+	 echo "Annotating with location"
 	annotate $locFile 0 7
+	COMMENT_LINE=$COMMENT_LINE" LOCATION"
 fi
 if [[ -f $dgvFile ]]; then
-	annotate $dgvFile 0 7
+	echo "Annotating with dgv annotations"
+	annotate $dgvFile 0 7 "-f 0.5 -r"
+	COMMENT_LINE=$COMMENT_LINE" DGV"
 fi
+if [[ -f $enhancerFile ]]; then
+	echo "Annotating with enhancers"
+	annotate $enhancerFile 0 7 "-f 0.99"
+	COMMENT_LINE=$COMMENT_LINE" ENHANCERS"
+fi
+if [[ -f $lncRNAFile ]]; then
+	echo "Annotating with lncRNAs"
+	annotate $lncRNAFile 0 7 "-f 0.99"
+	COMMENT_LINE=$COMMENT_LINE" LNCRNA"
+fi
+if [[ -f $miRNAFile ]]; then
+	echo "Annotating with miRNAs"
+	annotate $miRNAFile 0 7 "-F 0.99"
+	COMMENT_LINE=$COMMENT_LINE" miRNA"
+fi
+if [[ -f $sdFile ]]; then
+	echo "Annotating with segmental duplications"
+	annotate $sdFile 0 7 "-f 0.5"
+	COMMENT_LINE=$COMMENT_LINE" SEGMENTAL_DUPLICATIONS"
+fi
+if [[ -f $clinVarFile ]]; then
+	echo "Annotating with clinical var"
+	annotate $clinVarFile 0 8 "-F 0.5"
+	COMMENT_LINE=$COMMENT_LINE" CLINCAL_VAR"
+fi
+if [[ -f $clinVarFile ]]; then
+	echo "Annotating with clinical var dieases"
+	annotate $clinVarFile 0 11 "-F 0.5"
+	COMMENT_LINE=$COMMENT_LINE" CLINCAL_VAR_DISEASE"
+fi
+if [[ -f $decipherFile ]]; then
+	echo "Annotating with decipher"
+	annotate $decipherFile 0 7 "-F 0.5"
+	COMMENT_LINE=$COMMENT_LINE" DECIPHER"
+fi
+if [[ -f $exacFile ]]; then
+	echo "Annotating with exAC"
+	annotate $exacFile 0 7 "-F 0.5"
+	COMMENT_LINE=$COMMENT_LINE" EXAC"
+fi
+
+sed -i "$COMMENT_LINE" $annFile
