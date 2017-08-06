@@ -26,9 +26,8 @@ function annotate {
 		$bedTools intersect -a $oneLineFile -b $1 -loj -sorted -g $chrInfoFile  $additional_parameters >$tempFile
 		$bedTools merge -i $tempFile -c $3 -o distinct >> $newFile
 	done
-	paste $newFile $annFile | awk -v OFS='\t' -v ORS='\t' '{for(i=5;i<=NF;i++)print $i;print $4;printf "\n";}' > $annFile"_temp.bed";
+	paste $newFile $annFile | awk -F'\t' -v OFS='\t' -v ORS='\t' '{for(i=5;i<=NF;i++)print $i;print $4;printf "\n";}' > $annFile"_temp.bed";
 	mv $annFile"_temp.bed" $annFile
-	sed -i 's/^M//' $annFile
 	rm -rf $oneLineFile $newFile $tempFile 
 
 }
