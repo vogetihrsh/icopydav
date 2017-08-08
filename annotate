@@ -82,7 +82,7 @@ cp $inputFile $annFile
 # check if files are avialable and run annotation function
 COMMENT_LINE=$COMMENT_LINE" GENE"
 echo "Annotation with genes"
-annotate $geneList 5000 8
+annotate $geneList 0 8
 if [[ -f $locFile ]]; then
 	 echo "Annotating with location"
 	annotate $locFile 0 7
