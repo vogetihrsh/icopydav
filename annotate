@@ -28,6 +28,7 @@ function annotate {
 	done
 	paste $newFile $annFile | awk -F'\t' -v OFS='\t' -v ORS='\t' '{for(i=5;i<=NF;i++)print $i;print $4;printf "\n";}' > $annFile"_temp.bed";
 	mv $annFile"_temp.bed" $annFile
+	sed -i -e 's///g' $annFile
 	rm -rf $oneLineFile $newFile $tempFile 
 
 }
