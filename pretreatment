@@ -70,8 +70,8 @@ function runMedianMapCorrection(){
 #	AND SET PARAMETERS		#
 #***************************************#
 
-SHORTOPTS="ybp:i:o:m:z:"
-LONGOPTS="gcfile:,mapThres:,help,medianGC,medianMap,loessGC"
+SHORTOPTS="ybp:i:o:m:w:"
+LONGOPTS="gcfile:,mapThres:,help,medianGC,medianMap,loessGC,chromosome:,chrlen:"
 PROGNAME="preprocess.sh"
 ARGS=$(getopt -s bash --options $SHORTOPTS  --longoptions $LONGOPTS --name $PROGNAME -- "$@" ) 
 
@@ -81,13 +81,15 @@ while true; do
 	-p) no_of_procs="$2"; shift 2 ;;
 	-i) input_file="$2"; shift 2;;
 	-o) output="$2"; shift 2;;
+	-w) window_size="$2"; shift 2 ;;
 	-m) mappability_file="$2"; shift 2;;
-	-z) window_file="$2"; shift 2;;
 	-y) MEDIANGCFLAG=1; MEDIANMAPFLAG=1; shift ;;
 	--gcfile) gcFile="$2"; gcFlag=1; shift 2; ;;
 	--help) echo "Usage: preprocess -i <input BAM> -o <output Prefix> -m <mappability file> -z <bin file>";
 		exit 1; ;;
 	--mapThres) mapThres="$2" ; shift 2; ;;
+	--chromosome) chromosome="$2" ; shift 2; ;;
+	--chrlen) chromosomeLength="$2" ; shift 2; ;;
 	--medianGC) MEDIANGCFLAG=1; shift ;; 
 	--medianMap) MEDIANMAPFLAG=1; shift ;;
 	--loessGC) LOESSGCFLAG=1; shift ;;
@@ -100,21 +102,21 @@ done
 
 
 # MINIMUM REQUIRED PARAMETERS
-if [[ -z "$input_file" || -z "$window_file" || -z "$mappability_file" || -z "$output" ]]; then
+if [[ -z "$input_file" || -z "$mappability_file" || -z "$output" ]]; then
 	echo "Missing one of the required parameters: window_file (-z) mappability_file (-m) input_file (-i) output (-o) " >&2
 	exit 
 fi
 
 # FILE DOESNT EXIST ERROR
-if [[ ! -f $window_file || ! -f $input_file || ! -f $mappability_file ]]; then 
+if [[ ! -f $input_file || ! -f $mappability_file ]]; then
 	echo "One of the input files not found" >&2
 	exit 1
 fi
-if [[ $MEDIANGCFLAG -eq 1 ]]; then 
+if [[ $MEDIANGCFLAG -eq 1  || $LOESSGCFLAG -eq 1 ]]; then
 	if [[ $gcFlag -eq 1 ]];then
 		gcFlag=1;
 	else
-		echo "ERROR: -y flag requires --gcfile argument" >&2 ;
+		echo "ERROR: gcflag requires --gcfile argument" >&2 ;
 		exit 1
 	fi
 fi	
@@ -125,7 +127,7 @@ fi
 #***********************************************#
 
 # DATA PREPARATION AND FILTERING 
-Rscript --slave ${SOURCEDIR}/R/CalculateCoverage.R ${input_file} ${output} ${window_size} ${chromosome} ${chromosomeLength}
+Rscript --slave ${SOURCEDIR}/source/R/CalculateCoverage.R ${input_file} ${output} ${window_size} ${chromosome} ${chromosomeLength}
 paste ${output}_preproc_intermediate.txt $mappability_file  > temp.txt
 mv temp.txt ${output}_preproc_intermediate.txt
 
@@ -144,7 +146,7 @@ fi
 
 
 awk -v mapThres="$mapThres" '{if($3!=0 && $4>=mapThres) print $3;}' ${output}_preproc_intermediate.txt > ${output}_pCNVD.input;
-awk -v mapThres="$mapThres" '{if($3!=0 && $4>=mapThres) print $1,$2;}' {output}_preproc_intermediate.txt > ${output}_pCNVD.bincor;
+awk -v mapThres="$mapThres" '{if($3!=0 && $4>=mapThres) print $1,$2;}' ${output}_preproc_intermediate.txt > ${output}_pCNVD.bincor;
 
 rm ${output}_preproc_intermediate.txt
 
