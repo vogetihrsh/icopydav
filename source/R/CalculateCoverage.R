@@ -12,16 +12,15 @@ chromosomeLength = as.double(args[5])
 
 # construct the query
 query = GRanges(chromosome,IRanges(breakInChunks(chromosomeLength,windowSize)))
+counts = bamCounts(bamFile,query)
 
 # create bincor file
 startPos = as.character(start(query)-1)
 endPos = as.character(end(query))
-fileConnection = file(paste(outputPrefix,"_pCNVD.bincor",sep=""))
-writeLines(paste(startPos,endPos,sep="\t"),con=fileConnection)
+fileConnection = file(paste(outputPrefix,"_preproc_intermediate.txt",sep=""))
+writeLines(paste(startPos,endPos,,sep="\t"),con=fileConnection)
 close(fileConnection)
 
 # create bincounts file
-counts = bamCounts(bamFile,query)
-write(counts,file= paste(outputPrefix,"_pCNVD.input",sep=""))
 
 

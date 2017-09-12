@@ -36,22 +36,21 @@ randomString=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 32 | head -n 1)
 # function to correct gc-bias corrected read depths using Yoon et al method 
 # uses external R script 
 function runMedianGCcorrection() {
-	awk '{print $1}' $1 > $1"_GC"
-	paste $1"_GC" $2 > $output"_GC"
-	Rscript --slave $SOURCEDIR"/source/R/gcCorrectionYoon.R" $output"_GC" "gc"> $1"_GC";
-	awk '{print $2,$3,$4,$5}' $1 | paste $1"_GC" - >$output"_GC"
-	mv $output"_GC" $1
-	rm $1"_GC";
+	awk '{print $3}' $1 | paste - $2 > ${output}_GC_correction_input.txt
+	Rscript --slave ${SOURCEDIR}/source/R/gcCorrectionYoon.R ${output}_GC_correction_input.txt "gc" > ${output}_GC_correction_output.txt;
+	paste $1 ${output}_GC_correction_output.txt | awk '{print $1,$2,$5,$4}' > temp_${randomString}.txt
+    mv temp_${randomString}.txt $1
+    rm ${output}_GC_correction_input.txt ${output}_GC_correction_output.txt temp_${randomString}.txt;
 }
 
 # function calls an external script loessGCCorrection.R
 # does gc correction using loess method
 function runLoessGCcorrection() {
-	awk '{print $1}' $1 > $1"_GC"
-	Rscript --slave $SOURCEDIR"/source/R/loessGCCorrection.R" $1"_GC" $2
-	awk '{print $2,$3,$4,$5}' $1 | paste $1"_GC" - >$output"_GC"
-	mv $output"_GC" $1
-	rm $1"_GC";
+	awk '{print $3}' $1 > ${output}_GC_correction.txt
+	Rscript --slave ${SOURCEDIR}/source/R/loessGCCorrection.R ${output}_GC_correction.txt $2
+	paste $1 ${output}_GC_correction.txt | awk '{print $1,$2,$5,$4}' > temp_${randomString}.txt
+	mv temp_${randomString}.txt $1
+	rm ${output}_GC_correction.txt temp_${randomString}.txt;
 }
 
 
@@ -59,13 +58,11 @@ function runLoessGCcorrection() {
 # Similar to above function
 # Instead of GC score , mappability score is passed. 
 function runMedianMapCorrection(){
-	
-	awk '{print $1,$3}' $1 > $randomString"_map_rawRead.input"
-	Rscript --slave $SOURCEDIR"/source/R/gcCorrectionYoon.R" $randomString"_map_rawRead.input" "map"> $randomString"_map_rawRead.output";
-	awk '{print $2,$3,$4,$5}' $1 | paste $randomString"_map_rawRead.output" - >$randomString"_temp.txt"
-	mv $randomString"_temp.txt" $1
-	rm -rf $randomString"_map_rawRead.input" $randomString"_map_rawRead.output"
-
+	awk '{print $3,$4}' $1  > ${output}_map_correction_input.txt
+	Rscript --slave ${SOURCEDIR}/source/R/gcCorrectionYoon.R ${output}_map_correction_input.txt "map"> ${output}_map_correction_output.txt
+	paste $1 ${output}_map_correction_output.txt | awk '{print $1,$2,$5,$4}' > temp_${randomString}.txt
+	mv temp_${randomString}.txt $1
+	rm ${output}_map_correction_input.txt ${output}_map_correction_output.txt temp_${randomString}.txt
 }
 
 #***************************************#
@@ -128,38 +125,27 @@ fi
 #***********************************************#
 
 # DATA PREPARATION AND FILTERING 
-samtools view -@ 4 -q 1 -bh $input_file | bedtools bamtobed -i - > $output"_temp.bed";
-#bedtools bamtobed -i $output"_temp1.bam" > $output"_temp.bed"
-
-bedtools coverage -b $output"_temp.bed" -a $window_file > $output"_temp1.bed";
-rm -rf $output"_temp.bed";
-
-sort -n -k2 $output"_temp1.bed" -o $output"_temp1.bed";
-paste $output"_temp1.bed" $mappability_file > $output"_temp2";
-mv $output"_temp2" $output"_temp1.bed";
-awk '{print $4,$5,$8,$2,$3}' $output"_temp1.bed"> $output"_temp1";
-
+Rscript --slave ${SOURCEDIR}/R/CalculateCoverage.R ${input_file} ${output} ${window_size} ${chromosome} ${chromosomeLength}
+paste ${output}_preproc_intermediate.txt $mappability_file  > temp.txt
+mv temp.txt ${output}_preproc_intermediate.txt
 
 # check for gc correction, if yes correct 
 # check whether to correct with Yoon method or Loess Method
 if [[ $MEDIANGCFLAG -eq 1 ]]; then
-	runMedianGCcorrection $output"_temp1" $gcFile ;
+	runMedianGCcorrection ${output}_preproc_intermediate.txt $gcFile ;
 elif [[ $LOESSGCFLAG -eq 1 ]]; then
-	runLoessGCcorrection $output"_temp1" $gcFile
+	runLoessGCcorrection ${output}_preproc_intermediate.txt $gcFile
 fi
 
 # check for mappability correction, if yes correct it 
 if [[ $MEDIANMAPFLAG -eq 1 ]]; then
-	runMedianMapCorrection $output"_temp1"
+	runMedianMapCorrection ${output}_preproc_intermediate.txt
 fi
 
 
-awk -v mapThres="$mapThres" '{if($1!=0&&$2!=0&&$3>=mapThres) print $1;}' $output"_temp1" > $output"_pCNVD.input";
-awk -v mapThres="$mapThres" '{if($1!=0&&$2!=0&&$3>=mapThres)print $4,$5;}' $output"_temp1" > $output"_pCNVD.bincor"; 
-rm -rf $output"_temp1.bed" $output"_temp1";
+awk -v mapThres="$mapThres" '{if($3!=0 && $4>=mapThres) print $3;}' ${output}_preproc_intermediate.txt > ${output}_pCNVD.input;
+awk -v mapThres="$mapThres" '{if($3!=0 && $4>=mapThres) print $1,$2;}' {output}_preproc_intermediate.txt > ${output}_pCNVD.bincor;
 
-
-# check for gc correction flag and run external R script 
-##############################################################################################
+rm ${output}_preproc_intermediate.txt
 
 
