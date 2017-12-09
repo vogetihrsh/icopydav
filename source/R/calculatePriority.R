@@ -22,34 +22,32 @@ hasAnyFunctionalOverlaps <- function(df, i, dfColumns) {
       (isColumnPresent(columnNameConstants$ENHANCERS, dfColumns) &&
        df[i, columnNameConstants$ENHANCERS] != ".") ||
       (isColumnPresent(columnNameConstants$LNCRNA, dfColumns) &&
-       df[i, columnNameConstants$LNCRNA] != ".")){
+       df[i, columnNameConstants$LNCRNA] != ".")) {
     return(TRUE)
   }
   return(FALSE)
 }
 
-getDecipherScore <- function(df,i){
-  entries = unlist(strsplit(df[i,columnNameConstants$DECIPHER],","))
-  minScore=101
-  for(entry in entries){
-    score = unlist(strsplit(entry,"\\|"))[3]
-    score = as.numeric(substr(score,1,nchar(score)-1))
-    if(score<minScore)
+getDecipherScore <- function(df, i) {
+  entries = unlist(strsplit(df[i, columnNameConstants$DECIPHER], ","))
+  minScore = 101
+  for (entry in entries) {
+    score = unlist(strsplit(entry, "\\|"))[3]
+    score = as.numeric(substr(score, 1, nchar(score) - 1))
+    if (score < minScore)
       score = minScore
   }
   return(minScore)
 }
 
-source("ColumnNames.R")
-headers = "c1	c2	c3	c4	c5	c6\tGENE	LOCATION	Gene_Structural_Elements	DGV_accessions	Enhancers	miRNA_target_sites	Segmental_Duplications	Interspersed_repeats	Tandem_repeats	ClinVar_pathogenicity	ClinVar_Phenotype	OMIM_PHENOTYPE	DECIPHER	EXAC"
-headers = matrix(unlist(strsplit(headers, "\t")))
-df = read.delim2(
-  file = 'temp.bed',
-  sep = '\t',
-  skip = 1,
-  header = FALSE
-)
-colnames(df) = headers
+args = commandArgs(TRUE)
+fileName = args[1]
+sourceDir = args[2]
+source(paste(sourceDir,"ColumnNames.R",sep=""),chdir=FALSE)
+df = read.csv(file=fileName,sep="\t",header=FALSE)
+df = df[-length(df)]
+colnames(df) = unlist(df[1,])
+df = df[-1,]
 columnNameConstants = ColumnNames()
 dfColumns = colnames(df)
 priorites = list()
@@ -58,6 +56,7 @@ MEDIUM = "medium"
 LOW = "low"
 
 for (i in nrow(df)) {
+  priorites[i] = "."
   # CHECK HIGH PROIRITY CONDITIONS
   # High priority: Overlap with OMIM, ClinVar, positive ExAC score (GENE+1.45), DECIPHER 0-25%
   if (isColumnPresent(columnNameConstants$OMIM_PHENOTYPE, dfColumns) &&
@@ -99,8 +98,15 @@ for (i in nrow(df)) {
     
   }
   else if (isColumnPresent(columnNameConstants$DECIPHER, dfColumns) &&
-           getDecipherScore(df, i) >25) {
+           getDecipherScore(df, i) > 25) {
     priorites[i] = LOW
     
   }
 }
+df$Priority = unlist(priorites)
+write.table(df,
+            file = fileName,
+            sep = "\t",
+            quote = FALSE,
+	    row.names = FALSE
+	    )
