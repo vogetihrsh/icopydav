@@ -1,0 +1,47 @@
+#!/bin/bash
+
+#Flags used
+mapFlag=0;
+gcFlag=0;
+windowFlag=0;
+
+SOURCEDIR=$(dirname $(readlink -f $0)); # SOURCE DIRECTORY
+
+SHORTOPTS="o:m:g:"
+LONGOPTS="win:,help,genome_file:"
+PROGNAME="prepare_data.sh"
+ARGS=$(getopt -s bash --options $SHORTOPTS  --longoptions $LONGOPTS --name $PROGNAME -- "$@" )
+
+eval set -- "$ARGS"
+while true; do
+	case "$1" in
+	-m) map_file="$2"; mapFlag=1; shift 2; ;;
+        -g) gc_file="$2"; gcFlag=1; shift 2; ;;
+        -o) output_file="$2"; shift 2;;
+        --win) window_size="$2"; windowFlag=1; shift 2; ;;
+	--genome_file) gen_file="$2"; genFlag=1; shift 2; ;;
+        --help) echo "Usage: prepare_data -m <map file> -g <gc content file> --win <window_Size> --genome_file <Genome file> -o <output Prefix> ";
+         exit 1; ;;
+        --) shift; break;;
+        *) echo "Error: Something wrong with the parameters";
+	echo "Requred parameters: -i -o -m -z "; exit 1;;
+	esac
+done
+
+# FILE DOESNT EXIST ERROR
+if [[ ! -f $map_file || ! -f $gc_file || ! -f $gen_file ]]; then
+	echo "One of the input files not found" >&2
+      	exit 1
+fi
+
+#Generate Bin file
+bedtools makewindows -w "$window_size" -g "$gen_file" > $output_file"_"$window_size".bin";
+
+# Generate Map and GC files
+
+Rscript --slave $SOURCEDIR"/source/R/generateMap.R" $map_file "$window_size" $(awk '{print $2}' $gen_file) $output_file; 
+Rscript --slave $SOURCEDIR"/source/R/generateGC.R" $gc_file "$window_size" $(awk '{print $2}' $gen_file) $output_file;
+
+
+
+
