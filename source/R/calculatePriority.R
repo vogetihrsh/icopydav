@@ -2,10 +2,8 @@ isColumnPresent <- function(columnName, listOfColumns) {
   return(columnName %in% listOfColumns)
 }
 
-isExacScorePostive <- function(df, i) {
-  if (df[i, columnNameConstants$EXAC] == ".")
-    return(FALSE)
-  exacScores = unlist(strsplit(df[i, columnNameConstants$EXAC], ","))
+isExacScorePositive <- function(df, i) {
+  exacScores = unlist(strsplit(as.character(df[i, columnNameConstants$EXAC]), ","))
   for (exacScore in exacScores) {
     if (grepl("\\+", exacScore))
       return(TRUE)
@@ -29,7 +27,7 @@ hasAnyFunctionalOverlaps <- function(df, i, dfColumns) {
 }
 
 getDecipherScore <- function(df, i) {
-  entries = unlist(strsplit(df[i, columnNameConstants$DECIPHER], ","))
+  entries = unlist(strsplit(as.character(df[i, columnNameConstants$DECIPHER]), ","))
   minScore = 101
   for (entry in entries) {
     score = unlist(strsplit(entry, "\\|"))[3]
@@ -41,8 +39,8 @@ getDecipherScore <- function(df, i) {
 }
 
 args = commandArgs(TRUE)
-fileName = args[1]
-sourceDir = args[2]
+fileName = args[1];
+sourceDir = args[2];
 source(paste(sourceDir,"ColumnNames.R",sep=""),chdir=FALSE)
 df = read.csv(file=fileName,sep="\t",header=FALSE)
 df = df[-length(df)]
@@ -55,7 +53,7 @@ HIGH = "high"
 MEDIUM = "medium"
 LOW = "low"
 
-for (i in nrow(df)) {
+for (i in 1:nrow(df)) {
   priorites[i] = "."
   # CHECK HIGH PROIRITY CONDITIONS
   # High priority: Overlap with OMIM, ClinVar, positive ExAC score (GENE+1.45), DECIPHER 0-25%
@@ -69,19 +67,19 @@ for (i in nrow(df)) {
     priorites[i] = HIGH
     
   }
-  else if (isColumnPresent(columnNameConstants$EXAC, dfColumns) &&
+  else if (isColumnPresent(columnNameConstants$EXAC, dfColumns) && df[i, columnNameConstants$EXAC] != "." &&
            isExacScorePositive(df, i)) {
     priorites[i] = HIGH
     
   }
-  else if (isColumnPresent(columnNameConstants$DECIPHER, dfColumns) &&
+  else if (isColumnPresent(columnNameConstants$DECIPHER, dfColumns) && df[i,columnNameConstants$DECIPHER] != "." &&
            getDecipherScore(df, i) <= 25) {
     priorites[i] = HIGH
     
   }
   # CHECK MEDIUM PROIRITY CONDITIONS
   # Medium priority: CNVs overlap with protein-coding regions/enhancers/miRNA target sites/lncRNA alone but not clincal data mentioned above.
-  else if (hasAnyFunctionalOverlaps(df, i)) {
+  else if (hasAnyFunctionalOverlaps(df, i, dfColumns)) {
     priorites[i] = MEDIUM
   }
   # CHECK LOW PROIRITY CONDITIONS
@@ -92,12 +90,12 @@ for (i in nrow(df)) {
     priorites[i] = LOW
     
   }
-  else if (isColumnPresent(columnNameConstants$EXAC, dfColumns) &&
+  else if (isColumnPresent(columnNameConstants$EXAC, dfColumns) && df[i, columnNameConstants$EXAC] != "." &&
            !isExacScorePositive(df, i, dfColumns)) {
     priorites[i] = LOW
     
   }
-  else if (isColumnPresent(columnNameConstants$DECIPHER, dfColumns) &&
+  else if (isColumnPresent(columnNameConstants$DECIPHER, dfColumns) && df[i,columnNameConstants$DECIPHER] != "." &&
            getDecipherScore(df, i) > 25) {
     priorites[i] = LOW
     
@@ -108,5 +106,5 @@ write.table(df,
             file = fileName,
             sep = "\t",
             quote = FALSE,
-	    row.names = FALSE
-	    )
+            row.names = FALSE
+)
