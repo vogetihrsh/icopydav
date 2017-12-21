@@ -14,14 +14,14 @@ plotGC <- function(uncorrectedRD,correctedRD,gcContent,fileName){
 	medRD = median(correctedRD);
 
 # write the plots to a PNG file
-	png(filename = paste(fileName,".png",sep = ""), width =1920, height =1080,units = "px", pointsize=20,bg = "white", res = 72);
+	png(filename = paste(fileName,".png",sep = ""), type='cairo',width =1920, height =1080,units = "px", pointsize=20,bg = "white", res = 72);
 
 # start plotting now 
-	par(mfrow = c(2,1));
-	plot(gcContent,uncorrectedRD,main = "Biased RD vs GC-content",col="violet",ylim=c(0,3*medURD),pch='.',xlab="GC fraction",ylab="Read Depth");
-	lines(lowess(gcContent,uncorrectedRD),col="green",lwd=2);
-	plot(gcContent,correctedRD,main = "Corrected RD vs GC-content",col="violet",ylim=c(0,3*medRD),pch='.',xlab="GC fraction",ylab="Read Depth");
-	lines(lowess(gcContent,correctedRD),col="green",lwd=2);
+	#par(mfrow = c(2,1));
+	plot(gcContent,correctedRD,main = "Read Depth vs GC-content",col="Red",ylim=c(0,3*medURD),pch='.',cex=4,xlab="GC fraction",ylab="Read Depth");
+	#lines(lowess(gcContent,uncorrectedRD),col="green",lwd=2);
+	points(gcContent,uncorrectedRD,col="blue",ylim=c(0,3*medRD),pch='.',cex=4,xlab="GC fraction",ylab="Read Depth");
+	#lines(lowess(gcContent,correctedRD),col="green",lwd=2);
 
 }
 

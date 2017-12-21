@@ -88,7 +88,7 @@ while true; do
 	-z) window_file="$2"; shift 2;;
 	-y) MEDIANGCFLAG=1; MEDIANMAPFLAG=1; shift ;;
 	--gcfile) gcFile="$2"; gcFlag=1; shift 2; ;;
-	--help) echo "Usage: preprocess -i <input BAM> -o <output Prefix> --mapfile <mappability file> -z <bin file> --gcfile <GC file>";
+	--help) echo "Usage: preprocess -i <input BAM> -o <output Prefix> -m <mappability file> -z <bin file>";
 		exit 1; ;;
 	--mapThres) mapThres="$2" ; shift 2; ;;
 	--medianGC) MEDIANGCFLAG=1; shift ;; 
@@ -128,17 +128,10 @@ fi
 #***********************************************#
 
 # DATA PREPARATION AND FILTERING 
-samtools view -@ 4 -q 1 -bh $input_file | bedtools bamtobed -i - > $output"_temp.bed";
-#bedtools bamtobed -i $output"_temp1.bam" > $output"_temp.bed"
 
-bedtools coverage -b $output"_temp.bed" -a $window_file > $output"_temp1.bed";
-rm -rf $output"_temp.bed";
-
-sort -n -k2 $output"_temp1.bed" -o $output"_temp1.bed";
-paste $output"_temp1.bed" $mappability_file > $output"_temp2";
-mv $output"_temp2" $output"_temp1.bed";
-awk '{print $4,$5,$8,$2,$3}' $output"_temp1.bed"> $output"_temp1";
-
+Rscript --slave $SOURCEDIR"/source/R/binCoverage.R" $input_file $window_file > RD 
+paste $window_file RD $mappability_file > $output"_temp1.bed"
+awk '{print $4,$4,$5,$2,$3}' $output"_temp1.bed"> $output"_temp1";
 
 # check for gc correction, if yes correct 
 # check whether to correct with Yoon method or Loess Method
@@ -156,7 +149,7 @@ fi
 
 awk -v mapThres="$mapThres" '{if($1!=0&&$2!=0&&$3>=mapThres) print $1;}' $output"_temp1" > $output"_pCNVD.input";
 awk -v mapThres="$mapThres" '{if($1!=0&&$2!=0&&$3>=mapThres)print $4,$5;}' $output"_temp1" > $output"_pCNVD.bincor"; 
-rm -rf $output"_temp1.bed" $output"_temp1";
+rm -rf $output"_temp1.bed" $output"_temp1" RD;
 
 
 # check for gc correction flag and run external R script 

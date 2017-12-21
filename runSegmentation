@@ -112,7 +112,7 @@ function runTVAlgorithm {
 outputPrefix="";
 noOfProcesses=32;
 tvmFlag=0;
-cbsFlag=0;
+dnaCopyFlag=0;
 SOURCEDIR=$(dirname $(readlink -f $0));
 
 SHORTOPTS="p:o:td"
@@ -125,7 +125,7 @@ while true; do
 	-o) outputPrefix="$2"; shift 2; ;;
 	-p) noOfProcesses="$2"; shift 2; ;;
 	-t) tvmFlag=1; shift; ;;
-	-d) cbsFlag=1; shift ; ;;
+	-d) dnaCopyFlag=1; shift ; ;;
 	--help) echo "Usage: runSegmentation -o <output prefix> <one or both segmentation flags (-t, -d)>"; exit 1; shift; ;;
 	--) shift; break ;;
 	\?) echo "Invalid option: -$1" >& 2 exit ;;
@@ -139,7 +139,7 @@ if [[ ! -f "$inputFile" ]]; then
          echo "ERROR: input file" $inputFile "not found. Check if such a file exists and correct prefix is passed to -o" >&2
 	exit
 fi	
-if [[ tvmFlag -eq 0 && cbsFlag -eq 0 ]]; then
+if [[ tvmFlag -eq 0 && dnaCopyFlag -eq 0 ]]; then
 	echo "Requires flag anyone of the flags -t and -d"
 	exit
 fi	
@@ -151,7 +151,7 @@ if [[ tvmFlag -eq 1 ]]; then
 	runTVAlgorithm ;
 fi	
 
-if [[ cbsFlag -eq 1 ]]; then 
+if [[ dnaCopyFlag -eq 1 ]]; then 
 	runDNACopy ;
 fi	
 

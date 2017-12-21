@@ -27,6 +27,11 @@ while true; do
 	echo "Requred parameters: -i -o -m -z "; exit 1;;
 	esac
 done
+# MINIMUM REQUIRED PARAMETERS
+#if [[ -z "$map_file" || -z "$gc_file" || -z "$window_size" || -z "$gen_file"|| -z "$output" ]]; then
+#	echo "Missing one of the required parameters: mappability_file (-m) gc_file (-g) window_size (--win) genome_file (--genome_file) or output (-o) " >&2
+#	exit
+#fi
 
 # FILE DOESNT EXIST ERROR
 if [[ ! -f $map_file || ! -f $gc_file || ! -f $gen_file ]]; then
