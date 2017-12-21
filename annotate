@@ -145,13 +145,13 @@ if [[ -f $TR ]]; then
 fi
 if [[ -f $clinVarFile ]]; then
 	echo "Annotating with clinical var pathogenicity"
-	annotate $clinVarFile 0 7 "-F 0.5"
+	annotate $clinVarFile 0 7 "-f 0.5"
 	COMMENT_LINE=$COMMENT_LINE"	ClinVar_pathogenicity"
 fi
 
 if [[ -f $clinVarFile ]]; then
          echo "Annotating with clinical var"
-        annotate $clinVarFile 0 9 "-F 0.5"
+        annotate $clinVarFile 0 9 "-f 0.5"
          COMMENT_LINE=$COMMENT_LINE"	ClinVar_Phenotype"
 fi
 
