@@ -73,8 +73,8 @@ function runMedianMapCorrection(){
 #	AND SET PARAMETERS		#
 #***************************************#
 
-SHORTOPTS="ybp:i:o:m:z:"
-LONGOPTS="gcfile:,mapThres:,help,medianGC,medianMap,loessGC"
+SHORTOPTS="ybp:i:o:z:"
+LONGOPTS="gcfile:,mapfile:,mapThres:,help,medianGC,medianMap,loessGC"
 PROGNAME="preprocess.sh"
 ARGS=$(getopt -s bash --options $SHORTOPTS  --longoptions $LONGOPTS --name $PROGNAME -- "$@" ) 
 
@@ -84,11 +84,11 @@ while true; do
 	-p) no_of_procs="$2"; shift 2 ;;
 	-i) input_file="$2"; shift 2;;
 	-o) output="$2"; shift 2;;
-	-m) mappability_file="$2"; shift 2;;
+	--mapfile) mappability_file="$2"; shift 2;;
 	-z) window_file="$2"; shift 2;;
 	-y) MEDIANGCFLAG=1; MEDIANMAPFLAG=1; shift ;;
 	--gcfile) gcFile="$2"; gcFlag=1; shift 2; ;;
-	--help) echo "Usage: preprocess -i <input BAM> -o <output Prefix> -m <mappability file> -z <bin file>";
+	--help) echo "Usage: preprocess -i <input BAM> -o <output Prefix> --mapfile <mappability file> -z <bin file> --gcfile <GC file>";
 		exit 1; ;;
 	--mapThres) mapThres="$2" ; shift 2; ;;
 	--medianGC) MEDIANGCFLAG=1; shift ;; 
