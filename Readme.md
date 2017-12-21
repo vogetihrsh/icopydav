@@ -8,10 +8,10 @@ Make sure that these tools are added to your PATH variable
 * samtools ([link](https://sourceforge.net/projects/samtools/))
 * bedtools (>=2.26) ([link](http://bedtools.readthedocs.org/en/latest/content/installation.html))
 * openMPI  ([Installation Guide](http://lsi.ugr.es/~jmantas/pdp/ayuda/datos/instalaciones/Install_OpenMPI_en.pdf))
-* R-packages - DNACopy, ParDNACopy, quantsmooth, bamsignals
+* R-packages - DNACopy, ParDNACopy, quantsmooth, GenomicAlignments
 
 ## Installation
-Download the source code from https://github.com/vogetihrsh/pCNVD-1.0-dev, extract the zip file
+Download the source code from https://github.com/vogetihrsh/SVINGS/, extract the zip file
 
 ```
 unzip SVINGS.zip
@@ -39,7 +39,7 @@ make
 ./callCNV -o <output prefix> -z <bed file contaning bins> <genome flag (--hg18 or --hg19)>
 
 # ANNOTATION 
-./annotate -i <input bed file> -o <output prefix> <genome flag (--hg19 or --h19)>
+./annotate -i <input bed file> -o <output prefix> <genome flag (--hg18 or --hg19)>
 
 # PLOT
 ./plot -i <input bed file> -o <output file name> <genome flag (--hg18 or --hg19)>
