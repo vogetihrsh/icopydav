@@ -8,7 +8,7 @@ Make sure that these tools are added to your PATH variable
 * samtools ([link](https://sourceforge.net/projects/samtools/))
 * bedtools (>=2.26) ([link](http://bedtools.readthedocs.org/en/latest/content/installation.html))
 * openMPI  ([Installation Guide](http://lsi.ugr.es/~jmantas/pdp/ayuda/datos/instalaciones/Install_OpenMPI_en.pdf))
-* R-packages - DNACopy, ParDNACopy, quantsmooth, GenomicAlignments
+* R-packages - DNACopy, ParDNACopy, quantsmooth, GenomicAlignments, rtracklayers
 
 ## Installation
 Download the source code from https://github.com/vogetihrsh/SVINGS/, extract the zip file
