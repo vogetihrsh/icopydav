@@ -7,5 +7,5 @@ genomeSize=10000000
 percCNLoss=0.05
 percCNGain=0.05
 fdr=0.01
-overDispersion=3
+overDispersion=3 # Value = 2 for low coverage data
 ploidy=2
