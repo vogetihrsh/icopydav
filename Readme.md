@@ -30,7 +30,7 @@ Please download annotations from http://bioinf.iiit.ac.in/svings/ and add the fo
 ./prepareData -m <mappability file> -g <gc content file> --win <desired window size> --genome_file <Genome file> -o <Output file name prefix>
 
 # PRETREATMENT STEP
-./pretreatment -i <input BAM> -z <bed file containing bins> -m < file contaning mappability values> -o <output prefix> 
+./pretreatment -i <input BAM> -z <bed file containing bins> --mapfile < file contaning mappability values> -o <output prefix> --gcfile <file containing GC scores>
 
 # SEGMENTATION
 ./runSegmentation -o <output prefix> <-t or -d or both>
