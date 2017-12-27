@@ -18,7 +18,7 @@ unzip SVINGS.zip
 cd SVINGS
 make 
 ```
-
+Please download annotations from http://bioinf.iiit.ac.in/svings/ and add the folder to working directory.
 
 ## Usage
 
