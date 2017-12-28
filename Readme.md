@@ -12,14 +12,14 @@ Make sure that these tools are added to your PATH variable
 * R-packages - DNACopy, ParDNACopy, quantsmooth, GenomicAlignments, rtracklayers
 
 ## Installation
-Download the source code from https://github.com/vogetihrsh/SVINGS/, extract the zip file
+Download the source code from https://github.com/vogetihrsh/icopydav, extract the zip file
 
 ```
 unzip iCopyDAV.zip
 cd iCopyDAV
 make 
 ```
-Please download annotations from http://bioinf.iiit.ac.in/svings/ and add the folder to working directory.
+Please download annotations from http://bioinf.iiit.ac.in/icopydav/ and add the folder to working directory.
 
 ## Usage
 
