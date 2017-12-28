@@ -1,4 +1,5 @@
-#  SVINGS: Structural Variants Identification in Next Generation Sequencing Data
+#  iCopyDAV: Integrated platform for Copy number variations – Detection, Annotation and Visualization
+
 
 Version -1 for CNV detection Pipeline
 # RD based CNV detection tool
@@ -14,8 +15,8 @@ Make sure that these tools are added to your PATH variable
 Download the source code from https://github.com/vogetihrsh/SVINGS/, extract the zip file
 
 ```
-unzip SVINGS.zip
-cd SVINGS
+unzip iCopyDAV.zip
+cd iCopyDAV
 make 
 ```
 Please download annotations from http://bioinf.iiit.ac.in/svings/ and add the folder to working directory.
