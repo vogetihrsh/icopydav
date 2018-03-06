@@ -78,8 +78,8 @@ Pretreatment, runSegmentation, callCNV should have same value for the parameter 
 |-p | Yes/INTEGER | Default Value: 32. Number of processes to be created for parallelization. | Optional |
 | - -help | No/-  | Prints usage statement. Should be exclusively used. | Optional |
 |-y| No/- | When used Yoon et al. method for GC correction and mappability correction is applied to the data| Optional|
-|--yoonGC| No/-|Use Yoon et al method for GC correction | Optional|
-|--yoonMap| No/-|Use Yoon et al method for Mappability correction | Optional|
+|--medianGC| No/-|Use Median-based method (Yoon et al) for GC correction | Optional|
+|--medianMap| No/-|Use Median-based method (Yoon et al) for Mappability correction | Optional|
 |--loessGC| No/-| Use Loess method to correct GC-Bias | Optional |
 |--gcfile | No/- | File containing GC content values ([0,1]) generated in prepareData, required when using LoessGC/medianGC options| Optional|
 
